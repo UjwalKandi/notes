@@ -1,5 +1,3 @@
-Here is the fully updated Category 3 with Vitamin D3 optimally integrated throughout. Only the sections that change are revised — all original content is preserved.
-
 ---
 
 # 💊 CATEGORY 3 — SUPPLEMENTS *(Updated: Vitamin D3 Added)*
