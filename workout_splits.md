@@ -1,7 +1,6 @@
-
 ---
 
-# 🏋️ CATEGORY 2 — WORKOUT SPLITS
+# 🏋️ CATEGORY 2 — WORKOUT SPLITS *(Revised: Time-Optimised)*
 
 ---
 
@@ -19,22 +18,24 @@
 
 ### Full Week at a Glance
 
-| Day | Session | Focus |
-|---|---|---|
-| **Monday** | Pull A | Back Width + Biceps + Forearms |
-| **Tuesday** | Push A | Chest + Lateral Delts + Triceps |
-| **Wednesday** | Legs + Core | Legs + Abs + Core |
-| **Thursday** | Active Recovery | Cardio + Mobility |
-| **Friday** | Pull B | Back Thickness + Rear Delts + Traps |
-| **Saturday** | Push B | Shoulders (All 3 Heads) + Upper Chest + Traps + Neck |
-| **Sunday** | Full Rest | — |
+| Day | Session | Focus | Workout Time | + Cardio |
+|---|---|---|---|---|
+| **Monday** | Pull A | Back Width + Biceps | ~40 min | + 20 min incline treadmill |
+| **Tuesday** | Push A | Chest + Lateral Delts + Triceps | ~42 min | + 20 min incline treadmill |
+| **Wednesday** | Legs + Core | Legs + Core | ~48 min | Skip — legs too fatigued |
+| **Thursday** | Active Recovery | Cardio + Mobility | — | 20–30 min incline treadmill |
+| **Friday** | Pull B | Back Thickness + Rear Delts + Traps | ~45 min | + 20 min incline treadmill (if energy allows) |
+| **Saturday** | Push B | Shoulders (All 3 Heads) + Traps | ~45 min | + 20 min incline treadmill |
+| **Sunday** | Full Rest | — | — | — |
+
+> **Time Design Rule:** Every session is designed to finish within 45–50 minutes of actual working sets. Including a 5-minute warmup, you are out of the lifting floor in under 55 minutes. The 20-minute inclined treadmill is always separate and always optional — do it when energy and schedule allow, but never let it cut into lifting time.
 
 ---
 
 ### Key to Exercise Tables
 
-> ⭐ = Exercise carried directly from your existing routine
-> 🆕 = New addition for V-taper development
+> ⭐ = Exercise carried directly from your existing routine — same movement, same feel
+> 🆕 = Single critical addition per day for V-taper development — kept to a minimum
 
 ---
 
@@ -42,164 +43,201 @@
 
 | Muscle Group | Trained On | Weekly Sets |
 |---|---|---|
-| Lats (Width) | Monday | 4–5 sets |
-| Lats (Thickness) | Friday | 4–5 sets |
-| Shoulders — Lateral Head | Tuesday + Saturday | 7–8 sets |
-| Shoulders — Rear Delt | Monday + Friday | 6–7 sets |
-| Shoulders — Front Delt | Tuesday + Saturday | 4–5 sets |
+| Lats (Width) | Monday | 7 sets |
+| Lats + Back Thickness | Friday | 7–8 sets |
+| Shoulders — Lateral Head | Tuesday + Saturday | 7 sets |
+| Shoulders — Rear Delt | Friday | 3 sets |
 | Chest | Tuesday + Saturday | 6–7 sets |
 | Biceps | Monday + Friday | 6 sets |
 | Triceps | Tuesday + Saturday | 6 sets |
-| Forearms | Monday + Friday | 4–6 sets |
 | Traps | Friday + Saturday | 6–7 sets |
-| Neck | Saturday + optional Thursday | 3–4 sets |
-| Core / Abs | Wednesday | 6–7 sets |
+| Core / Abs | Wednesday | 3 sets |
 | Legs | Wednesday | 4–5 sets each movement |
 
 ---
 
-## 2.2 — Monday: PULL A — Back Width + Biceps + Forearms
+## 2.2 — Monday: PULL A — Back Width + Biceps
+**Session time: ~40 min | + 20 min incline treadmill**
 
-**Anchor exercises from your existing Pull Day:** Lat Pulldown (Wide + Close Grip), Face Pull, Hammer Curl, Bicep Curl
-
-*Your 7-exercise Pull Day is now split across two days. Monday takes the width-focused and bicep movements. Friday takes the rowing and trap movements. Both sessions are shorter, more focused, and higher quality.*
+*All five exercises are from your existing Pull Day — zero disruption to what you already know.*
 
 | # | Exercise | Sets | Reps | Rest | |
 |---|---|---|---|---|---|
-| 1 | Pull-Ups / Assisted Pull-Ups | 4 | 5–8 | 2 min | 🆕 |
-| 2 | Lat Pulldown — Wide Grip (Cable) | 4 | 8–10 | 90 sec | ⭐ |
-| 3 | Lat Pulldown — Close Grip (Cable) | 3 | 10–12 | 90 sec | ⭐ |
-| 4 | Face Pull | 3 | 15–20 | 60 sec | ⭐ |
-| 5 | Hammer Curl (Dumbbell) | 3 | 10–12 | 60 sec | ⭐ |
-| 6 | Bicep Curl (Dumbbell) | 3 | 8–10 | 90 sec | ⭐ |
-| 7 | Wrist Curl + Reverse Curl *(superset)* | 3 | 15 each | 45 sec | 🆕 |
+| 1 | Lat Pulldown — Wide Grip (Cable) | 4 | 8–10 | 90 sec | ⭐ |
+| 2 | Lat Pulldown — Close Grip (Cable) | 3 | 10–12 | 90 sec | ⭐ |
+| 3 | Face Pull | 3 | 15–20 | 60 sec | ⭐ |
+| 4 | Hammer Curl (Dumbbell) | 3 | 10–12 | 60 sec | ⭐ |
+| 5 | Bicep Curl (Dumbbell) | 3 | 8–10 | 75 sec | ⭐ |
 
-**Why this structure works:** You open with Pull-Ups when energy is freshest — the most demanding movement. Both familiar Lat Pulldown variations follow and reinforce the same motor pattern at controlled intensity. Face Pulls, Hammer Curls, and Bicep Curls are all exercises you already know. The forearm superset at the end is low-fatigue and directly builds toward the large forearm goal.
+> **Pull-Ups — Optional Warmup:** Before your first Lat Pulldown, attempt 2–3 sets of Pull-Ups (or Assisted Pull-Ups) as a warmup. When you can do 3 × 8 comfortably, replace the Wide-Grip Lat Pulldown with Pull-Ups entirely in Phase 2. Not a requirement right now — just a progression goal.
 
-**Overload:** On Pull-Ups, add 1 rep per set each week. Once you hit 4×8 consistently, add a 2.5 kg plate via belt. On both Lat Pulldowns, add 5 lbs when all reps are completed cleanly for 2 sessions in a row.
+**Why this structure works:** Both Lat Pulldown variations train the exact same movement pattern back-to-back while energy is highest, maximising lat width stimulus. Face Pulls follow for rear delt and rotator cuff health — critical for shoulder longevity under pressing load. Bicep work finishes the session with the muscles already warmed up from pulling.
+
+**Overload:** Wide-Grip Lat Pulldown is your primary strength marker for this day. Add 5 lbs when you complete all sets and reps cleanly for 2 sessions in a row.
 
 ---
 
 ## 2.3 — Tuesday: PUSH A — Chest + Lateral Delts + Triceps
+**Session time: ~42 min | + 20 min incline treadmill**
 
-**Anchor exercises from your existing Push Day:** Bench Press (Barbell), Butterfly/Pec Deck, Single Arm Lateral Raise (Cable), Triceps Rope Pushdown
+*Four of your five existing Push Day exercises are here. One new exercise added for upper chest — the only gap in your current program.*
 
 | # | Exercise | Sets | Reps | Rest | |
 |---|---|---|---|---|---|
 | 1 | Bench Press (Barbell) | 4 | 6–8 | 2 min | ⭐ |
 | 2 | Incline Dumbbell Press | 3 | 8–10 | 90 sec | 🆕 |
 | 3 | Butterfly / Pec Deck | 3 | 12–15 | 60 sec | ⭐ |
-| 4 | Single Arm Lateral Raise (Cable) | 4 | 15–20 | 60 sec | ⭐ |
-| 5 | Dumbbell Lateral Raise (both arms) | 3 | 15–20 | 60 sec | 🆕 |
-| 6 | Triceps Rope Pushdown | 3 | 12–15 | 60 sec | ⭐ |
-| 7 | Overhead Tricep Extension (Dumbbell) | 3 | 10–12 | 60 sec | 🆕 |
+| 4 | Single Arm Lateral Raise (Cable) | 3 | 15–20 | 60 sec | ⭐ |
+| 5 | Triceps Rope Pushdown | 3 | 12–15 | 60 sec | ⭐ |
 
-**Why this structure works:** All four of your Push Day exercises are here. Incline Press slots between Bench and Pec Deck to build the upper chest shelf that creates a full chest silhouette. The DB Lateral Raise follows your cable version for additional shoulder width volume. The Overhead Extension adds long-head tricep work that your Rope Pushdown alone misses.
+> **Why Incline Press:** Your existing chest routine has flat press (Bench) and isolation (Pec Deck) but no upper chest development. The upper chest creates the "shelf" above the pec that makes the chest look full and thick — critical for the V-taper look. Incline DB Press slots naturally between the two exercises you already know.
 
-**Overload:** Bench Press is the primary strength benchmark for this day. Add 2.5–5 lbs every 1–2 weeks. For lateral raises, add reps before adding weight — control and squeeze matters more than load.
+> **Note on Shoulder Press:** Your DB Shoulder Press from the existing Push Day is on Saturday Push B where it gets full dedicated attention as the primary movement of the session.
+
+**Overload:** Bench Press is your primary strength benchmark for this day. Add 2.5–5 lbs every 1–2 weeks.
 
 ---
 
 ## 2.4 — Wednesday: LEGS + CORE
+**Session time: ~48 min | No cardio — skip treadmill after legs**
 
-**Anchor exercises from your existing Leg Day:** Leg Press, Seated Leg Curl, Leg Extension, Seated Calf Raise
-
-**Important core note:** Stick to exercises that develop the rectus abdominis (the vertical muscles creating the flat, tight stomach look). Avoid heavy oblique rotation work — it can widen the waist and work directly against the V-taper silhouette.
+*All four of your existing Leg Day exercises are kept. One squat movement added before machines. One core exercise added at the end.*
 
 | # | Exercise | Sets | Reps | Rest | |
 |---|---|---|---|---|---|
-| 1 | Goblet Squat *(transition to Barbell Back Squat at Week 5)* | 4 | 8–10 | 90 sec | 🆕 |
+| 1 | Goblet Squat *(move to Barbell Back Squat at Week 5)* | 4 | 8–10 | 90 sec | 🆕 |
 | 2 | Leg Press (Machine) | 3 | 10–12 | 90 sec | ⭐ |
 | 3 | Leg Extension (Machine) | 3 | 12–15 | 60 sec | ⭐ |
 | 4 | Seated Leg Curl (Machine) | 3 | 10–12 | 60 sec | ⭐ |
-| 5 | Seated Calf Raise | 4 | 15–20 | 60 sec | ⭐ |
-| 6 | Hanging Leg Raise | 3 | 10–15 | 60 sec | 🆕 |
-| 7 | Cable Crunch | 3 | 15–20 | 60 sec | 🆕 |
-| 8 | Plank Hold | 3 | 45–60 sec | 45 sec | 🆕 |
+| 5 | Seated Calf Raise | 3 | 15–20 | 60 sec | ⭐ |
+| 6 | Plank Hold | 3 | 45–60 sec | 45 sec | 🆕 |
 
-**Why this structure works:** Starting with a squat before machine work drives far greater hormonal response (testosterone + growth hormone release) than machines alone — this benefits the entire body's muscle-building environment for the week. Your four familiar machine exercises follow in a logical order. Core work at the end adds the midsection conditioning required for the V-taper look.
+> **Squat before machines — why it matters:** Heavy compound leg work triggers the largest testosterone and growth hormone release of any workout in the week. This hormonal spike benefits your entire body's recovery and muscle building — not just your legs. Your Leg Press becomes the secondary movement here, which means you'll have more energy for the squat and still hit everything you already know. The Plank at the end is 3 minutes of total time and directly tightens the midsection.
 
-**Squat transition:** Use Goblet Squat (dumbbell held at chest) for the first 4 weeks to learn the pattern and build depth. Move to Barbell Back Squat from Week 5 onward.
+> **Why no cardio on Wednesday:** Your four leg machines plus squats generate significant systemic fatigue. Adding treadmill after would compromise recovery and increase the risk of overuse injury to the knees and hips. Thursday's dedicated cardio session makes up for it.
 
-**Overload:** Squat and Leg Press are your primary lower body strength benchmarks. Add 5–10 lbs every 1–2 weeks.
+**Squat transition:** Weeks 1–4: Goblet Squat (dumbbell held at chest, learn the movement). Week 5 onward: Barbell Back Squat.
 
 ---
 
-## 2.5 — Thursday: ACTIVE RECOVERY
+## 2.5 — Thursday: ACTIVE RECOVERY + CARDIO
+**Cardio only — no lifting**
 
-- 30–45 min low-intensity cardio: brisk walk, light cycling, or swimming
-- 10–15 min foam rolling: quads, hamstrings, lats, upper back, thoracic spine
-- 10 min mobility: hip flexors, shoulder circles, doorway chest stretch, thoracic rotations
-- **Optional neck training:** 3 × 15–20 reps of neck flexion + extension (very light plate or band, lying on bench). Adds visible neck thickness within 8–10 weeks of consistent training.
+This is your **dedicated cardio day** — the one day where the full 20–30 minutes of inclined treadmill happens without any time pressure from lifting.
+
+| Activity | Duration | How |
+|---|---|---|
+| **Inclined Treadmill** | 20–30 min | 10–15% incline, 3.5–4.5 mph brisk pace. Steady state — you should be able to hold a conversation but breathing noticeably. |
+| Foam Rolling | 10 min | Quads, hamstrings, lats, upper back, thoracic spine |
+| Mobility | 10 min | Hip flexors, shoulder circles, doorway chest stretch, thoracic rotations |
+
+> **Why inclined treadmill specifically:** Incline walking at 10–15% grade hits the glutes, hamstrings, and calves with significantly higher activation than flat walking — while keeping joint impact minimal. It burns 2–3× more calories than flat walking at the same pace, making it the most time-efficient low-impact cardio option available. This directly supports fat loss for the V-taper waistline goal without the cortisol spike of HIIT, which would work against muscle retention.
 
 ---
 
 ## 2.6 — Friday: PULL B — Back Thickness + Rear Delts + Traps
+**Session time: ~45 min | + 20 min incline treadmill (if energy allows — optional)**
 
-**Anchor exercises from your existing Pull Day:** Seated Cable Row (V-Grip), Dumbbell Shrug, Bicep Curl (Dumbbell)
-
-*Your Seated Cable Row was previously buried mid-session after multiple exercises had fatigued your back. Here it is the primary heavy compound row — done with full energy and significantly more weight.*
+*Three of your existing Pull Day exercises anchor this session. Two targeted additions fill the biggest gaps in your current program.*
 
 | # | Exercise | Sets | Reps | Rest | |
 |---|---|---|---|---|---|
-| 1 | Romanian Deadlift *(start light — focus on hip hinge form first)* | 4 | 8–10 | 2 min | 🆕 |
+| 1 | Romanian Deadlift *(start with barbell only — form first)* | 4 | 8–10 | 2 min | 🆕 |
 | 2 | Seated Cable Row — V Grip (Cable) | 4 | 8–10 | 90 sec | ⭐ |
-| 3 | Dumbbell Shrug | 4 | 10–12 | 90 sec | ⭐ |
+| 3 | Dumbbell Shrug | 3 | 10–12 | 90 sec | ⭐ |
 | 4 | Rear Delt Dumbbell Fly | 3 | 15–20 | 60 sec | 🆕 |
-| 5 | Bicep Curl (Dumbbell) | 3 | 8–10 | 90 sec | ⭐ |
-| 6 | Incline Dumbbell Curl | 3 | 10–12 | 60 sec | 🆕 |
-| 7 | Farmer's Carry | 3 | 30m walk | 60 sec | 🆕 |
+| 5 | Bicep Curl (Dumbbell) | 3 | 8–10 | 75 sec | ⭐ |
 
-**Why this structure works:** The Romanian Deadlift addresses the biggest gap in your current program — posterior chain and compound pulling strength. It is the single most impactful new movement in the entire plan. Your Shrugs remain exactly where you know them, now with more purpose as a dedicated trap builder. Rear Delt Fly builds the 3D shoulder fullness from behind. Farmer's Carry at the end is one of the best functional forearm and trap builders available.
+> **Romanian Deadlift — the most important new exercise in the plan:** Your current Pull Day has no hip hinge or posterior chain movement. The RDL builds the thick, dense back that creates the V-taper from behind, develops hamstrings, glutes, and lower back, and triggers more anabolic hormone release than any other single pull movement. Spend the first 2 weeks with just the barbell learning the form: push hips back, soft knees, bar drags along the legs, back flat throughout. Add weight only once the movement feels natural.
 
-**Romanian Deadlift note:** Spend the first 2 weeks using only the barbell (45 lbs) to learn the hip hinge. Push hips back, soft knees, bar drags along the legs, back flat. Add weight only once the movement feels natural and controlled.
+> **Seated Cable Row promotion:** This is now the primary heavy compound row of your program — done second while energy is still high, not buried in the middle of 7 exercises as it was before. You will lift noticeably heavier here.
 
-**Overload:** Seated Cable Row — add 5 lbs when you complete 4×10 cleanly. Romanian Deadlift — add 5–10 lbs every 1–2 weeks once form is solid.
+> **Cardio note:** Friday has the heaviest pulling session of the week (Deadlift + Row back-to-back). If energy is low after training, skip the treadmill. Consistency over 6 months matters more than one extra cardio session.
+
+**Overload:** Romanian Deadlift and Seated Cable Row are both primary strength benchmarks for this day. Add 5–10 lbs to RDL every 1–2 weeks once form is solid. Add 5 lbs to the row when 4×10 is completed cleanly.
 
 ---
 
-## 2.7 — Saturday: PUSH B — Shoulders (All 3 Heads) + Upper Chest + Traps + Neck
+## 2.7 — Saturday: PUSH B — Shoulders (All 3 Heads) + Traps
+**Session time: ~45 min | + 20 min incline treadmill**
 
-**Anchor exercises from your existing Push Day:** Dumbbell Shoulder Press, Single Arm Lateral Raise (Cable), Triceps Rope Pushdown, Dumbbell Shrug *(from Pull Day, now used here for the second weekly trap hit)*
-
-*Saturday is the highest-priority training day in the entire program. This is the session that most directly builds the V-taper silhouette.*
+*Three of your existing Push and Pull Day exercises anchor this session. One new addition that builds directly on the DB Press you already know.*
 
 | # | Exercise | Sets | Reps | Rest | |
 |---|---|---|---|---|---|
 | 1 | Dumbbell Shoulder Press | 4 | 6–8 | 2 min | ⭐ |
 | 2 | Arnold Press | 3 | 10–12 | 90 sec | 🆕 |
-| 3 | Incline Dumbbell Press | 3 | 8–10 | 90 sec | 🆕 |
-| 4 | Single Arm Lateral Raise (Cable) | 4 | 15–20 | 60 sec | ⭐ |
-| 5 | Dumbbell Lateral Raise (both arms) | 3 | 15–20 | 60 sec | 🆕 |
-| 6 | Dumbbell Shrug | 3 | 12–15 | 60 sec | ⭐ |
-| 7 | Neck Flexion + Extension *(plate or band, lying on bench)* | 3 | 15–20 | 45 sec | 🆕 |
-| 8 | Triceps Rope Pushdown | 3 | 10–12 | 60 sec | ⭐ |
+| 3 | Single Arm Lateral Raise (Cable) | 4 | 15–20 | 60 sec | ⭐ |
+| 4 | Dumbbell Shrug | 3 | 12–15 | 90 sec | ⭐ |
+| 5 | Triceps Rope Pushdown | 3 | 10–12 | 60 sec | ⭐ |
 
-**Why this structure works:** Your DB Shoulder Press is the anchor — done first with full energy at its heaviest. Arnold Press builds directly on the same movement pattern you already know, adding rotation to hit all three delt heads in a single exercise. The two lateral raise variations (cable + dumbbell) together create the highest shoulder width stimulus in the entire week. Neck training is the easiest cosmetic upgrade available — 3 sets twice a week adds visible neck thickness within 8–10 weeks.
+> **Saturday is the most important training day in the program for your V-taper goal.** Every exercise here directly builds the wide, capped shoulder silhouette. Your DB Shoulder Press is done first at its heaviest. Arnold Press is the one new addition — it is essentially the same dumbbell press you already do, with a rotation that hits all three deltoid heads in one movement. The transition is immediate and natural.
 
-**Overload:** Dumbbell Shoulder Press is the primary strength benchmark for this day and the most important progression in the entire program for your goals. Track it carefully. Add 2.5–5 lbs every 1–2 weeks. Lateral raises — add 2.5 lbs only when all reps are completed with strict form and no momentum.
+> **Why no Incline DB Press here:** Incline Press is on Tuesday. Saturday keeps shoulders as the exclusive focus with the highest volume of lateral raises in the week — this is where shoulder width is built.
+
+> **Optional neck addition (3 min, if time allows):** After Rope Pushdown, lie on the bench and do 3 × 15–20 neck flexion and extension with a light plate. This is entirely optional but consistently delivering the biggest cosmetic return for time invested anywhere in the program.
+
+**Overload:** Dumbbell Shoulder Press is the primary strength benchmark of the entire program for your goals. Track it every single week. Add 2.5–5 lbs every 1–2 weeks. This number going up week over week is the most direct indicator that your V-taper is progressing.
 
 ---
 
 ## 2.8 — Sunday: FULL REST
 
-No training. No gym. Eat at calorie target. Prioritize 7–9 hours of sleep. Walk or stretch gently if desired.
+No training. No gym. No cardio. Eat at calorie target. Prioritize 7–9 hours sleep. Walk or stretch if you want to — keep it gentle.
 
 ---
 
-## 2.9 — First 2 Weeks Transition Guide
+## 2.9 — Inclined Treadmill Cardio — Integration Guide
 
-Do not attempt to add all new exercises at once.
+### Recommended Cardio Protocol
+
+| Setting | Value |
+|---|---|
+| Incline | 10–15% |
+| Speed | 3.5–4.5 mph (brisk walking pace) |
+| Duration | 20 minutes |
+| Intensity | Low-moderate (LISS — can hold a conversation but breathing is elevated) |
+| Heart Rate Zone | 60–70% of max heart rate (~115–135 bpm for age 28) |
+
+### Why Inclined Walking Over Running or HIIT
+
+| Factor | Inclined Walk | Running / HIIT |
+|---|---|---|
+| Joint impact | Very low | High |
+| Cortisol spike | Minimal | Significant |
+| Fat burning efficiency | High (sustained fat oxidation zone) | High but cortisol-driven muscle catabolism risk |
+| Recovery impact | Negligible — next session unaffected | Requires 24–48 hr recovery |
+| Compatibility with 6-day training | ✅ Ideal | ⚠️ Risky for recovery at this frequency |
+
+> For someone doing 6 days of resistance training and eating in a caloric deficit, LISS cardio on an incline is the most effective and safest fat-loss addition available. HIIT at this training frequency increases cortisol, impairs recovery, and can stall muscle growth.
+
+### Weekly Cardio Schedule
+
+| Day | Cardio Recommendation |
+|---|---|
+| **Monday** | ✅ 20 min after Pull A — muscles worked don't overlap with treadmill |
+| **Tuesday** | ✅ 20 min after Push A |
+| **Wednesday** | ❌ Skip — legs are fatigued, treadmill uses same muscles |
+| **Thursday** | ✅ 20–30 min — dedicated cardio day, full focus |
+| **Friday** | ⚠️ Optional — do it if energy is good. Skip if heavy RDL session depleted you. |
+| **Saturday** | ✅ 20 min after Push B — good energy on shoulder day |
+| **Sunday** | ❌ Rest |
+
+**Minimum effective dose:** 3 cardio sessions per week (Thursday always + any 2 others) is sufficient to support fat loss at this deficit. 5 sessions per week is optimal. Never force it at the cost of feeling too fatigued to train the next day.
+
+---
+
+## 2.10 — First 2 Weeks Transition Guide
 
 | Week | Approach |
 |---|---|
-| **Week 1** | Perform only your familiar ⭐ exercises in each session. Get used to the new 6-day structure and training days. |
-| **Week 2** | Add one 🆕 exercise per session. Start light, treat it as a learning set, focus entirely on form. |
+| **Week 1** | Perform only your familiar ⭐ exercises in each session. Get used to the new 6-day structure and the fact that sessions are now split by focus area. |
+| **Week 2** | Add the one 🆕 exercise per session. Start light on Romanian Deadlift and Incline Press — form only, no ego. |
 | **Week 3 onward** | Full program as written. Progressive overload begins in earnest. |
 
 ---
 
-## 2.10 — Progressive Overload Strategy
+## 2.11 — Progressive Overload Strategy
 
 ### The Double Progression Method — Applies to Every Exercise
 
@@ -222,7 +260,7 @@ Do not attempt to add all new exercises at once.
 | Rest — isolation lifts | 60–90 seconds |
 | Tempo | 2–3 seconds down (eccentric), 1 second up (concentric) |
 | Training intensity (RPE) | 7–8 out of 10 — leave 2–3 reps in the tank |
-| Cardio | 30–45 min LISS on Thursday active rest only |
+| Cardio | As per weekly schedule above |
 | Deload | Week 9 — reduce all weights by 40%, same exercises, prioritize form |
 
 **Key Phase 1 principles:**
@@ -243,7 +281,7 @@ Do not attempt to add all new exercises at once.
 | Rest — compound lifts | 2–3 minutes |
 | Rest — isolation lifts | 60–75 seconds |
 | Training intensity (RPE) | 8–9 out of 10 — 1–2 reps left in the tank |
-| Cardio | 2× HIIT sessions per week (20 min) + active rest LISS |
+| Cardio | 4–5 sessions per week as scheduled above |
 | Deload | Week 21 — same protocol as Phase 1 deload |
 
 **Advanced techniques introduced in Phase 2:**
@@ -253,24 +291,24 @@ Do not attempt to add all new exercises at once.
 | **Drop Sets** | Final set of lateral raises and curls only — drop weight 30% and do 8–10 more reps immediately |
 | **Supersets** | Pair antagonists back-to-back with no rest — e.g., Bicep Curl immediately into Tricep Pushdown |
 | **Tempo Work** | 4-1-1 on Bench Press (4 sec down, 1 sec pause at bottom, 1 sec up) — increases time under tension significantly |
-| **Rack Pulls** | Replace conventional RDL every other Friday to overload heavier weight and intensify the trap-dominant portion of the pull |
+| **Rack Pulls** | Replace RDL every other Friday in Phase 2 to overload heavier weight and intensify the trap-dominant portion of the pull |
 
 ---
 
-## 2.11 — Month-by-Month Milestone Expectations
+## 2.12 — Month-by-Month Milestone Expectations
 
 | Month | Physical Changes | Strength Benchmarks | Lifestyle Markers |
 |---|---|---|---|
 | **Month 1** | Reduced bloating, improved posture, forearm veins beginning to show, body weight may stay the same (recomposition is occurring beneath the surface) | +10–15% on all major lifts from Week 1 baseline | Sleep improves (magnesium), energy stabilizes, gym habit forming, supplement routine becoming automatic |
-| **Month 2** | Visible arm definition emerging, slight shoulder widening, waist looking tighter in the mirror, 1–2 lbs net fat loss | Bench: +20–30 lbs from start. Seated Row: noticeably heavier. Pull-Ups: improving rep count each week. | Meal prep rhythm established. Cravings reduced. Body starting to respond visibly. |
-| **Month 3** | Clear V-shape beginning to emerge. Lat spread visible from behind in a mirror. Arms noticeably bigger. Shoulders wider. 3–5 lbs total fat lost. **Considerable visible transformation achieved.** | Unassisted Pull-Ups achievable. Overhead Press: ~70–80 lbs working weight. Squat: approaching bodyweight on the bar. | Posture dramatically improved. Clothes fitting differently. Confidence noticeably higher. Others beginning to comment. |
-| **Month 4** | Shoulder caps visibly rounded and defined. Trap muscle showing above the collar in T-shirts. Chest filling out. Forearm veins consistent throughout the day. | All major lifts at intermediate level. Lateral raises: 20–25 lb dumbbells. Seated Row: approaching 120–140 lbs. | Training, eating, and recovering feels second nature. |
-| **Month 5** | Pronounced V-taper visible from all angles. Neck thicker. Traps visible in fitted clothing. Waist tight. Total 6–8 lbs fat lost, 8–12 lbs of muscle added over 5 months. | Deadlift approaching 1.5× bodyweight. Bench approaching bodyweight. | Physique changes visible to others without prompting. |
-| **Month 6** | Target physique substantially achieved. Wide capped shoulders, full lat spread, defined midsection, thick traps and neck, full arms. V-taper clearly visible in fitted clothing from every angle. | Clean Pull-Ups × 10+. Overhead Press: approaching bodyweight. Romanian Deadlift: 180–200+ lbs. | Sustainable lifestyle locked in. Ready for Phase 3 advanced programming. |
+| **Month 2** | Visible arm definition emerging, slight shoulder widening, waist looking tighter in the mirror, 1–2 lbs net fat loss | Bench: +20–30 lbs from start. Seated Row: noticeably heavier. Lateral raises: moving up in weight. | Meal prep rhythm established. Cravings reduced. Body starting to respond visibly. |
+| **Month 3** | Clear V-shape beginning to emerge. Lat spread visible from behind in a mirror. Arms noticeably bigger. Shoulders wider. 3–5 lbs total fat lost. **Considerable visible transformation achieved.** | Shoulder Press and Bench Press significantly heavier than Week 1. Squatting near bodyweight. RDL solid with loaded bar. | Posture dramatically improved. Clothes fitting differently. Confidence noticeably higher. Others beginning to comment. |
+| **Month 4** | Shoulder caps visibly rounded and defined. Trap muscle showing above the collar. Chest filling out. Forearm veins consistent throughout the day. | All major lifts at intermediate level. Lateral raises: 20–25 lb dumbbells. Seated Row: approaching 120–140 lbs. | Training, eating, and recovering feels second nature. |
+| **Month 5** | Pronounced V-taper visible from all angles. Neck thicker. Traps visible in fitted clothing. Waist tight. Total 6–8 lbs fat lost, 8–12 lbs of muscle added over 5 months. | RDL approaching 1.5× bodyweight. Bench approaching bodyweight. | Physique changes visible to others without prompting. |
+| **Month 6** | Target physique substantially achieved. Wide capped shoulders, full lat spread, defined midsection, thick traps and neck, full arms. V-taper clearly visible in fitted clothing from every angle. | Shoulder Press and Bench both approaching bodyweight. RDL: 180–200+ lbs. | Sustainable lifestyle locked in. Ready for Phase 3 advanced programming. |
 
 ---
 
-## 2.12 — Critical Non-Negotiables Across All 6 Months
+## 2.13 — Critical Non-Negotiables Across All 6 Months
 
 | Priority | Rule |
 |---|---|
@@ -280,5 +318,3 @@ Do not attempt to add all new exercises at once.
 | **Hydration** | 2.5–3.5 litres of water daily. Dehydration reduces strength output by up to 15% and significantly impairs recovery. |
 | **Stress Management** | Ashwagandha and L-Theanine support this, but manage external stress actively. Chronic high cortisol = fat retention around the stomach and muscle breakdown — the exact opposite of the goal. |
 | **Progressive Overload** | Every single session should have one clear goal — one more rep, one more lb, or one cleaner rep than last time. Without progressive overload there is no growth. Period. |
-
----
