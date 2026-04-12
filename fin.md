@@ -2,209 +2,452 @@
 
 
 
-The math is decisive. Let me give you a direct verdict on both, then the photographer-optimized answer.
+---
+
+# FINAL CONFIRMED ITINERARY
+## Phoenix → Sedona → Grand Canyon → Page → Zion → Las Vegas
+### Apr 25–28, 2025 | Solo Photographer
 
 ---
 
-## VERDICT UPFRONT
+## TRIP OVERVIEW
 
-| | Friend Option 1 | Friend Option 2 |
-|---|---|---|
-| **Realistic?** | ❌ Not executable | ⚠️ Technically possible, practically brutal |
-| **Reason** | 17+ hours of driving alone in a single Saturday | 3 consecutive nights of ~3 hours sleep each |
-| **Photography quality** | Irrelevant — can't be done | Compromised by exhaustion on Day 3 |
-
----
-
-## WHY FRIEND OPTION 1 FAILS
-
-The Saturday plan — Sedona hike → Grand Canyon → Desert View → Page → Zion → Hoover Dam → Vegas Strip — is **17 hours 50 minutes of pure driving** before accounting for a single bathroom stop, gas fill, or meal. Even cutting every location visit to the minimum possible time, you arrive on the Las Vegas Strip at **2 AM the following morning**. This isn't a tight itinerary — it's a fantasy on paper that collapses the moment you're behind the wheel.
-
-The friend correctly identified great spots. The mistake is treating Google Maps directions like a list of tabs to close rather than time that has to be lived through.
-
-**What's salvageable from Option 1:** The east rim routing — Grand Canyon → Desert View Watchtower → Navajo Point — is actually excellent. It's the right side of the park to exit from if you're heading toward Page afterward. That observation is worth keeping.
+| | |
+|---|---|
+| **Inbound** | Austin (AUS) → Phoenix (PHX) — Fri Apr 25, 8:03–8:42 PM |
+| **Outbound** | Las Vegas (LAS) → Austin (AUS) — Mon Apr 28, 4:11–9:02 PM |
+| **Total driving** | ~792 miles across 4 days |
+| **Accommodation** | 3 nights — Cottonwood/Sedona → Page → Las Vegas |
+| **Park fees** | Standard rates apply — Texas driver's license qualifies as U.S. resident |
+| **Moon phase** | ★ New Moon Apr 27 — darkest sky of the year. Milky Way visible Sunday night |
 
 ---
 
-## WHY FRIEND OPTION 2 IS PROBLEMATIC FOR A PHOTOGRAPHER
+## BEFORE YOU LEAVE AUSTIN
 
-Option 2 is logistically executable. The routing and location choices are sound. The problem is the sleep math, and it specifically kills the one thing a photographer needs most: sharp eyes and deliberate execution at golden hour.
-
----
-
-
-
-The chart above shows the core problem: the Death Valley golden hour session on Monday is attempted after two consecutive nights of approximately 3 hours sleep each. The golden hour shots at Zion and Death Valley — the ones that matter most for a portfolio — are the ones most at risk of being executed poorly or missed entirely due to oversleeping or fatigue.
-
----
-
-## THE REAL ISSUE WITH BOTH OPTIONS
-
-Neither friend's itinerary accounts for the **route geometry hidden in plain sight**.
-
-The Grand Canyon's east rim — specifically Desert View Watchtower and Navajo Point — exits directly onto US-89 North. That road goes straight to Page, Arizona. **Horseshoe Bend is 95 miles and 1 hour 40 minutes from Desert View.** It's not a detour — it's the natural continuation of the same drive.
-
-Neither friend's option uses this. Option 1 tries to put everything in one day. Option 2 ignores Horseshoe Bend entirely in favor of Death Valley, which — for Instagram viral photography — scores lower and carries higher execution risk.
-
----
-
-## WHAT A PHOTOGRAPHER ACTUALLY NEEDS FROM THIS TRIP
-
-You're a first-time visitor to all of these places. That matters because first encounters with landscapes this dramatic produce either your best or your worst work depending on one thing: whether you were rested and present when you got there.
-
-The locations ranked purely by **viral Instagram reach for a first-time shooter**:
-
-| Rank | Location | Viral Score | Golden Hour Access |
-|---|---|---|---|
-| 1 | Horseshoe Bend | 10/10 | Sunrise (faces canyon, dramatic) |
-| 2 | Grand Canyon sunset | 10/10 | Hopi Point / Navajo Point |
-| 3 | Sedona Cathedral Rock | 8/10 | Sunrise (Oak Creek reflection) |
-| 4 | Death Valley Zabriskie Point | 8/10 | Sunrise (world-famous) |
-| 5 | Zion Canyon | 7/10 | Morning + sunset |
-
-Horseshoe Bend, the single highest-viral landscape shot in the entire Southwest, is in neither friend's option. That's the biggest miss of the whole discussion.
-
----
-
-## THE OPTIMIZED ITINERARY
-
-This is not a compromise between the two friend options. It's a restructure built around the photography goals, the geography, and realistic human energy.
-
-**The route insight that makes it work:**
-Phoenix → Sedona → Grand Canyon (east rim exit) → Page → Horseshoe Bend → Las Vegas via Kanab
-
----
-
-### FRIDAY NIGHT — PHOENIX → SEDONA
-
-**8:42 PM** Land Phoenix. Pick up rental car immediately.
-**~11 PM** Arrive Sedona via I-17 N and AZ-179 N (116 miles, 1h 55min).
-
-Stay in **Cottonwood** (~$70–$90/night) or Sedona itself (~$130–$180/night). Set one alarm for 4:45 AM. Sleep.
-
----
-
-### SATURDAY — SEDONA SUNRISE + GRAND CANYON EAST RIM → PAGE
-
-**4:45 AM** Wake up.
-**5:05 AM** Drive to **Red Rock Crossing / Crescent Moon Picnic Area** (10 min from Cottonwood, 15 min from Sedona center). $11/day parking.
-
-**5:45 AM — Sedona Sunrise: Cathedral Rock**
-
-The Cotton wood ford of Oak Creek puts you directly in front of Cathedral Rock as the first light hits the upper spires. The reflection in the creek below is the shot. Get low — camera within a foot of the water surface. Wide angle (16–24mm). Shoot the transition from blue pre-dawn shadow through warm amber as the sun clears the Spring Mountains. This is a 45-minute window and it opens and closes without warning. Being here at exactly 5:45 AM is the entire point.
-
-**6:30 AM – 8:30 AM** Bell Rock and Courthouse Butte — drive AZ-179 north, stop at the Bell Rock Pathway trailhead. Telephoto compression (70–200mm) from the south approach with the highway as a leading line. Courthouse Butte directly behind gives layered depth. These two formations from the south side, in morning sidelight, are among the most recognizable Sedona images.
-
-**8:30 AM** Depart Sedona. No lingering. Grand Canyon needs the full afternoon and sunset.
-
-**10:45 AM** Arrive Grand Canyon South Entrance. Entry: $35/vehicle or America the Beautiful Pass ($80, covers all parks this weekend and beyond).
-
-Do **not** waste significant time at Mather Point — take the standard view, orient yourself to the scale, move on within 20 minutes. The eastern rim is where you're spending your afternoon, and it's where you exit toward Page tonight.
-
-**11:30 AM – 2:30 PM** Drive east along the South Rim Road to **Grandview Point** (most dramatic overview of the canyon's inner gorge), then continue to **Desert View Watchtower**.
-
-Desert View Watchtower is a 70-foot stone tower designed by architect Mary Colter in 1932, built right on the canyon rim at the park's east entrance. It's simultaneously one of the best photography subjects in the park (Hopi artist Fred Kabotie's murals cover the interior walls) and the best elevated viewpoint looking northeast toward the Painted Desert and the Colorado River as it curves toward Page. Climb to the top. Shoot the tower itself from the base — the stonework against canyon and sky is extraordinary.
-
-**3:00 PM** Drive 5 minutes further east to **Navajo Point** — the highest elevation on the South Rim at 7,498 feet. Less visited than Hopi Point, faces west, has a clean sightline down the Colorado River corridor.
-
-**3:00 PM – 7:30 PM** Position here for the sunset. You have 4.5 hours. Explore compositions, eat, rest, wait for the light to change.
-
-**7:25 PM — Grand Canyon Sunset: Navajo Point**
-
-The canyon layers turn from orange to deep crimson to purple in a sequence that lasts about 90 minutes and peaks in the final 20 minutes before full dark. The Colorado River far below catches the last gold light. After sunset proper: the canyon floor drops into blue shadow while the sky above retains warmth — the 15 minutes after the sun disappears are frequently the strongest frames of the session.
-
-**7:40 PM** Depart through the Desert View east exit immediately (do not drive back west through the park). Turn left onto US-89 North.
-
-**~9:20 PM** Arrive Page, Arizona. 95 miles, 1 hour 40 minutes. Check in. Sleep.
-
----
-
-### SUNDAY — HORSESHOE BEND SUNRISE → DRIVE TO LAS VEGAS
-
-**6:00 AM (MDT)** Wake up. Page operates on Mountain Daylight Time (Navajo Nation observes DST — Arizona does not). Sunrise is 6:45 AM MDT.
-
-**6:10 AM** Drive to Horseshoe Bend Trailhead (5 minutes from Page center). $10/vehicle parking.
-
-**6:20 AM** Walk to the overlook — 0.8 miles, flat paved trail, 15 minutes. Arrive at the rim as the sky is still transitioning from pre-dawn blue.
-
-**6:45 AM — Horseshoe Bend Sunrise**
-
-The Colorado River sits 1,000 feet below in a 270-degree horseshoe curve carved through Navajo sandstone. This is the shot. The composition is instantly and globally recognizable — it is one of the most shared landscape photographs from the American West on Instagram.
-
-The eastern canyon walls catch warm first light while the river below remains in deep shadow. This contrast — amber lit walls, cool blue water — is the strongest color separation you will get across the entire trip. Shoot wide (14–16mm) to capture the full bend. Get close to the edge on the secondary overlook (to the right of the main fenced viewpoint) for a cleaner composition with less railing visible. Switch to a 70–200mm to compress the canyon layers and isolate the river's turquoise color. Set up a tripod for long exposures in the low early light. You have a 90-minute window before the overlook begins to fill.
-
-**By 9:00 AM** the crowds arrive and the light is flat. You're done. Walk back to car.
-
-**9:00 AM** Depart Page for Las Vegas.
-
-Route: US-89 South → US-89A West through Kanab, UT → I-15 South through St. George → Las Vegas. Approximately 4 hours 30 minutes. Arrive Las Vegas ~1:30 PM.
-
-**Optional Zion detour (+45 minutes total):** The route through Kanab passes within 45 minutes of Zion National Park via UT-9. If you take the Zion junction, you can do the **Canyon Overlook Trail** (1 mile, 30 minutes, spectacular elevated overview of the main canyon) and be back on I-15 with only 45 extra minutes added to the total drive. This is a legitimate add-on if energy is there. It does not replace a full Zion day, but it gives you a genuine first encounter with the park's vertical scale.
-
-**1:30 PM** Arrive Las Vegas. Check in. Eat properly. Rest. This is mandatory — not optional recovery time. You have a Strip session tonight and Red Rock Canyon tomorrow morning.
-
-**7:00 PM** Optional: **Seven Magic Mountains** (20 minutes south on I-15, free). Ugo Rondinone's fluorescent painted boulder stacks in the open Mojave desert. Best in late afternoon. 30–45 minutes. The neon colors against desert sky at golden hour are genuinely striking and unlike anything else on this trip — completely different visual language from the canyon photography of the last two days.
-
-**9:00 PM – 1:00 AM — Las Vegas Strip Night Session**
-
-South to north walking route. Bellagio fountains every 15 minutes from 8 PM. Full strip walk ~3–4 hours. Use the pedestrian bridges over each major intersection for elevated long-exposure light trail shots — these are consistently better than sidewalk-level compositions for Strip photography. See complete Strip guide from the full itinerary for shot-by-shot detail.
-
-**1:00 AM** Sleep. You have a 5 AM alarm.
-
----
-
-### MONDAY — RED ROCK CANYON SUNRISE → LAS VEGAS AIRPORT
-
-**5:00 AM** Wake up.
-**5:25 AM** Arrive Red Rock Canyon (17 miles via W Charleston Blvd, $15/vehicle). Park outside the scenic loop gate before it opens at 6 AM and walk to the Calico Hills area.
-
-**5:50 AM — Red Rock Canyon Sunrise: Calico Hills**
-
-The Calico Hills face east. First light catches the rust-orange sandstone directly while the Las Vegas Valley below is still dark — for about 20 minutes you have the unusual composition of an illuminated desert canyon above an unlit city. This double-exposure quality disappears the moment the sun rises enough to light the valley floor. It exists only at dawn and only from this specific position.
-
-After the directional light establishes: Calico Tanks Trail (2.2 miles round trip, 45 minutes) leads to a natural water tank with panoramic valley views. In mid-morning, the canyon above glows while Vegas spreads below.
-
-**8:30 AM** Back to the car.
-**9:00 AM** Return Las Vegas. Hotel checkout, food.
-**12:30 PM** Depart for Las Vegas Airport (LAS). 20 minutes from the Strip.
-**2:30 PM** At the airport.
-**4:11 PM** Flight to Austin.
-
----
-
-## GOLDEN HOUR SESSIONS: FINAL COUNT
-
-| Session | Location | Time | Viral Score | Notes |
+| Priority | Item | How to Book | Cost | Note |
 |---|---|---|---|---|
-| 1 | Cathedral Rock, Sedona | Sat 5:45 AM | 8/10 | Creek reflection — first light on spires |
-| 2 | Navajo Point, Grand Canyon | Sat 7:25 PM | 10/10 | Canyon layer gradient, Colorado River glow |
-| 3 | Horseshoe Bend | Sun 6:45 AM | 10/10 | 270° river curve, eastern wall warmth vs cool water |
-| 4 | Seven Magic Mountains | Sun 7:00 PM | 7/10 | Optional — neon boulders in desert at dusk |
-| 5 | Calico Hills, Red Rock Canyon | Mon 5:50 AM | 6/10 | Canyon lit above unlit city — unique dawn window |
+| **Do today** | Valley of Fire Fire Wave Permit | Recreation.gov | $10 | Sells out weeks ahead in peak season |
+| **This week** | Rental car — Phoenix Airport | Turo or airport counter | $35–55/day | Book ahead — weekend surge pricing |
+| **This week** | Accommodation — Page, AZ | Direct hotel booking | $80–120/night | Limited rooms, fills fast in April |
+| **This week** | Accommodation — Sedona area | Booking.com | $70–90/night | Stay in Cottonwood for budget option |
+| **Anytime** | Accommodation — Las Vegas | Hotel app / direct | $30–80/night | Sin City Hostel or Downtown Grand |
+| **Info only** | Grand Canyon entry | Pay at gate or NPS app | $35/vehicle | |
+| **Info only** | Zion NP entry | Pay at east gate | $35/vehicle | Drive-through — still required |
 
-Three of the five most Instagram-viral landscape locations in the American Southwest, captured at their optimal light. Every golden hour session happens on adequate sleep.
+**America the Beautiful Annual Pass ($80):** Covers Grand Canyon + Zion + Red Rock Canyon entry. If you visit any national parks later in 2025, it pays for itself.
 
 ---
 
-## DIRECT COMPARISON
+## TIME ZONES — READ BEFORE SUNDAY
 
-| | Friend Option 1 | Friend Option 2 | Optimized |
+| Location | Zone | vs. Las Vegas |
+|---|---|---|
+| Sedona / Grand Canyon | Arizona MST — UTC−7, no DST | Same as Las Vegas |
+| **Page / Horseshoe Bend** | Navajo Nation MDT — UTC−6 | **1 hr ahead of Las Vegas** |
+| **Zion / Kanab / Hurricane, UT** | Utah MDT — UTC−6 | **1 hr ahead of Las Vegas** |
+| Las Vegas / Valley of Fire | Nevada PDT — UTC−7 | Baseline |
+
+**Practical impact on Sunday:** Leaving Page at 9:00 AM MDT = 8:00 AM on your Las Vegas clock. You gain 1 hour entering Nevada. This is why the Sunday timing works despite the distance covered.
+
+---
+---
+
+## FRIDAY, APR 25 — PHOENIX ARRIVAL → SEDONA
+
+| Time | Zone | | |
 |---|---|---|---|
-| **Executable?** | ❌ No | ⚠️ Barely | ✅ Yes |
-| **Sleep per night** | Irrelevant | Fri: 6h, Sat: 3h, Sun: 3h | Fri: 6h, Sat: 7h, Sun: 5h |
-| **Horseshoe Bend** | Listed but impossible | ❌ Not included | ✅ Primary golden hour shot |
-| **Grand Canyon** | Rushed | ✅ Full day | ✅ Full afternoon + sunset |
-| **Sedona** | ✅ | ✅ | ✅ |
-| **Zion** | Listed but impossible | ✅ Full day trip | Optional 45-min detour |
-| **Death Valley** | Impossible | ⚠️ After 3hrs sleep | ❌ Not included |
-| **Vegas Strip night** | Day 2 (very late) | ✅ ×2 | ✅ ×1 properly |
-| **Golden hour sessions** | 0 (never arrive in time) | 5 (3 compromised by sleep) | 5 (all on adequate rest) |
-| **Viral photography score** | N/A | Sedona + GC + Zion | Sedona + GC + Horseshoe Bend |
+| **8:42 PM** | MST | Land Phoenix Sky Harbor (PHX) | |
+| **8:45 PM** | MST | Pick up rental car immediately | Travel carry-on only to avoid delays |
+| **9:00 PM** | MST | Depart Phoenix → Sedona | I-17 North → AZ-179 North. 116 miles, 1h 55min |
+| **10:55 PM** | MST | Arrive Cottonwood or Sedona | Check in. Sleep immediately |
+| **11:00 PM** | MST | **Set alarm: 4:45 AM** | Non-negotiable — Cathedral Rock sunrise waits for no one |
+
+**Where to stay:**
+- **Cottonwood, AZ** (~25 min south of Sedona): $70–90/night. Verde Valley Motel, Manzanita Inn. Best budget option. Drive up to Sedona in the morning.
+- **Sedona itself:** $130–180/night minimum on a Friday in late April. More convenient but significantly more expensive.
+
+---
+---
+
+## SATURDAY, APR 26 — SEDONA SUNRISE → GRAND CANYON → PAGE
+
+*The longest photography day. Runs 5:45 AM to ~10 PM.*
 
 ---
 
-## ON DROPPING DEATH VALLEY
+| Time | Zone | Activity |
+|---|---|---|
+| **4:45 AM** | MST | Wake up |
+| **5:05 AM** | MST | Drive to Red Rock Crossing — Crescent Moon Picnic Area |
+| **5:45 AM** | MST | ★ **CATHEDRAL ROCK SUNRISE** |
+| **6:30 AM** | MST | Bell Rock + Courthouse Butte |
+| **8:30 AM** | MST | Depart Sedona for Grand Canyon |
+| **9:45 AM** | MST | Cameron Trading Post — gas + food stop |
+| **10:45 AM** | MST | Arrive Grand Canyon South Entrance |
+| **11:00 AM** | MST | Mather Point — orientation only, 15 min |
+| **11:30 AM** | MST | Drive east on South Rim Road |
+| **12:15 PM** | MST | Grandview Point |
+| **1:30 PM** | MST | Lipan Point — brief stop |
+| **2:00 PM** | MST | Desert View Watchtower |
+| **3:15 PM** | MST | Drive back west to Visitor Center |
+| **3:50 PM** | MST | Board free Orange Route shuttle → Hopi Point |
+| **4:15 PM** | MST | Arrive Hopi Point — scout + position |
+| **7:00 PM** | MST | ★ **HOPI POINT GOLDEN HOUR begins** |
+| **7:25 PM** | MST | ★★ **SUNSET — canyon layer gradient** |
+| **7:45 PM** | MST | Post-sunset afterglow window — stay, these are often the best frames |
+| **8:00 PM** | MST | Board Hermit's Rest shuttle back to Visitor Center |
+| **8:20 PM** | MST | Pick up car |
+| **8:25 PM** | MST | Depart east via AZ-64E → Desert View exit → US-89 North |
+| **~10:05 PM** | MST | Arrive Page, AZ — check in, sleep |
+| | | **Set alarm: 6:00 AM MDT (Page time)** |
 
-Death Valley's Zabriskie Point at sunrise is a genuinely iconic photography subject. The problem is structural, not motivational. Executing it on Monday requires a 4 AM departure from Las Vegas after two consecutive late Strip nights, which is the one scenario most likely to result in an oversleep and a missed sunrise. The margin for error is essentially zero. For a first-time solo traveler who hasn't yet built the routine of waking at 4 AM in an unfamiliar city after late nights, it's the highest-risk item on the itinerary for the lowest backup option if it fails.
+---
 
-Red Rock Canyon on Monday morning achieves the same function — a desert landscape golden hour session before the flight — with a 5 AM alarm instead of 4 AM, 25 minutes of driving instead of 2 hours, and no consequence if you're 20 minutes late. Save Death Valley for a trip built around it, departing Las Vegas on a Thursday evening specifically for that purpose.
+### SATURDAY PHOTOGRAPHY DETAIL
+
+**5:45 AM — Cathedral Rock Sunrise | Red Rock Crossing, Sedona**
+Entry: $11/vehicle (Crescent Moon Picnic Area, Red Rock Loop Road)
+
+Get the camera within 12 inches of the water surface at Oak Creek. Cathedral Rock reflects in the creek. At 5:45 AM the upper spires catch warm first light while the creek is in cool blue shadow — this contrast is the shot and lasts 20–30 minutes before the light evens out.
+
+- Wide angle (16–24mm) — full reflection, low angle
+- Telephoto (70–200mm) — upper spires in isolation once light turns amber
+- Foreground creek stones + formation behind — depth and texture
+- Wind ripples the water — April mornings are usually still before 7 AM, wait it out if needed
+
+**6:30–8:15 AM — Bell Rock + Courthouse Butte**
+Free roadside access on AZ-179. Telephoto compression (70–200mm) from the south approach stacks both formations in morning sidelight. One of the most recognizable Sedona compositions, and you're shooting it in optimal directional light.
+
+**Cameron Trading Post — 9:45 AM**
+One of the oldest trading posts on the Navajo Nation, operating since 1916. Junction of US-89 and AZ-64. 15 minutes: gas, a Navajo taco ($10–12), and a quick walk to the historic suspension bridge over the Colorado River gorge below.
+
+**11:00 AM — Mather Point, Grand Canyon**
+15 minutes maximum. Understand the scale, take the establishing shot, move east. This is orientation, not your photography stop.
+
+**12:15 PM — Grandview Point**
+One of the most dramatic and least-visited overlooks on the South Rim. The canyon is narrow here, Horseshoe Mesa is visible far below, and the Colorado River is just visible at the bottom. Less crowded than western viewpoints.
+- Telephoto (70–200mm) — compress and isolate horizontal geological strata
+- Wide angle — full canyon-to-sky proportion
+- Horseshoe Mesa as mid-ground element
+
+**1:30 PM — Lipan Point**
+Brief stop. West-southwest facing, car accessible. The Colorado River is directly visible far below. Good for a wide establishing frame before continuing to Desert View.
+
+**2:00–3:00 PM — Desert View Watchtower**
+A 70-foot stone tower built in 1932 by architect Mary Colter, positioned right on the canyon rim at the park's east exit. The only elevated 360° viewpoint on the South Rim that includes the Painted Desert stretching northeast.
+- Tower exterior from below — Ancestral Puebloan stonework against canyon rim and sky
+- Fred Kabotie's interior Hopi murals — wide angle, close to the walls
+- From the tower top — Painted Desert panorama + Colorado River curving toward Page in both directions
+- This is an angle that the vast majority of Grand Canyon photographers never access
+
+**4:15–7:45 PM — Hopi Point**
+The definitive Grand Canyon sunset location. Projects furthest into the canyon of any South Rim viewpoint — canyon drops away on three sides, due-west exposure, Colorado River visible both north and south.
+
+The shuttle is free and runs every 15–20 minutes on the Orange (Hermit's Rest) Route. Board at the Visitor Center at 3:50 PM, arrive Hopi Point by 4:15 PM. Last return shuttle departs around 8:00–8:15 PM.
+
+*4:15–6:45 PM:* Scout compositions, eat whatever you packed, rest. Study the geometry — where shadows fall, where the river reflects, which foreground rocks frame the depth. Use this time deliberately, not passively.
+
+*7:00–7:25 PM — Pre-sunset:* Canyon layers warm progressively from top down. Upper rim rocks go orange while the middle canyon stays neutral. Colorado River catches direct gold for ~15 minutes before the sun drops. Shoot wide (full canyon-to-sky) and telephoto (isolate individual strata layers) alternately.
+
+*7:25 PM — Sunset:* Sun drops behind the North Rim. Inner gorge fills deep crimson and purple. Sky above holds warm gradient.
+
+*7:25–7:45 PM — Post-sunset:* These 20 minutes are frequently the strongest frames of the session. Light becomes diffuse, colors deepen into the canyon, maximum saturation in the walls without any harsh shadows.
+
+**Depart Page route:** Exit via the Desert View east gate (AZ-64E) — do not drive back west through the park. Turn left onto US-89 North. 95 miles, 1h 40min to Page.
+
+**Where to stay in Page:**
+Page Boy Motel, Deborah's Inn, or similar. $80–120/night. Limited options — book ahead.
+
+---
+---
+
+## SUNDAY, APR 27 — HORSESHOE BEND → ZION DRIVE-THROUGH → LAS VEGAS → HOOVER DAM → VALLEY OF FIRE → STRIP
+
+*The biggest day. Crosses two time zones. Runs 6:45 AM MDT to 1:00 AM PDT.*
+
+---
+
+| Time | Zone | Activity |
+|---|---|---|
+| **6:00 AM** | MDT | Wake up in Page |
+| **6:10 AM** | MDT | Drive to Horseshoe Bend Trailhead (5 min) |
+| **6:25 AM** | MDT | Walk to overlook (0.8 mi, 15 min) |
+| **6:45 AM** | MDT | ★ **HORSESHOE BEND SUNRISE** |
+| **8:45 AM** | MDT | Walk back to car |
+| **9:00 AM** | MDT | Depart Page → Zion via US-89S + Kanab + UT-9W |
+| **10:55 AM** | MDT | Arrive Zion East Entrance — pay $35. Drive through only, no hike |
+| **10:55 AM** | MDT | Checkerboard Mesa — 5-min roadside pullover |
+| **11:05 AM** | MDT | Zion–Mt. Carmel Tunnel (1.1 mi through sandstone) |
+| **11:20 AM** | MDT | Canyon floor switchbacks + descent — canyon walls from road |
+| **11:20 AM** | MDT | Depart Zion West (Springdale) → Hurricane → I-15 South |
+| **~11:45 AM** | ⏱ | **Cross into Nevada — clocks shift MDT → PDT. Gain 1 hour** |
+| **12:40 PM** | PDT | Arrive Las Vegas Strip |
+| **12:40 PM** | PDT | Food — Spring Mountain Road / Chinatown (~50 min) |
+| **1:30 PM** | PDT | Depart Las Vegas → Hoover Dam via US-93 South |
+| **2:05 PM** | PDT | Arrive Hoover Dam + Memorial Bridge |
+| **2:05–3:45 PM** | PDT | ★ **HOOVER DAM + MEMORIAL BRIDGE** (1h 40min) |
+| **3:45 PM** | PDT | Depart via Lake Shore Road (NV-167) → Valley of Fire |
+| **4:55 PM** | PDT | Arrive Valley of Fire State Park — pay $10 entry |
+| **4:55–6:30 PM** | PDT | Fire Wave Trail + White Domes Loop |
+| **6:30 PM** | PDT | Reposition to Rainbow Vista |
+| **7:00 PM** | PDT | ★ **VALLEY OF FIRE GOLDEN HOUR begins** |
+| **7:25 PM** | PDT | ★★ **SUNSET — red-crimson-purple full sequence** |
+| **7:25–7:45 PM** | PDT | Post-sunset afterglow — stay for this |
+| **7:45 PM** | PDT | Depart Valley of Fire → Las Vegas via NV-169 + I-15S |
+| **8:45 PM** | PDT | Arrive Las Vegas — check in, rest |
+| **9:30 PM** | PDT | ★ **LAS VEGAS STRIP NIGHT SESSION** |
+| **1:00 AM** | PDT | Return to hotel — sleep |
+
+---
+
+### SUNDAY PHOTOGRAPHY DETAIL
+
+**6:45 AM — Horseshoe Bend Sunrise | Page, AZ**
+Parking: $10/vehicle. Walk: 0.8 miles flat, 15 minutes.
+
+The Colorado River sits 1,000 feet below in a 270° horseshoe curve. Eastern canyon walls in warm first light, river in cool blue below — this contrast lasts 30–45 minutes before the light evens out.
+
+- 14–16mm — full 270° curve. Secondary overlook to the right of main fenced area for a cleaner foreground composition
+- 70–200mm — telephoto compression. The Colorado's turquoise reads much more intensely when compressed against warm sandstone
+- Self-portrait on timer at the overlook edge — the 1,000-foot drop only communicates scale in comparison to a human figure
+- Tripod at 6:45 AM — light is still low. f/8–f/11, ISO 100, bracket exposures
+
+Leave by 9:00 AM. Overlook fills rapidly after this point.
+
+**10:55 AM — Zion National Park Drive-Through**
+Pay $35 at the east gate (required even for a drive-through).
+
+- **Checkerboard Mesa** — visible directly from the road shortly after the east gate. A massive Navajo sandstone dome with a precise grid-like crosshatch erosion pattern. Pull over for 5 minutes, no hiking. Shoot from the road shoulder.
+- **Zion–Mt. Carmel Tunnel** — 1.1 miles carved directly through solid Navajo sandstone in 1930. When you emerge on the west side, Zion Canyon drops away below you. Passenger can shoot from the window.
+- **Switchback descent** — the road descends through dramatic hairpin turns with 2,000-foot canyon walls on both sides. Pull over at any of the designated viewpoints for a 2-minute stop. These moving views of the canyon walls are something no static viewpoint replicates.
+
+**2:05 PM — Hoover Dam + Mike O'Callaghan–Pat Tillman Memorial Bridge**
+The Memorial Bridge (US-93) is a public highway bridge — free, open always, pedestrian walkway on the south side. This is your primary photography position.
+
+- Bridge pedestrian walkway — full dam face, Lake Mead upstream, Colorado River gorge 726 feet below, canyon walls framing the sightline. Complete composition from one position.
+- Dam walkway across the top (free) — Art Deco geometric tiles, bronze winged figures, engineering plaques. The dam face viewed from here shows the horizontal structural fins in afternoon directional light.
+- Upstream from bridge vs downstream — two completely different compositions from the same position.
+- Afternoon at 2–4 PM: dam face catches directional sidelight that creates shadow in the structural fins — gives the concrete surface texture and depth that flat midday light does not.
+
+**Boulder City (optional, 10 min from dam):** The only Nevada city without gambling, built in the 1930s for dam workers. Historic downtown on Nevada Way — Art Deco buildings, the Boulder Dam Hotel, 90-year-old commercial strip. Quick 15-minute walk if you want architecture photography.
+
+**Lake Shore Road (NV-167) — 3:45–4:55 PM**
+The drive from Hoover Dam to Valley of Fire runs along the north shore of Lake Mead. Several pullouts offer open water views against red-tan canyon walls with the Muddy Mountains behind. Use at least one for a 5-minute stop.
+
+**4:55 PM — Valley of Fire State Park**
+Entry: $10/vehicle. Fire Wave permit: $10 — must have booked on Recreation.gov from Austin.
+
+*4:55–6:15 PM — Fire Wave Trail (1.5 miles round trip, permit required):*
+Swirling red and white Navajo sandstone. Shoot from ground level — camera 6 inches from the surface, wide angle (16–24mm), use the curves as leading foreground lines. The visual effect at ground level is far more dramatic than standing height. This trail and the Fire Wave itself look completely different from every canyon location you've seen on this trip.
+
+If Fire Wave permit is sold out: **White Domes Loop** (1.25 miles, no permit) — hoodoos, eroded sandstone, and a short natural slot canyon section. Equally strong photography.
+
+*6:30 PM — Reposition to Rainbow Vista:*
+Short drive within the park. West-facing panoramic overlook across an open valley of red formations. Your sunset position.
+
+*7:00–7:45 PM — The Sunset Sequence:*
+
+Three distinct phases — each is a different photograph:
+1. **Orange-gold (7:00–7:10 PM)** — warm sidelight, sharp shadows in erosion crevices
+2. **Deep crimson (7:10–7:20 PM)** — formations appear to glow from within
+3. **Purple-red transition (7:20–7:25 PM)** — final direct light, maximum color saturation
+
+*7:25–7:45 PM — Post-sunset:*
+Rock drops into blue shadow while sky above holds warm gradient. Shoot long exposure here — tripod, ISO 100, f/8, let the natural light balance develop. This is consistently the strongest photography window of the Valley of Fire visit.
+
+**★ NEW MOON OPPORTUNITY — April 27 is the new moon:**
+If you want to pursue Milky Way photography, stay at Valley of Fire until 10:30 PM. The galactic core rises from the southeast. Valley of Fire has enough separation from the Las Vegas light dome for a visible Milky Way over the red sandstone.
+- 14–24mm, f/2.8 or wider, ISO 3200–6400, 15–20 seconds, manual focus to infinity
+- Arriving back in Las Vegas by 11:30 PM means a shorter Strip session — your call
+
+**9:30 PM — Las Vegas Strip Night Session**
+
+Walk **South to North, ~2.5 miles, 3–4 hours.** Do not Uber between stops — the best compositions happen between the landmarks, only visible on foot.
+
+| Stop | Focus | Time |
+|---|---|---|
+| Welcome to Fabulous Las Vegas Sign | Classic opener — quieter after 9 PM | 10 min |
+| Luxor (exterior) | Pyramid geometry + sky beam | 15 min |
+| New York-New York | Brooklyn Bridge replica, telephoto compression | 15 min |
+| **Bellagio Fountains** | **Main event — wide, burst timing, fountain reflection** | **35 min** |
+| Paris Eiffel Tower | Street-level compression, slow shutter light trails | 20 min |
+| The Cosmopolitan | Modern glass reflections | 15 min |
+| Caesars Palace exterior | Roman columns, bilateral symmetry, uplighting | 15 min |
+| The LINQ Promenade | Street candids, High Roller backdrop | 20 min |
+| The Venetian exterior + canal | Canal water reflections, warm/cool contrast | 25 min |
+
+**Stop at The Venetian.** North of here the Strip loses density rapidly.
+
+**Bellagio fountain timing:** Shows every 15 minutes from 8 PM to midnight. Arrive 10 minutes before a show. Shoot 2–3 consecutive shows from different positions — center-front for symmetry, then the pedestrian bridge to the north for depth with the Paris Eiffel Tower in the background.
+
+**Pedestrian bridges:** Every major Strip intersection has an elevated crossing. These are your primary long-exposure light trail positions — clean sightlines down the boulevard, elevation separates foreground from background. Always better than sidewalk level for traffic shots.
+
+**Casino interiors — pick 3, no more:**
+- Bellagio lobby — Dale Chihuly's glass ceiling installation (2,000 hand-blown glass flowers, free to view)
+- The Venetian — canal, gondolas, painted fresco ceiling
+- Caesars Palace Forum Shops — painted sky ceiling, Roman architectural scale
+
+**Secret Pizza at The Cosmopolitan:** Third floor mezzanine, zero signage anywhere in the casino. Walk up from the main casino floor, follow the hotel corridor past the rooms. Open until 4 AM. $5–6 per slice. One of the most consistently recommended late-night food spots in Las Vegas by locals.
+
+---
+---
+
+## MONDAY, APR 28 — RED ROCK CANYON → AIRPORT
+
+*Flight: 4:11 PM. Be at LAS by 2:30 PM. Leave last stop by noon.*
+
+---
+
+| Time | Zone | Activity |
+|---|---|---|
+| **5:00 AM** | PDT | Wake up |
+| **5:25 AM** | PDT | Drive to Red Rock Canyon via W Charleston Blvd (17 mi, 25 min) |
+| **5:50 AM** | PDT | Arrive — walk in to Calico Hills before gate opens at 6 AM |
+| **5:50 AM** | PDT | ★ **CALICO HILLS SUNRISE** — canyon lit above dark Las Vegas Valley |
+| **6:30 AM** | PDT | Calico Tanks Trail (2.2 mi round trip, 45 min) |
+| **9:00 AM** | PDT | Back to car |
+| **9:25 AM** | PDT | Return to Las Vegas Strip |
+| **9:45 AM** | PDT | Hotel checkout |
+| **10:00 AM** | PDT | Final food — Spring Mountain Road |
+| **12:00 PM** | PDT | **Latest departure from hotel to LAS Airport** |
+| **12:15 PM** | PDT | Arrive Harry Reid International Airport (LAS) |
+| **2:30 PM** | PDT | Through security and at gate |
+| **4:11 PM** | PDT | ★ **FLIGHT DEPARTS — Las Vegas → Austin** |
+| **9:02 PM** | CDT | Arrive Austin-Bergstrom (AUS) |
+
+---
+
+### MONDAY PHOTOGRAPHY DETAIL
+
+**5:50 AM — Calico Hills Sunrise | Red Rock Canyon**
+Entry: $15/vehicle. Gate opens at 6 AM — park outside the gate at 5:30 AM and walk the short distance in to the Calico Hills area before the gate opens.
+
+The Calico Hills face east and catch first direct light. For approximately 20 minutes beginning at 5:50 AM, you have the rare double composition: illuminated desert canyon above an unlit Las Vegas Valley below — the city is still glowing with overnight lights while the hills above are in warm morning light. This window closes the moment the sun rises enough to light the valley floor.
+
+- Wide angle — east-facing canyon walls in first light, city glow below in the valley
+- After sunrise: full warm sidelight across the canyon face — strong texture and shadow depth
+- Calico Tanks Trail (2.2 miles round trip, 45 minutes): Leads to a natural sandstone water tank in a bowl with panoramic valley views. The Las Vegas skyline and Spring Mountains visible from the top. April morning light is directional and warm at this hour.
+
+**Where to eat before the airport:**
+Spring Mountain Road (Chinatown) — 10 minutes from the Strip, open for lunch by 11 AM. Vietnamese pho ($10–12), Korean BBQ ($15–18), Japanese ramen ($12–14). This is the best food value in Las Vegas and the right way to end the trip.
+
+---
+---
+
+## GOLDEN HOUR MASTER SCHEDULE
+
+| Day | Time | Zone | Location | Subject | Instagram Score |
+|---|---|---|---|---|---|
+| **SAT** | 5:45 AM | MST | Cathedral Rock — Sedona | Oak Creek reflection + spire first light | 8/10 |
+| **SAT** | 7:00–7:45 PM | MST | Hopi Point — Grand Canyon | Canyon layer gradient, Colorado River gold | 10/10 |
+| **SUN** | 6:45 AM | MDT | Horseshoe Bend — Page | 270° river curve, warm walls vs cool water | 10/10 |
+| **SUN** | 2:05–3:45 PM | PDT | Hoover Dam + Bridge | Dam face + gorge sightline, afternoon light | 5/10 |
+| **SUN** | 7:00–7:45 PM | PDT | Valley of Fire | Crimson sandstone full sunset sequence | 9/10 |
+| **SUN** | 10:30 PM ★ | PDT | Valley of Fire | Milky Way over red sandstone — new moon | Rare |
+| **SUN** | 9:30 PM | PDT | Las Vegas Strip | Light trails, Bellagio fountains, neon | 7/10 |
+| **MON** | 5:50 AM | PDT | Calico Hills — Red Rock Canyon | Canyon in first light, city dark below | 7/10 |
+
+---
+
+## PHOTOGRAPHY SETTINGS REFERENCE
+
+| Location | ISO | Shutter | Aperture | Key Note |
+|---|---|---|---|---|
+| Cathedral Rock pre-dawn | 400–800 | 1–4 sec | f/8 | Tripod, wait for still water |
+| Bell Rock morning | 100–200 | 1/60–1/250 | f/8 | Telephoto compression |
+| Grand Canyon — Hopi Point | 100–400 | 1/60–1/250 | f/8–f/11 | Bracket ±2 stops for the sequence |
+| Horseshoe Bend sunrise | 100–200 | 1/30–1/100 | f/8 | Tripod for low-light opening window |
+| Valley of Fire sunset | 100 | 1/60–1/500 | f/8–f/11 | Bracket throughout the color sequence |
+| Valley of Fire Milky Way | 3200–6400 | 15–20 sec | f/2.8 | Manual focus to infinity, 500 rule |
+| Las Vegas Strip — light trails | 100 | 8–25 sec | f/8–f/11 | Tripod on pedestrian bridges |
+| Las Vegas Strip — fountains | 400–800 | 1/250–1/500 | f/5.6 | Burst mode for water timing |
+| Calico Hills sunrise | 200–400 | 1/60–1/250 | f/8 | 20-min window before city lights out |
+
+---
+
+## FOOD GUIDE
+
+### On the Road
+
+| Stop | Day | What | Cost |
+|---|---|---|---|
+| Cameron Trading Post (Cameron, AZ) | Saturday | Navajo taco, gas | $10–12 |
+| Pack trail food from Cottonwood | Saturday | Water (3L min), snacks for Grand Canyon | $15 |
+| Quick stop in Page | Saturday night | Gas, water, light snack | $10 |
+
+### Las Vegas
+
+| Place | What | Cost | Notes |
+|---|---|---|---|
+| **Spring Mountain Road (Chinatown)** | Vietnamese pho, Korean BBQ, Thai, ramen | $10–18 | Where Las Vegas residents eat. 24 hrs. Use Sunday + Monday |
+| **Secret Pizza — The Cosmopolitan** | Pizza slices | $5–6 | Third floor mezzanine, no signage. Open until 4 AM. Best late-night Strip food |
+| **Tacos El Gordo** | Tijuana-style street tacos | $3–5/taco | Las Vegas Blvd or Flamingo location. Late night |
+| **In-N-Out (LINQ Promenade)** | Burgers | $8–10 | During the Strip walking route |
+
+---
+
+## COMPLETE ENTRY FEES + PERMITS
+
+| Location | Fee | How | Critical Note |
+|---|---|---|---|
+| Crescent Moon Picnic Area — Sedona | $11/vehicle | Pay on-site | |
+| Grand Canyon South Rim | $35/vehicle | Pay at gate or NPS app | |
+| Horseshoe Bend | $10/vehicle | Pay at trailhead | |
+| Zion National Park | $35/vehicle | Pay at east gate | Drive-through still requires full entry |
+| Valley of Fire | $10/vehicle | Pay at gate | |
+| Valley of Fire — Fire Wave Trail | $10/person | Recreation.gov | **Book from Austin — sells out weeks ahead** |
+| Red Rock Canyon | $15/vehicle | Pay at gate | |
+| **Total** | **~$126** | | |
+
+**Park Fee Note — Texas Driver's License:**
+The NPS nonresident fee policy lists a "U.S. government (state or territory)-issued driver's license" as explicit acceptable proof of U.S. residency. Your Texas driver's license qualifies. Standard fees apply. The $100 nonresident surcharge and the $250 nonresident Annual Pass do not apply. The new pricing tier begins January 1, 2026 — your April 2025 trip is unaffected regardless.
+
+---
+
+## COMPLETE DRIVING REFERENCE
+
+| Leg | Miles | Time | Route |
+|---|---|---|---|
+| Phoenix Airport → Cottonwood/Sedona | 116 | 1h 55min | I-17 N → AZ-179 N |
+| Sedona → Grand Canyon South Entrance | 115 | 2h 15min | US-89A N → US-89 N → AZ-64 W |
+| Grand Canyon (Visitor Center) → Page via Desert View | 95 | 1h 40min | AZ-64 E → US-89 N |
+| Page → Zion East Entrance | 115 | 1h 55min | US-89 S → Kanab → UT-9 W |
+| Zion West (Springdale) → Las Vegas Strip | 155 | 2h 20min | UT-9 → Hurricane → I-15 S |
+| Las Vegas Strip → Hoover Dam | 30 | 35min | US-93 S |
+| Hoover Dam → Valley of Fire | 72 | 1h 10min | Lake Shore Rd NV-167 |
+| Valley of Fire → Las Vegas Strip | 55 | 55min | NV-169 W → I-15 S |
+| Las Vegas Strip → Red Rock Canyon | 17 | 25min | W Charleston Blvd |
+| Red Rock Canyon → LAS Airport | 22 | 30min | I-215 E |
+| **Total** | **~792 mi** | **~13h 40min** | Spread across 4 days |
+
+---
+
+## BUDGET SUMMARY
+
+| Category | Low | High | How to Save |
+|---|---|---|---|
+| Flights (AUS → PHX / LAS → AUS) | $100 | $160 | Book 2–3 weeks ahead, Southwest or Spirit |
+| Rental car — 4 days | $140 | $220 | Turo beats airport counter on weekends |
+| Gas — ~792 miles | $65 | $85 | Fill up in Las Vegas (cheapest fuel on route) |
+| Accommodation — 3 nights | $180 | $310 | Cottonwood + Page + Sin City Hostel |
+| Food — 3 full days | $70 | $120 | Spring Mountain Road keeps Las Vegas cheap |
+| Park entries + permits | $116 | $136 | Annual Pass covers Grand Canyon + Zion + Red Rock |
+| **TOTAL** | **$671** | **$1,031** | **Realistic target: $700–$800** |
+
+---
+
+## 10 PORTFOLIO SHOTS THIS TRIP IS BUILT TO PRODUCE
+
+| # | Shot | Location | Light | Why |
+|---|---|---|---|---|
+| 1 | 270° river curve at sunrise | Horseshoe Bend | Dawn | Among most viral Southwest landscape photos on Instagram |
+| 2 | Canyon layer gradient into gorge | Grand Canyon — Hopi Point | Sunset | World-famous, globally recognized, 10/10 reach |
+| 3 | Red sandstone crimson sequence | Valley of Fire — Fire Wave | Sunset | Color range unmatched anywhere in the Southwest |
+| 4 | Cathedral Rock reflected in Oak Creek | Sedona | Sunrise | Instantly recognizable, strong foreground interest |
+| 5 | Milky Way over Aztec sandstone | Valley of Fire | New Moon night | Rare — dark sky + color geology + accessible |
+| 6 | Dam face + gorge from bridge walkway | Hoover Dam | Afternoon | Scale, engineering precision, Art Deco detail |
+| 7 | Painted Desert panorama from tower top | Desert View Watchtower | Afternoon | 360° angle most Grand Canyon photographers never take |
+| 8 | Bellagio fountains burst + pavement reflection | Las Vegas Strip | Night | Urban counterpoint to the landscape series |
+| 9 | Calico Hills at dawn, city unlit below | Red Rock Canyon | Sunrise | Unique 20-minute window — desert above, city dark below |
+| 10 | Colorado River + canyon walls from switchbacks | Zion UT-9 descent | Midday | Vertical canyon scale — different visual language from every other stop |
