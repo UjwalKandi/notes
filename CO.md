@@ -640,3 +640,72 @@ First direct light arrives from the east and rakes across the dune surface at an
 | 8 | Blue Lakes turquoise water, Sneffels Range behind | Blue Lakes | Morning | The most saturated color photograph of the trip |
 | 9 | Victorian Main Avenue at blue hour | Durango | Pre-dawn | Warm building light against cold blue sky — a different Colorado entirely |
 | 10 | Painted Wall cliff face across Black Canyon | Black Canyon | Afternoon | 2,250-ft vertical — scale and geological age in one frame |
+
+
+# COLORADO TRIP — FOOD, FINDS & EXPERIENCES LIST
+
+*Organized by day and location along the route*
+
+---
+
+## TUESDAY — Estes Park / RMNP / Breckenridge / Aspen
+
+| # | Item | Where | Notes |
+|---|---|---|---|
+| 1 | **Colorado Green Chili** | Breakfast burrito in Estes Park before entering RMNP | Hot green chili + cold mountain morning = the combo |
+| 2 | **Local Mountain Coffee** | Notchtop Café (Estes Park) or Ink Coffee (Breckenridge) | Fuel for the Trail Ridge Road sunrise drive |
+| 3 | **RMNP + Ski-Town Stickers / Patches** | RMNP Visitor Center + Breckenridge gift shops | RMNP trail patch, Breckenridge ski decal |
+| 4 | **Alpine Roads With Windows Down** | Trail Ridge Road (12,183 ft) + Independence Pass (12,095 ft) | Two of the best high-altitude open-window drives in America — same day |
+
+---
+
+## WEDNESDAY — Gunnison / Ouray
+
+| # | Item | Where | Notes |
+|---|---|---|---|
+| 5 | **Unique Root Beer / Mountain Soda / Ginger Beer** | Firebrand Delicatessen (Ouray) or local general stores | Stock up for the road — grab an unusual regional brand |
+| 6 | **Ouray Hot Springs Pool** | Ouray Hot Springs, 1000 Main St | Open until 10 PM. You arrive ~10:20 PM — call ahead to confirm late entry. After the Blue Lakes hike and full San Juans day, this earns itself. |
+
+---
+
+## THURSDAY — Ouray / Silverton / Red Mountain Pass / Durango
+
+| # | Item | Where | Notes |
+|---|---|---|---|
+| 7 | **Elk / Bison Jerky** | Ouray Alpenhorn Gift Shop or Silverton General Store | Buy in Ouray before the hike — trail snack and souvenir in one |
+| 8 | **Mountain Town Taffy / Old Candy Store** | Blair Street, Silverton | Pick up taffy or hard candy from one of the historic storefronts |
+| 9 | **Peach Candies / Peach Soda / Peach Hot Sauce** | Silverton or Durango general stores | Palisade peach products show up across western Colorado |
+| 10 | **Colorado Hot Sauce** | Silverton or Ouray trading posts | Green chili-based, smoky, nothing like Texas sauces — easy to pack |
+| 11 | **Stargazing — Red Mountain Pass** | Pull off US-550 after the sunset session | After the 8:30 PM golden hour, the pass is dark, remote, and at 11,000 ft. One of the best dark-sky positions of the trip. Moon is near full this week — best between 9–11 PM before moonrise. |
+| 12 | **Western Diner Pie** | Handlebars Food & Saloon (Silverton) or Serious Texas BBQ (Durango) | After a full day of the San Juans, sit down and eat pie. Non-negotiable. |
+
+---
+
+## FRIDAY — Colorado Springs / Fan Fest
+
+| # | Item | Where | Notes |
+|---|---|---|---|
+| 13 | **Local Mountain Coffee** | Durango Coffee Company (Main Ave) — grab before Mesa Verde | One of the better roasters on the route |
+| 14 | **Pikes Peak Hill Climb Pins + Merch** | Fan Fest, Downtown Colorado Springs | Pins, patches, poster, sticker — get at least one item. This event has been running since 1916. |
+| 15 | **Pikes Peak Stickers + Trail Patches** | Fan Fest vendors + Garden of the Gods visitor center | Stack the sticker collection here |
+| 16 | **Stargazing — Great Sand Dunes (late night)** | Great Sand Dunes parking lot after midnight | Near full moon limits Milky Way but the dunes at moonlight are their own experience — the sand glows silver |
+
+---
+
+## SATURDAY — Great Sand Dunes
+
+| # | Item | Where | Notes |
+|---|---|---|---|
+| 17 | **National Park Stickers / Sand Dunes Patch** | Great Sand Dunes Visitor Center (opens 9 AM) | Close out the sticker collection — RMNP + Black Canyon + Mesa Verde + Sand Dunes all in one trip |
+
+---
+
+## THE SHORT VERSION — 5 THINGS IF NOTHING ELSE
+
+| Priority | Item | When |
+|---|---|---|
+| **1** | Green chili breakfast burrito | Tuesday morning, Estes Park |
+| **2** | Elk or bison jerky | Thursday, Ouray or Silverton |
+| **3** | Pikes Peak Hill Climb pin or patch | Friday evening, Fan Fest |
+| **4** | Mountain coffee beans (local roaster) | Durango, Friday morning |
+| **5** | Sticker from every park + every town | Running total throughout the trip |
