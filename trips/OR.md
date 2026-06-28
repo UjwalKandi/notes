@@ -1,7 +1,3 @@
-The friend's route is strong and your car-sleeping style makes it work. I fixed the one real flaw (the Monday inland dogleg), added the seasonal events worth building around, and matched your established format. Here's the complete itinerary.
-
----
-
 # 🌊🌲🌋 PACIFIC NORTHWEST MYSTIC EXPEDITION
 ## Portland → Oregon Coast → Crater Lake → Redwoods → Lassen → San Francisco
 ### Aug 13–17, 2026 | Car Sleeping | Golden Hour Optimized | Photographer Edition
@@ -15,13 +11,14 @@ The friend's route is strong and your car-sleeping style makes it work. I fixed 
 | **Inbound** | Austin (AUS) → Portland (PDX) — Thu Aug 13 evening |
 | **Outbound** | San Francisco (SFO) → Austin (AUS) — Mon Aug 17 evening |
 | **Style** | Car sleeping every night — no hotels |
-| **Total miles** | ~1,360 across 4 shooting days (~340/day) |
+| **Total miles** | ~1,420 across 4 shooting days (~340/day) |
 | **Golden hour sessions** | 13 total — four rated 10/10 |
 | **Sunrise / Sunset** | ~6:10 AM / ~8:00–8:25 PM (all PNW locations) |
 | **Golden hour windows** | 5:40–6:15 AM and 7:30–8:25 PM |
 | **★ Moon phase** | New Moon ~Aug 12–13 — DARK SKIES early week |
 | **★ Perseid meteor shower** | Peaks Aug 11–13, active through Aug 20 — Crater Lake nights |
-| **Portfolio goal** | Completely different from your AZ/UT/NV/CO catalog — coast, old-growth forest, volcanic |
+| **New this version** | Battery Point Lighthouse added (Sunday, tide-gated) |
+| **Portfolio goal** | Completely different from your AZ/UT/NV/CO catalog — coast, old-growth forest, volcanic, lighthouse |
 
 ---
 
@@ -33,15 +30,26 @@ The friend's Day 4 stacked **Ferndale → Burney Falls → Lassen → SF** into 
 
 ---
 
+## ✏️ WHAT CHANGED IN THIS UPDATE
+
+| Suggested Stop | Decision | Where |
+|---|---|---|
+| **Battery Point Lighthouse** | ✅ Added | Sunday — Crescent City, tide-gated midday stop |
+| Howland Hill Road | Already in | Sunday Stop #5 |
+| Stout Grove | Already in | Sunday Stop #4 |
+| Myrtle Creek Botanical Wayside | ❌ Skipped | Redundant with Stout Grove; protects Sunday reserve time |
+
+---
+
 ## BEFORE YOU LEAVE AUSTIN
 
 | Priority | Item | How | Cost |
 |---|---|---|---|
 | **Do today** | Fern Canyon / Gold Bluffs Beach permit | Recreation.gov | $12 |
 | **This week** | Rental car — Portland Airport (SUV/AWD) | Turo or counter | $45–65/day |
-| **This week** | America the Beautiful Annual Pass | Recreation.gov or gate | $80 |
+| **This week** | America the Beautiful Annual Pass | Recreation.gov or gate | $80 (already owned) |
 | **Check now** | Crater Lake star party schedule (Aug 14–15) | nps.gov/crla | Free |
-| **Check daily** | Thor's Well tide tables | tides.net / NOAA | Free — critical for timing + safety |
+| **Check daily** | Thor's Well **+ Battery Point** tide tables | tides.net / NOAA | Free — timing + safety |
 | **Pack** | Car sleep kit, rain shell (coast + Lassen), layers | — | — |
 | **Pack** | Tripod + intervalometer (Perseids + Milky Way) | — | — |
 
@@ -56,7 +64,7 @@ The friend's Day 4 stacked **Ferndale → Burney Falls → Lassen → SF** into 
 > **Crater Lake → sunset + night (Perseids/Milky Way), then sunrise**
 > **Never waste a golden hour on a drive you could do midday**
 
-The redwoods are the exception to your usual rule — old-growth forest photographs *best* in flat, overcast, or midday diffused light. Soft light eliminates the harsh dappled contrast that wrecks forest shots. That's why the redwoods sit in the middle of the day in this plan, freeing your golden hours for coast and volcanic lakes.
+The redwoods are the exception to your usual rule — old-growth forest photographs *best* in flat, overcast, or midday diffused light. Soft light eliminates the harsh dappled contrast that wrecks forest shots. That's why the redwoods sit in the middle of the day in this plan, freeing your golden hours for coast and volcanic lakes. Battery Point Lighthouse follows the same logic — a midday stop, not a golden-hour competitor.
 
 ---
 ---
@@ -124,7 +132,7 @@ The protect-at-all-costs sunset of the trip. 12 miles of sea stacks, natural arc
 - **Natural Bridges Viewpoint** — rock arches over turquoise coves
 - **Secret Beach** — sea stacks framed by a stream-cut cove (also your Day 2 sunrise)
 - **Thunder Rock Cove / Arch Rock** — layered sea stacks receding into the Pacific haze
-West-facing, full sun into the lens at golden hour — the haze and stacks create natural depth layers. Stay through blue hour at Natural Bridges.
+West-facing, full sun into the lens at golden hour — the haze and stacks create natural depth layers. Stay through blue hour at Natural Bridges. If the light is extraordinary, **stay** — this is the friend's strongest advice and it's right. Your driving endurance is the buffer for exactly this.
 
 ---
 ---
@@ -175,22 +183,23 @@ This is the rare convergence: new moon, one of the darkest skies in the lower 48
 ## SUNDAY, AUG 16 — REDWOODS EXPEDITION + INLAND TO LASSEN
 
 ### Day Overview
-The forest day, restructured to fix the friend's Monday overload. Optional Crater Lake sunrise, then the drive south into California's redwood country — the tallest trees on Earth. Redwoods photograph best in flat/diffused light, so midday here is ideal, not wasted. You hit Jedediah Smith's Stout Grove, the legendary Howland Hill Road, Fern Canyon (permit required), and Avenue of the Giants. Then — instead of saving the brutal inland leg for Monday — you drive to Lassen Sunday evening and sleep at Manzanita Lake, positioned for Monday's sunrise. Ferndale and Burney Falls become drive-through/quick stops rather than a separate impossible day.
+The forest day, restructured to fix the friend's Monday overload — and now with Battery Point Lighthouse added at the front. Optional Crater Lake sunrise, then the drive south into California. Your first California stop is **Battery Point Lighthouse in Crescent City** — an 1856 lighthouse on a tidal island, reachable on foot only at low tide. It fills the one missing portfolio category (lighthouse) at zero detour. From there into redwood country: Stout Grove, Howland Hill Road, Fern Canyon, and Avenue of the Giants. Redwoods photograph best in flat/diffused light, so midday here is ideal, not wasted. Then — instead of saving the brutal inland leg for Monday — you drive to Lassen Sunday evening and sleep at Manzanita Lake, positioned for Monday's sunrise.
 
 ### Sunday Stops — In Order
 
 | # | Stop | Arrive | Duration | Type | Priority |
 |---|---|---|---|---|---|
 | 1 | Crater Lake viewpoints (optional) | 6:08 AM | 45 min | ★ Morning lake light | 7/10 |
-| 2 | Drive south to California | 7:00 AM | 4h 20min | Forest transition via US-199 | — |
-| 3 | **Jedediah Smith Redwoods — Stout Grove** | 11:30 AM | 1h 30min | ★ Cathedral old-growth forest | 9/10 |
-| 4 | **Howland Hill Road** | 1:00 PM | 1h | ★ Legendary unpaved redwood drive | 8/10 |
-| 5 | Prairie Creek Redwoods — elk meadow | 2:30 PM | 45 min | Roosevelt elk + forest roads | 7/10 |
-| 6 | **Fern Canyon** (permit required) | 3:30 PM | 1h 15min | ★ Prehistoric fern-walled canyon | 9/10 |
-| 7 | **Avenue of the Giants** | 6:00 PM | 1h | ★ Golden hour through giants | 8/10 |
-| 8 | Ferndale (quick blue-hour pass) | 7:30 PM | 30 min | Victorian Americana storefronts | 6/10 |
-| 9 | Drive inland toward Lassen | 8:00 PM | ~3h | US-36 E night drive | — |
-| 10 | Lassen / Manzanita Lake area | ~11:00 PM | Sleep | Car sleep at the lake | — |
+| 2 | Drive south to California | 7:00 AM | ~4h | Forest transition via US-199 | — |
+| 3 | **Battery Point Lighthouse, Crescent City** | 11:15 AM | 45 min | ★ 1856 lighthouse, tidal island — NEW | 7/10 |
+| 4 | **Jedediah Smith Redwoods — Stout Grove** | 12:15 PM | 1h 15min | ★ Cathedral old-growth forest | 9/10 |
+| 5 | **Howland Hill Road** | 1:45 PM | 1h | ★ Legendary unpaved redwood drive | 8/10 |
+| 6 | Prairie Creek Redwoods — elk meadow | 2:45 PM | 30 min | Roosevelt elk + forest roads | 7/10 |
+| 7 | **Fern Canyon** (permit required) | 3:30 PM | 1h 15min | ★ Prehistoric fern-walled canyon | 9/10 |
+| 8 | **Avenue of the Giants** | 6:00 PM | 1h | ★ Golden hour through giants | 8/10 |
+| 9 | Ferndale (quick blue-hour pass) | 7:30 PM | 30 min | Victorian Americana storefronts | 6/10 |
+| 10 | Drive inland toward Lassen | 8:00 PM | ~3h | US-36 E night drive | — |
+| 11 | Lassen / Manzanita Lake area | ~11:00 PM | Sleep | Car sleep at the lake | — |
 
 **Set alarm: 5:30 AM (or sleep in if you skip Crater sunrise)**
 
@@ -198,13 +207,21 @@ The forest day, restructured to fix the friend's Monday overload. Optional Crate
 
 ### Sunday Photography Detail
 
-**11:30 AM — Stout Grove, Jedediah Smith Redwoods**
+**11:15 AM — Battery Point Lighthouse, Crescent City** *(NEW)*
+A working lighthouse built in 1856 on a small rocky tidal island just offshore from Crescent City. It is reachable on foot across a rock causeway **only at low tide** — the same tide-awareness you're applying to Thor's Well and Secret Beach applies here.
+- **Check the Crescent City tide table the night before.** If low tide aligns with your late-morning arrival, walk across the causeway and shoot the lighthouse up close with the rocky island foreground.
+- **If the tide is high:** shoot from shore — still a strong frame with the lighthouse isolated on its island, waves breaking around the base, often with coastal fog.
+- **16–35mm** — lighthouse + island + causeway leading line at low tide
+- **70–200mm** — isolate the lighthouse on its island from shore at high tide
+- 45 minutes maximum — this is a quick portfolio-filler stop, not a lingering session. Your golden hours this day stay committed to Stout Grove (diffused midday) and Avenue of the Giants (sunset).
+
+**12:15 PM — Stout Grove, Jedediah Smith Redwoods**
 The most cathedral-like grove in the redwoods. Flat alluvial floor, evenly spaced giants, often misty. Midday overcast or filtered sun is *ideal* — it eliminates harsh contrast.
 - **16–35mm vertical** — emphasize height, shoot straight up the trunks
 - Look for god-rays if fog + sun combine (common mid-morning)
 - A person in frame gives the only true sense of scale
 
-**Howland Hill Road** — An unpaved 10-mile road winding directly through old-growth (your SUV handles it). Pull over anywhere; the road itself framed by giants is the shot.
+**Howland Hill Road** — An unpaved 10-mile road winding directly through old-growth (your SUV handles it). Pull over anywhere; the road itself framed by giants is the shot. It connects directly from the Stout Grove area, so it flows naturally after the grove.
 
 **3:30 PM — Fern Canyon**
 *Permit required (Recreation.gov).* A 30–80-foot canyon with walls completely covered in ferns, with a stream running the floor — used as a filming location for *Jurassic Park*. Diffused canyon light all day. Waterproof footwear: you walk through the stream. Wide angle, slow shutter for the stream, focus on the fern wall texture.
@@ -270,25 +287,14 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | **Sat Aug 15** | 5:00 PM | Watchman Overlook, Crater Lake | Caldera + Wizard Island | 9/10 |
 | **Sat Aug 15** | 7:30 PM | ★★ Crater Lake Rim | Signature caldera sunset | 10/10 |
 | **Sat Aug 15** | 9:30 PM | ★★ Crater Lake | Milky Way + Perseids over caldera | 10/10 |
-| **Sun Aug 16** | 11:30 AM | Stout Grove (diffused light) | Cathedral old-growth | 9/10 |
+| **Sun Aug 16** | 12:15 PM | Stout Grove (diffused light) | Cathedral old-growth | 9/10 |
 | **Sun Aug 16** | 6:00 PM | Avenue of the Giants | Golden light through giants | 8/10 |
 | **Mon Aug 17** | 5:50 AM | ★ Manzanita Lake | Lassen Peak reflection | 9/10 |
 | **Mon Aug 17** | 12:45 PM | Burney Falls | Spring-fed waterfall curtain | 8/10 |
 
+*Battery Point Lighthouse (Sun 11:15 AM) is a midday tide-gated stop, not a golden-hour session — it slots between the Crater Lake morning and Stout Grove without competing for golden light.*
+
 **Four sessions rated 10/10: Boardman sunset, Crater Lake sunset, Crater Lake astro, plus the redwood/Manzanita pairing as the portfolio anchors.**
-
----
-
-## SEASONAL EVENTS & WINDOWS — MID-AUGUST 2026
-
-| Event | When | Photography Angle |
-|---|---|---|
-| **★ Perseid Meteor Shower** | Peaks Aug 11–13, active to ~Aug 20 | Crater Lake Aug 15 night — meteors over the caldera with Milky Way |
-| **New Moon** | ~Aug 12–13 | Darkest skies of the month early in your trip — astro is prime |
-| **Crater Lake Star Parties** | Summer weekends (ranger-led) | Check NPS calendar for Aug 15 — Rim Village |
-| **Lassen high-elevation wildflowers** | Late July–August | Lake Helen / Bumpass Hell meadows still in bloom |
-| **Oregon coast morning fog** | Common in August | Embrace it — moody, atmospheric sea-stack shots |
-| **Tide windows — Thor's Well** | Daily — check NOAA | Best 1hr before-to-at high tide. Safety critical. |
 
 ---
 
@@ -302,6 +308,7 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | Crater Lake caldera | 100 | 1/125–1/500 | f/8–f/11 | Polarizer (careful not to over-darken) |
 | Crater Lake Milky Way | 3200–6400 | 15–20s | f/2.8 | 14–24mm, manual focus to infinity |
 | Perseid meteors | 3200 | 20s continuous | f/2.8 | Intervalometer, stack later |
+| **Battery Point Lighthouse** | **100–400** | **1/125–1/500** | **f/8** | **Low tide for causeway; telephoto from shore at high tide** |
 | Stout Grove redwoods | 400–800 | 1/15–1/60s | f/8 | Tripod, vertical, shoot up the trunks |
 | Fern Canyon | 400–800 | 1/8–1/30s | f/8 | Diffused light, slow shutter on stream |
 | Avenue of the Giants | 200–400 | 1/30–1/125s | f/8 | Look for light shafts in haze |
@@ -338,8 +345,9 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | Thor's Well → Samuel Boardman Corridor | 130 | 2h 45min | US-101 S |
 | Boardman → Brookings | 12 | 20min | US-101 S |
 | Brookings → Crater Lake NP | 165 | 3h 30min | US-199 → OR-62 |
-| Crater Lake → Jedediah Smith Redwoods | 200 | 4h 20min | OR-62 → US-199 |
-| Jedediah Smith → Fern Canyon | 45 | 1h 10min | US-101 S → Davison Rd |
+| Crater Lake → Crescent City (Battery Point) | 185 | 4h | OR-62 → US-199 |
+| Battery Point → Stout Grove (Jedediah Smith) | 10 | 20min | US-101 → Howland Hill Rd |
+| Stout Grove → Fern Canyon | 45 | 1h 10min | US-101 S → Davison Rd |
 | Fern Canyon → Avenue of the Giants | 70 | 1h 30min | US-101 S |
 | Avenue of the Giants → Ferndale | 35 | 45min | US-101 S |
 | Ferndale → Lassen (Manzanita Lake) | 245 | 5h | US-36 E → CA-89 |
@@ -356,9 +364,11 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | Thu Aug 13 | PDX → Cannon Beach | 80 | 1h 35min |
 | Fri Aug 14 | Cannon Beach → coast → Brookings | 340 | 7h |
 | Sat Aug 15 | Coast → Crater Lake | 340 | 6h 30min |
-| Sun Aug 16 | Crater Lake → Redwoods → Lassen | 430 | 8h 30min |
+| Sun Aug 16 | Crater Lake → Battery Point → Redwoods → Lassen | 430 | 8h 30min |
 | Mon Aug 17 | Lassen → Burney Falls → SFO | 320 | 6h |
 | **Total** | | **~1,420 mi** | **~30h** |
+
+*Battery Point adds essentially zero detour — it sits directly on US-101 in Crescent City where you enter California, right before the Howland Hill Road turnoff to Stout Grove.*
 
 ---
 
@@ -368,6 +378,7 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 |---|---|---|---|
 | Crater Lake NP | $30/vehicle | Pay at gate | Annual Pass covers |
 | Redwood National & State Parks | Free | — | Some state park day-use lots charge |
+| **Battery Point Lighthouse** | **~$5 donation (museum tour)** | **On-site, low tide only** | **Grounds/exterior photography free; tide-gated access** |
 | Fern Canyon / Gold Bluffs Beach | $12 | **Recreation.gov** | **Permit required May–Sep — book now** |
 | Lassen Volcanic NP | $30/vehicle | Pay at gate | Annual Pass covers |
 | Burney Falls (McArthur–Burney SP) | $10/vehicle | Pay at gate | State park — not on federal Annual Pass |
@@ -385,9 +396,9 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | **Accommodation** | **$0** | **$0** | Car sleeping every night |
 | Showers — 2 truck stops | $30 | $30 | |
 | Food — 4 days | $80 | $140 | Provisions + coastal seafood splurge |
-| Park entries + permits | $22 | $42 | Annual Pass covers the big 3; Fern Canyon + Burney extra |
+| Park entries + permits | $27 | $47 | Annual Pass covers the big 3; Fern Canyon + Burney + Battery Point extra |
 | Provisions / supplies | $50 | $80 | |
-| **TOTAL** | **~$810** | **~$1,310** | **Realistic target: ~$950** |
+| **TOTAL** | **~$815** | **~$1,315** | **Realistic target: ~$950** |
 
 **One-way car rental note:** Dropping the car in SF after picking up in Portland incurs a one-way fee — this is the single biggest variable. Compare one-way rental cost against flying round-trip to one city; the open-jaw flight + one-way car usually wins for this route.
 
@@ -404,10 +415,12 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 | 5 | Lassen Peak reflected in still lake | Manzanita Lake | Sunrise | Volcano mirror — California's answer to Maroon Bells |
 | 6 | Haystack Rock + tide-pool reflection | Cannon Beach | Sunrise | The icon of the Oregon coast |
 | 7 | Fern-walled prehistoric canyon | Fern Canyon | Diffused | Jurassic Park location — utterly unique texture |
-| 8 | Thor's Well draining the ocean | Cape Perpetua | High tide | Ocean-action drama, technically demanding |
+| 8 | Lighthouse on a tidal island | Battery Point, Crescent City | Midday / low tide | Fills the missing lighthouse category — historic 1856 light |
 | 9 | Alien geothermal basin + steam | Bumpass Hell, Lassen | Morning | Boiling pools and fumaroles — otherworldly |
 | 10 | Spring-fed waterfall curtain | Burney Falls | Midday shade | Water emerging from the rock face itself |
 
+*(Thor's Well's ocean-action frame remains a strong honorable mention — it just moves off the top-10 to make room for the lighthouse, which adds a category you don't otherwise have.)*
+
 ---
 
-**One thing to lock down first:** confirm your actual flight times into PDX and out of SFO, and price the **one-way car rental** — that's the only variable that meaningfully changes this plan. Everything else holds. Want me to build the **food/finds/experiences list** (PNW seafood, coast-town coffee, redwood-country specialties, SF exit eats) like I did for Colorado?
+Battery Point is now fully integrated with zero added drive time, and the day still protects your golden hours and reserve buffer. Want me to build the **food/finds/experiences list** (PNW seafood, coast-town coffee roasters, redwood-country eats, SF exit meal) like I did for the Colorado trip?
