@@ -1,6 +1,10 @@
-# 🌊🌲🌋 PACIFIC NORTHWEST MYSTIC EXPEDITION
-## Portland → Oregon Coast → Crater Lake → Redwoods → Lassen → San Francisco
-### Aug 13–17, 2026 | Car Sleeping | Golden Hour Optimized | Photographer Edition
+Here is the definitive final version — every optional and golden-hour spot included, with a clear hour-by-hour path for each day so you always know where you are and where you're headed next.
+
+---
+
+# 🌊🌲🌋 PACIFIC NORTHWEST MYSTIC EXPEDITION — MASTER FINAL
+## Portland → Columbia Gorge → Oregon Coast → Redwoods → Crater Lake → Lassen → San Francisco
+### Aug 13–18, 2026 | Car Sleeping | Low-Sleep Format | Golden Hour Optimized | Photographer Edition
 
 ---
 
@@ -8,293 +12,203 @@
 
 | | |
 |---|---|
-| **Inbound** | Austin (AUS) → Portland (PDX) — Thu Aug 13 evening |
-| **Outbound** | San Francisco (SFO) → Austin (AUS) — Mon Aug 17 evening |
-| **Style** | Car sleeping every night — no hotels |
-| **Total miles** | ~1,420 across 4 shooting days (~340/day) |
-| **Golden hour sessions** | 13 total — four rated 10/10 |
-| **Sunrise / Sunset** | ~6:10 AM / ~8:00–8:25 PM (all PNW locations) |
-| **Golden hour windows** | 5:40–6:15 AM and 7:30–8:25 PM |
-| **★ Moon phase** | New Moon ~Aug 12–13 — DARK SKIES early week |
-| **★ Perseid meteor shower** | Peaks Aug 11–13, active through Aug 20 — Crater Lake nights |
-| **New this version** | Battery Point Lighthouse added (Sunday, tide-gated) |
-| **Portfolio goal** | Completely different from your AZ/UT/NV/CO catalog — coast, old-growth forest, volcanic, lighthouse |
+| **Inbound** | Austin (AUS) → Portland (PDX) — Thu Aug 13, 6:55 PM → 11:05 PM |
+| **Outbound** | San Francisco (SFO) → Austin (AUS) — **Tue Aug 18, 12:45 AM → 8:37 AM (red-eye via IAH, $129)** |
+| **Return logic** | $0 pay lost — at desk 9:22 AM for 10 AM start |
+| **Style** | Car sleeping every night, 4 hrs or less; red-eye = final "night" |
+| **Total miles** | ~1,200 across 4 shooting days |
+| **★ Moon** | New Moon ~Aug 12–13 — dark skies for Crater Lake astro |
+| **★ Perseids** | Active through Aug 20 — Crater Lake night is the astro centerpiece |
+| **Volcanic through-line** | Crater Lake → Mt. Shasta → Lassen on the Volcanic Legacy Scenic Byway |
+| **SF status** | Flight-only — food + car return, no city sightseeing |
 
 ---
 
-## ⚠️ THE ONE FIX I MADE TO THE FRIEND'S PLAN
+## BOOK BEFORE YOU LEAVE (in order of urgency)
 
-The friend's Day 4 stacked **Ferndale → Burney Falls → Lassen → SF** into a single day — that's 505 miles plus two National Park stops, with a massive inland dogleg (Burney Falls and Lassen are far east, SF is back west). It doesn't fit a golden-hour rhythm.
-
-**The fix:** Move the inland leg to **Sunday afternoon/evening**, sleep at Lassen, and make Monday a clean Manzanita Lake sunrise → SF drive. You keep every location the friend wanted — nothing is cut — the days just flow better and every golden hour lands.
-
----
-
-## ✏️ WHAT CHANGED IN THIS UPDATE
-
-| Suggested Stop | Decision | Where |
-|---|---|---|
-| **Battery Point Lighthouse** | ✅ Added | Sunday — Crescent City, tide-gated midday stop |
-| Howland Hill Road | Already in | Sunday Stop #5 |
-| Stout Grove | Already in | Sunday Stop #4 |
-| Myrtle Creek Botanical Wayside | ❌ Skipped | Redundant with Stout Grove; protects Sunday reserve time |
-
----
-
-## BEFORE YOU LEAVE AUSTIN
-
-| Priority | Item | How | Cost |
+| Priority | Item | Where | Cost |
 |---|---|---|---|
-| **Do today** | Fern Canyon / Gold Bluffs Beach permit | Recreation.gov | $12 |
-| **This week** | Rental car — Portland Airport (SUV/AWD) | Turo or counter | $45–65/day |
-| **This week** | America the Beautiful Annual Pass | Recreation.gov or gate | $80 (already owned) |
-| **Check now** | Crater Lake star party schedule (Aug 14–15) | nps.gov/crla | Free |
-| **Check daily** | Thor's Well **+ Battery Point** tide tables | tides.net / NOAA | Free — timing + safety |
-| **Pack** | Car sleep kit, rain shell (coast + Lassen), layers | — | — |
-| **Pack** | Tripod + intervalometer (Perseids + Milky Way) | — | — |
+| **1 — today** | Return red-eye SFO→AUS 12:45 AM Tue Aug 18 (United via IAH) | Airline | $129 |
+| **2 — today** | Rental car — SUV/AWD, PDX pickup / SFO drop | Turo or counter | $350–550 |
+| **3 — today** | Fern Canyon / Gold Bluffs Beach permit — **Aug 16** | Recreation.gov | $12 |
+| 4 — confirm | Inbound AUS→PDX Thu Aug 13, 6:55 PM | Airline | $100–180 |
+| 5 — insurance | Multnomah Falls timed-use permit — Aug 14 ($2, only needed 9 AM–6 PM; sunrise skips it) | Recreation.gov | $2 |
+| Owned | America the Beautiful Annual Pass | — | — |
 
-**Annual Pass math:** Crater Lake ($30) + Redwood NP (free) + Lassen ($30) = covered by the $80 pass, which you already bought for Colorado.
+**Just check / download (no booking):** Bumpass Hell boardwalk open status (nps.gov/lavo) • Thor's Well + Heceta Head + Battery Point tide tables (NOAA) • CA-89 / Davison Rd / Lassen wildfire status (Caltrans, InciWeb) • offline maps for the whole route • cash for SF (Good Mong Kok, Yamo, El Farolito are cash-only).
 
 ---
 
-## CORE PHOTOGRAPHY STRATEGY
+## LOGISTICS MASTER REFERENCE
 
-> **Coast & landscapes → sunrise and sunset only**
-> **Redwood forest → midday is fine (canopy diffuses harsh light beautifully)**
-> **Crater Lake → sunset + night (Perseids/Milky Way), then sunrise**
-> **Never waste a golden hour on a drive you could do midday**
-
-The redwoods are the exception to your usual rule — old-growth forest photographs *best* in flat, overcast, or midday diffused light. Soft light eliminates the harsh dappled contrast that wrecks forest shots. That's why the redwoods sit in the middle of the day in this plan, freeing your golden hours for coast and volcanic lakes. Battery Point Lighthouse follows the same logic — a midday stop, not a golden-hour competitor.
+**Sleep spots:** Thu — Troutdale (I-84) • Fri — Cannon Beach • Sat — Brookings • Sun — Crater Lake rim (Mazama) • Mon — red-eye.
+**Showers:** Sun — Grants Pass, OR ($15) • Mon — Redding, CA ($15).
+**Freshen up:** Fred Meyer / Walmart along US-101 & I-5.
 
 ---
 ---
 
-## THURSDAY, AUG 13 — AUSTIN → PORTLAND → CANNON BEACH
+## THURSDAY, AUG 13 — LAND → PORTLAND NIGHT SNAPS → TROUTDALE
 
 ### Day Overview
-Pure logistics night. Land in Portland, pick up the car, stock up, and drive 90 minutes to the coast so you wake up at Cannon Beach for sunrise. Sleeping near Haystack Rock means zero pre-dawn driving on Day 1 — the same principle that made Maroon Bells and Great Sand Dunes work on your Colorado trip.
+Logistics night with a bonus: the two Portland landmarks that photograph best in the dark. Land, grab the car and a week of provisions, shoot the lit White Stag sign and Chinatown Gateway in Old Town, then sleep 20 minutes east at the mouth of the Gorge — waking up in position for Multnomah Falls.
 
-### Thursday Stops — In Order
+### Hour-by-Hour Path
 
-| # | Stop | Arrive | Duration | Type |
-|---|---|---|---|---|
-| 1 | Portland Airport (PDX) | evening | 30 min | Arrive + rental car |
-| 2 | Fred Meyer / Walmart — Beaverton (US-26 W) | +45 min | 30 min | Full provisions, water, snacks |
-| 3 | Cannon Beach area | +1h 35min | Sleep | Car sleep near Haystack Rock |
+| Time | Where → What |
+|---|---|
+| **11:05 PM** | Land PDX. Deplane, restroom, straight to rental counter. |
+| **11:35 PM** | Rental car in hand. Drive to Fred Meyer NE Portland (~10 min). |
+| **11:45 PM–12:10 AM** | **Fred Meyer (24hr):** full week's provisions — 4–5 L water/day, trail bars, nuts, bread, PB, instant coffee, ice. Fuel up. |
+| **12:10 AM** | Drive to Old Town (~10 min). |
+| **12:20–12:30 AM** | ★ **Portland "White Stag" Sign** — neon night frame, W Burnside. Handheld/braced, ISO 800–1600. |
+| **12:30–12:40 AM** | ★ **Chinatown Gateway** — lit paifang, 2 blocks away. Quick set. |
+| **12:45 AM** | Drive I-84 E to Troutdale (~25 min). |
+| **~1:10 AM** | **Car sleep — Troutdale.** 20 min from Multnomah Falls. |
+| | **Alarm: 5:15 AM.** |
 
-**Sleep spot:** Cannon Beach has limited overnight parking — the Ecola State Park lot or designated areas along the coast. Tolovana Beach access (south end) is a quieter alternative. Confirm overnight rules; coastal Oregon enforces no-camping zones in town.
-
-**Driving:** PDX → Cannon Beach = ~80 miles, ~1h 35min via US-26 W.
+**Driving:** ~30 miles.
 
 ---
 ---
 
-## FRIDAY, AUG 14 — OREGON COAST EXPEDITION
+## FRIDAY, AUG 14 — MULTNOMAH SUNRISE → PORTLAND CULTURE → COAST SUNSET
 
 ### Day Overview
-The most location-dense day of the trip — Oregon's coast is a chain of dramatic headlands, sea stacks, and ocean-action spots strung along US-101. You start at Haystack Rock sunrise, work south through Cape Kiwanda's sandstone, hit Thor's Well at the right tide in late afternoon, and finish with the Samuel H. Boardman Corridor sunset — one of the most spectacular stretches of coastline in North America. Embrace August coastal fog: it makes moody, atmospheric Pacific images that look nothing like your desert catalog.
+A clean west-flowing line, no metro backtrack. Waterfall at dawn, Portland's culture-and-food block mid-morning, then a straight shot to the coast for an Ecola sunset over Haystack. You sleep at Cannon Beach — the move that unlocks tomorrow's Haystack sunrise.
 
-### Friday Stops — In Order
+### Hour-by-Hour Path
 
-| # | Stop | Arrive | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **Cannon Beach — Haystack Rock** | 5:50 AM | 1h 30min | ★ Sunrise sea stack + tide pools | 9/10 |
-| 2 | Ecola State Park | 7:30 AM | 45 min | ★ Coastal cliff panoramas, Indian Beach | 8/10 |
-| 3 | Cape Kiwanda (Pacific City) | 9:30 AM | 1h | Sandstone cliffs, dune, sea stack | 7/10 |
-| 4 | Neskowin Ghost Forest | 11:00 AM | 45 min | Ancient tree stumps at low tide (tide-dependent) | 6/10 |
-| 5 | Cape Perpetua Overlook | 1:30 PM | 1h | Highest coastal viewpoint on OR coast | 7/10 |
-| 6 | **Thor's Well / Cook's Chasm** | 3:00 PM | 1h 30min | ★ Ocean-action — TIME TO TIDE | 9/10 |
-| 7 | Drive south on US-101 | 4:45 PM | 2h 45min | Coastal scenic drive | — |
-| 8 | **Samuel H. Boardman Corridor** | 7:30 PM | 1h | ★★ Signature Oregon sunset | 10/10 |
-| 9 | Natural Bridges Viewpoint | 8:25 PM | 30 min | ★ Blue-hour twilight seascape | 8/10 |
-| 10 | Brookings area | ~9:15 PM | Sleep | Car sleep | — |
+| Time | Where → What |
+|---|---|
+| **5:15 AM** | Wake, quick coffee/snack, drive to Multnomah Falls (~20 min). |
+| **6:00–7:15 AM** | ★ **MULTNOMAH FALLS (9/10)** — soft shaded dawn, crowd-free, no permit. 16–35mm vertical, tripod/ND 1/4–2s, Benson Footbridge with a figure. |
+| **7:15 AM** | Optional: drive 5 min to **Latourell Falls**. |
+| **7:30–8:00 AM** | *(Optional)* **Latourell Falls** — 249-ft drop against yellow-lichen basalt columns. |
+| **8:00 AM** | Drive I-84 W into Portland (~40 min). |
+| **8:45–9:45 AM** | **Breakfast — Love Belizean** — stew chicken, rice & beans, plantains. Cash-friendly. |
+| **10:00–11:00 AM** | ★ **Powell's City of Books (7/10)** — full city block; shoot the Rose Room + aisles. |
+| **11:15 AM–12:00 PM** | ★ **Paxton Gate (7/10)** — taxidermy + oddities. *(Most droppable if running late.)* |
+| **12:00–12:20 PM** | **Coffee — Coava or Heart**, to-go for the drive. |
+| **12:20 PM** | Drive US-26 W to the coast (~1h 35min). |
+| **2:00 PM** | Arrive Cannon Beach. Scout Haystack, tide pools, rest, charge batteries. |
+| **7:30–8:30 PM** | ★ **ECOLA STATE PARK SUNSET (9/10)** — cliff panorama over Haystack, Indian Beach below. West-facing golden hour. |
+| **~9:00 PM** | **Car sleep — Cannon Beach.** In position for Haystack sunrise. |
+| | **Alarm: 5:20 AM.** |
 
-**Set alarm: 5:20 AM**
-
-**Driving:** ~340 miles total.
-
-### Friday Photography Detail
-
-**5:50 AM — Haystack Rock, Cannon Beach**
-The 235-foot sea stack is the icon of the Oregon coast. At low-to-mid tide, the tide pools at its base mirror the rock and the sky. Sunrise comes from behind the headland (east) — the rock is side-lit and front-lit as the sun clears the coastal range, and August fog often wraps the base for atmosphere.
-- **16–24mm** — wide, low to the wet sand for reflection of the rock
-- **70–200mm** — compress the sea stacks (the Needles) beside Haystack
-- Long exposure with ND for silky surf around the base
-- Check tide chart — you want a receding or low tide for the pools
-
-**Ecola State Park (7:30 AM)** — Drive up for the cliff-top panorama: Haystack Rock from above, the coastline curving south, and Indian Beach below (the moody, surf-and-fog cove). One of the most photographed coastal viewpoints in Oregon.
-
-**3:00 PM — Thor's Well, Cape Perpetua**
-*This is a tide-and-safety-critical stop.* Thor's Well is a sinkhole in the basalt shelf that appears to "drain the ocean." Best photographed **1 hour before to at high tide** when the well surges and drains dramatically — but the same conditions are dangerous. **Never turn your back on the ocean here. Sneaker waves kill people on this shelf.** Shoot from a safe distance with a telephoto, time the surge, and watch the swell. Check the tide table the night before and adjust your arrival to hit the window.
-
-**7:30 PM — Samuel H. Boardman State Scenic Corridor**
-The protect-at-all-costs sunset of the trip. 12 miles of sea stacks, natural arches, and hidden coves. The classic compositions:
-- **Natural Bridges Viewpoint** — rock arches over turquoise coves
-- **Secret Beach** — sea stacks framed by a stream-cut cove (also your Day 2 sunrise)
-- **Thunder Rock Cove / Arch Rock** — layered sea stacks receding into the Pacific haze
-West-facing, full sun into the lens at golden hour — the haze and stacks create natural depth layers. Stay through blue hour at Natural Bridges. If the light is extraordinary, **stay** — this is the friend's strongest advice and it's right. Your driving endurance is the buffer for exactly this.
+**Driving:** ~150 miles.
 
 ---
 ---
 
-## SATURDAY, AUG 15 — VOLCANIC OREGON: COAST → CRATER LAKE
+## SATURDAY, AUG 15 — HAYSTACK SUNRISE → FULL OREGON COAST → BOARDMAN SUNSET
 
 ### Day Overview
-Transition day from sea level to 7,000+ feet. Start with a Secret Beach sunrise on the southern Oregon coast, then make the inland climb to Crater Lake — the deepest lake in the United States, filling the caldera of a collapsed volcano. The water is an almost unreal cobalt blue. You arrive midday for the rim drive, shoot sunset over the caldera, and — with the new moon and lingering Perseids — stay for Milky Way over the lake. This is the dark-sky night of the trip.
+The signature coast day — the greatest concentration of coastal landmarks in the Lower 48, run north-to-south with no backtracking. The only variable is the tide, which decides whether Thor's Well or Heceta Head goes first.
 
-### Saturday Stops — In Order
+### Hour-by-Hour Path
 
-| # | Stop | Arrive | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **Secret Beach (Boardman Corridor)** | 6:00 AM | 1h 15min | ★ Hidden-beach sunrise, sea stacks + stream | 8/10 |
-| 2 | Coast-to-mountain drive | 7:30 AM | 3h 30min | Transition landscapes via US-199 / OR-62 | — |
-| 3 | **Crater Lake — Rim Village** | 11:30 AM | 1h | First lake viewpoints + lunch | 8/10 |
-| 4 | Discovery Point | 12:45 PM | 45 min | Lake panorama, Wizard Island | 8/10 |
-| 5 | Rim Drive (East Rim) | 1:45 PM | 2h 30min | Caldera viewpoints, Phantom Ship | 8/10 |
-| 6 | **Watchman Overlook** | 5:00 PM | 2h | ★ Elevated caldera + Wizard Island | 9/10 |
-| 7 | **Crater Lake Rim — sunset** | 7:30 PM | 1h | ★★ Signature caldera sunset | 10/10 |
-| 8 | **Crater Lake — Milky Way / Perseids** | 9:30 PM | 1h 30min | ★★ Dark-sky astro over caldera | 10/10 |
-| 9 | Crater Lake area / Mazama Village | ~11:30 PM | Sleep | Car sleep | — |
+| Time | Where → What |
+|---|---|
+| **5:20 AM** | Wake, walk to Haystack (already parked at Cannon Beach). |
+| **5:50–7:10 AM** | ★ **HAYSTACK ROCK SUNRISE (9/10)** — tide-pool reflection at low tide. 16–24mm low to wet sand; 70–200mm on the Needles. |
+| **7:15 AM** | Drive US-101 S (~1h). |
+| **8:30–9:15 AM** | **Cape Kiwanda (7/10)** — sandstone cliffs, sea stack, dune. |
+| **9:15 AM** | Drive US-101 S (~1h 40min). |
+| **11:00 AM–12:15 PM** | ★ **THOR'S WELL / Cape Perpetua (9/10)** — ocean-action, 1 hr before-to-at high tide. Telephoto from safety. **Never turn your back on the ocean.** *(Tide swap: if high tide is afternoon, do Heceta + Dunes first, circle back.)* |
+| **12:30–1:15 PM** | ★ **HECETA HEAD LIGHTHOUSE (8/10)** — from Cape Cove pullout to the south. 70–200mm to isolate; 24–70mm for cove + surf. |
+| **1:45–2:30 PM** | ★ **OREGON DUNES NRA, Florence (7/10)** — 500-ft dunes. Camera low for ripples; wide for dune-to-ocean. |
+| **3:30–4:15 PM** | *(Optional)* **Bandon / Face Rock** — sea-stack cluster, if ahead of schedule. |
+| **4:30 PM** | Drive US-101 S (~3h). |
+| **7:30–8:25 PM** | ★★ **SAMUEL BOARDMAN CORRIDOR SUNSET (10/10)** — sea stacks + arches. Natural Bridges, Thunder Rock Cove. **Stay if the light is extraordinary.** |
+| **8:25–8:55 PM** | ★ **Natural Bridges Viewpoint (8/10)** — blue-hour seascape. |
+| **~9:15 PM** | **Car sleep — Brookings.** In position for Secret Beach dawn. |
+| | **Alarm: 5:20 AM.** |
 
-**Set alarm: 5:30 AM**
-
-**Driving:** ~340 miles total.
-
-### Saturday Photography Detail
-
-**6:00 AM — Secret Beach**
-A short trail descends to a cove where a stream crosses the beach toward sea stacks offshore. The stream is your foreground leading line; the stacks anchor the horizon. East-facing cove gets soft directional dawn light. August fog adds mood.
-
-**Watchman Overlook + Sunset (5:00–8:30 PM) — Crater Lake**
-Entry: $30 or Annual Pass. The Watchman Overlook on the west rim looks across to Wizard Island with the lake's deep blue beneath. At sunset the western sky lights up behind you and reflects across the caldera; the lake shifts from cobalt to indigo. Wizard Island is the key compositional anchor.
-- **16–24mm** — full caldera with Wizard Island and rim
-- **70–200mm** — isolate Wizard Island and the cinder cone detail
-- Polarizer deepens the blue but can over-darken — dial it carefully
-
-**★ 9:30 PM — Milky Way + Perseids over the caldera**
-This is the rare convergence: new moon, one of the darkest skies in the lower 48, and the Perseid meteor shower still active. The galactic core sits south over the caldera. Set up at a rim pullout with Wizard Island or a rim formation as foreground.
-- 14–24mm, f/2.8, ISO 3200–6400, 15–20s for the core
-- For Perseids: intervalometer, continuous 20s frames, f/2.8, ISO 3200 — stack the keepers later
-- Bring a headlamp with red mode; the rim drops off steeply
+**Driving:** ~340 miles.
 
 ---
 ---
 
-## SUNDAY, AUG 16 — REDWOODS EXPEDITION + INLAND TO LASSEN
+## SUNDAY, AUG 16 — SECRET BEACH SUNRISE → REDWOODS → CRATER LAKE (SUNSET + PERSEIDS)
 
 ### Day Overview
-The forest day, restructured to fix the friend's Monday overload — and now with Battery Point Lighthouse added at the front. Optional Crater Lake sunrise, then the drive south into California. Your first California stop is **Battery Point Lighthouse in Crescent City** — an 1856 lighthouse on a tidal island, reachable on foot only at low tide. It fills the one missing portfolio category (lighthouse) at zero detour. From there into redwood country: Stout Grove, Howland Hill Road, Fern Canyon, and Avenue of the Giants. Redwoods photograph best in flat/diffused light, so midday here is ideal, not wasted. Then — instead of saving the brutal inland leg for Monday — you drive to Lassen Sunday evening and sleep at Manzanita Lake, positioned for Monday's sunrise.
+A three-landscape day: hidden-cove coast at dawn, the tallest trees on Earth at midday (their ideal diffused-light window), then the astro centerpiece of the trip — Perseids and Milky Way over Crater Lake under a new-moon sky.
 
-### Sunday Stops — In Order
+### Hour-by-Hour Path
 
-| # | Stop | Arrive | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | Crater Lake viewpoints (optional) | 6:08 AM | 45 min | ★ Morning lake light | 7/10 |
-| 2 | Drive south to California | 7:00 AM | ~4h | Forest transition via US-199 | — |
-| 3 | **Battery Point Lighthouse, Crescent City** | 11:15 AM | 45 min | ★ 1856 lighthouse, tidal island — NEW | 7/10 |
-| 4 | **Jedediah Smith Redwoods — Stout Grove** | 12:15 PM | 1h 15min | ★ Cathedral old-growth forest | 9/10 |
-| 5 | **Howland Hill Road** | 1:45 PM | 1h | ★ Legendary unpaved redwood drive | 8/10 |
-| 6 | Prairie Creek Redwoods — elk meadow | 2:45 PM | 30 min | Roosevelt elk + forest roads | 7/10 |
-| 7 | **Fern Canyon** (permit required) | 3:30 PM | 1h 15min | ★ Prehistoric fern-walled canyon | 9/10 |
-| 8 | **Avenue of the Giants** | 6:00 PM | 1h | ★ Golden hour through giants | 8/10 |
-| 9 | Ferndale (quick blue-hour pass) | 7:30 PM | 30 min | Victorian Americana storefronts | 6/10 |
-| 10 | Drive inland toward Lassen | 8:00 PM | ~3h | US-36 E night drive | — |
-| 11 | Lassen / Manzanita Lake area | ~11:00 PM | Sleep | Car sleep at the lake | — |
+| Time | Where → What |
+|---|---|
+| **5:20 AM** | Wake, short drive to Secret Beach trailhead. |
+| **6:00–7:15 AM** | ★ **SECRET BEACH SUNRISE (8/10)** — stream leading line to sea stacks, August fog. |
+| **7:15 AM** | Drive US-101 S to Crescent City (~45 min). |
+| **8:00–8:30 AM** | ★ **Battery Point Lighthouse (7/10)** — 1856 light on tidal island. Walk the causeway if low tide; telephoto from shore if high. |
+| **8:45–9:45 AM** | ★ **Stout Grove, Jedediah Smith (9/10)** — cathedral old-growth, 16–35mm vertical up the trunks; god-rays if fog + sun. |
+| **10:00–10:45 AM** | ★ **Howland Hill Road (8/10)** — unpaved drive through giants; the road framed by trunks. |
+| **11:15 AM–12:30 PM** | ★ **FERN CANYON (9/10)** — permit required (Aug 16). Fern-walled slot canyon + stream. Waterproof footwear; slow shutter on the water. |
+| **12:45 PM** | Drive inland: US-199 → OR-62 (~4h). Shower stop at **Grants Pass** en route. |
+| **~4:45 PM** | Arrive **Crater Lake — Rim Village.** First caldera views, lunch, gear check. |
+| **6:15–7:30 PM** | ★ **Watchman Overlook (9/10)** — elevated caldera + Wizard Island. Polarizer careful. |
+| **7:45–8:30 PM** | ★★ **CRATER LAKE RIM SUNSET (10/10)** — cobalt to indigo. 16–24mm caldera; 70–200mm on Wizard Island. |
+| **9:30–11:00 PM** | ★★ **MILKY WAY + PERSEIDS (10/10)** — core to the south over the caldera. 14–24mm f/2.8, ISO 3200–6400, 15–20s. Intervalometer for meteors. Red headlamp only. |
+| **~11:30 PM** | **Car sleep — Mazama Village / rim.** |
+| | **Alarm: 5:20 AM.** |
 
-**Set alarm: 5:30 AM (or sleep in if you skip Crater sunrise)**
+**Driving:** ~230 miles.
 
-**Driving:** ~430 miles — the long day, but mostly daytime scenic + one night transit leg.
-
-### Sunday Photography Detail
-
-**11:15 AM — Battery Point Lighthouse, Crescent City** *(NEW)*
-A working lighthouse built in 1856 on a small rocky tidal island just offshore from Crescent City. It is reachable on foot across a rock causeway **only at low tide** — the same tide-awareness you're applying to Thor's Well and Secret Beach applies here.
-- **Check the Crescent City tide table the night before.** If low tide aligns with your late-morning arrival, walk across the causeway and shoot the lighthouse up close with the rocky island foreground.
-- **If the tide is high:** shoot from shore — still a strong frame with the lighthouse isolated on its island, waves breaking around the base, often with coastal fog.
-- **16–35mm** — lighthouse + island + causeway leading line at low tide
-- **70–200mm** — isolate the lighthouse on its island from shore at high tide
-- 45 minutes maximum — this is a quick portfolio-filler stop, not a lingering session. Your golden hours this day stay committed to Stout Grove (diffused midday) and Avenue of the Giants (sunset).
-
-**12:15 PM — Stout Grove, Jedediah Smith Redwoods**
-The most cathedral-like grove in the redwoods. Flat alluvial floor, evenly spaced giants, often misty. Midday overcast or filtered sun is *ideal* — it eliminates harsh contrast.
-- **16–35mm vertical** — emphasize height, shoot straight up the trunks
-- Look for god-rays if fog + sun combine (common mid-morning)
-- A person in frame gives the only true sense of scale
-
-**Howland Hill Road** — An unpaved 10-mile road winding directly through old-growth (your SUV handles it). Pull over anywhere; the road itself framed by giants is the shot. It connects directly from the Stout Grove area, so it flows naturally after the grove.
-
-**3:30 PM — Fern Canyon**
-*Permit required (Recreation.gov).* A 30–80-foot canyon with walls completely covered in ferns, with a stream running the floor — used as a filming location for *Jurassic Park*. Diffused canyon light all day. Waterproof footwear: you walk through the stream. Wide angle, slow shutter for the stream, focus on the fern wall texture.
-
-**6:00 PM — Avenue of the Giants**
-31-mile road through the densest old-growth. At golden hour, low sun rakes between the trunks creating shafts of light through any haze. Founders Grove and Rockefeller Forest are the key stops.
+*Oregon Caves note: dropped in this version — the redwoods are the stronger on-route priority. To do the caves instead, you'd trade Fern Canyon for it.*
 
 ---
 ---
 
-## MONDAY, AUG 17 — LASSEN VOLCANIC NP → BURNEY FALLS → SAN FRANCISCO
+## MONDAY, AUG 17 — CRATER LAKE SUNRISE → VOLCANIC LEGACY BYWAY → LASSEN → SF RED-EYE
 
 ### Day Overview
-The volcanic finale. You wake at Manzanita Lake for a sunrise reflection of Lassen Peak — one of the best reflection shots in California. Then explore Lassen's geothermal terrain (Sulphur Works, Bumpass Hell, Lake Helen), detour north to Burney Falls (one of California's most beautiful waterfalls), and make the final drive to SFO. Because you moved the inland leg to Sunday, Monday is paced cleanly with the golden hour up front and the long drive as the tail.
+The volcanic descent. Crater Lake at dawn, then south down the Volcanic Legacy Scenic Byway past Mt. Shasta and Burney Falls to Lassen's geothermal terrain — two Cascade volcanoes bookending one drive, plus Shasta as a bonus. Then I-5 to SFO for food and the red-eye. You sleep on the plane and walk into the office by 9:22 AM.
 
-### Monday Stops — In Order
+### Hour-by-Hour Path
 
-| # | Stop | Arrive | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **Manzanita Lake — sunrise** | 5:50 AM | 1h 30min | ★★ Lassen Peak reflection | 9/10 |
-| 2 | Sulphur Works | 7:45 AM | 45 min | Roadside geothermal, steam vents | 7/10 |
-| 3 | **Bumpass Hell** | 8:45 AM | 2h | ★ Largest geothermal area, alien terrain | 8/10 |
-| 4 | Lake Helen | 11:00 AM | 30 min | Alpine volcanic lake, deep blue | 7/10 |
-| 5 | Depart Lassen north | 11:45 AM | 1h | Drive to Burney Falls | — |
-| 6 | **Burney Falls** | 12:45 PM | 1h 15min | ★ 129-ft spring-fed waterfall | 8/10 |
-| 7 | Drive to San Francisco | 2:00 PM | 4h 30min | I-5 S → final leg | — |
-| 8 | San Francisco (SFO) | ~6:45 PM | — | Return car + flight | — |
-| 9 | **Flight departs** | evening | — | ★ SFO → Austin | — |
+| Time | Where → What |
+|---|---|
+| **6:10–6:55 AM** | ★ **CRATER LAKE CALDERA SUNRISE (8/10)** — first light on Wizard Island (you slept on the rim). |
+| **7:00 AM** | Depart south: OR-62 → US-97 S → CA-89 S (~2h 30min). |
+| **~9:30–9:50 AM** | ★ **Mt. Shasta viewpoints, Weed/CA-89 (8/10)** — 14,179-ft stratovolcano. 24–70mm w/ foreground; 70–200mm compress. Grab a **McCloud/Mt. Shasta diner** lunch here or to-go. |
+| **10:45–11:45 AM** | ★ **Burney Falls (8/10)** — 129-ft spring-fed curtain. Tripod/ND 1/4–1/30s; lower viewpoint for full face. |
+| **12:15–1:30 PM** | ★ **Lassen — Manzanita Lake (8/10)** — Lassen Peak reflection (midday; calm water). 16–24mm full reflection, foreground rocks/reeds. |
+| **1:45–3:45 PM** | ★ **BUMPASS HELL (8/10)** — 3-mi RT boardwalk to the largest geothermal basin: mudpots, fumaroles, turquoise pools. Stay on the boardwalk. Wide for basin; telephoto for pools + steam. |
+| **4:00–4:45 PM** | **Sulphur Works / Lake Helen (7/10)** — roadside geothermal + alpine lake on the way out. |
+| **4:45 PM** | Depart Lassen → SF: CA-89 → CA-36 → I-5 → US-101 (~4h 30min). |
+| **~6:00 PM** | **Shower — Redding.** Fuel, ATM for cash. *(Monday sunset is spent on I-5 — the accepted trade for Lassen.)* |
+| **~9:45–10:45 PM** | **SF food:** Mission — **Yamo** (Burmese, cash) + **El Farolito** burrito for the flight, or **Good Mong Kok** dim sum if routing through Chinatown. |
+| **~11:15 PM** | **Return rental car — SFO.** Fuel receipt, shuttle to terminal. |
+| **12:45 AM (Tue)** | ★ **RED-EYE DEPARTS SFO → IAH → AUS.** Sleep on the plane. |
+| **8:37 AM (Tue)** | Land AUS → desk by ~9:22 AM. $0 pay lost. |
 
-**Driving:** ~320 miles total.
-
-### Monday Photography Detail
-
-**5:50 AM — Manzanita Lake, Lassen**
-Entry: $30 or Annual Pass. The classic shot: Lassen Peak (10,457 ft) reflected in the still lake at first light. The lake is calmest at dawn before wind. Lassen Peak is the southernmost active volcano in the Cascade Range — it last erupted 1914–1917.
-- **16–24mm** — full reflection, peak centered or rule-of-thirds
-- Foreground rocks or reeds at the water's edge for depth
-- Shoot RAW — the dawn dynamic range from shadowed shore to lit peak is wide
-
-**8:45 AM — Bumpass Hell**
-A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park — boiling mudpots, fumaroles, steaming turquoise pools. The terrain looks genuinely alien. Stay on the boardwalk (the ground is unstable and scalding). Wide for the basin; telephoto for the colored pool detail and rising steam.
-
-**12:45 PM — Burney Falls**
-129 feet, fed by underground springs so it flows full year-round — water emerges from the rock face itself, not just over the lip, creating a curtain of streams. Theodore Roosevelt allegedly called it "the eighth wonder of the world." Even at midday the falls sit in a shaded gorge.
-- 1/4–1/30s for silky water with a tripod / ND
-- The lower viewpoint gives the full face; the loop trail gives angles
-
-**Then:** I-5 South to SFO. Build in a fuel + food stop in Redding. Arrive with buffer for the evening flight.
+**Driving:** ~450 miles.
 
 ---
 ---
 
-## GOLDEN HOUR MASTER SCHEDULE — ALL 13 SESSIONS
+## GOLDEN HOUR MASTER SCHEDULE
 
 | Day | Time | Location | Subject | Score |
 |---|---|---|---|---|
-| **Fri Aug 14** | 5:50 AM | Haystack Rock, Cannon Beach | Sea stack + tide pool reflection | 9/10 |
-| **Fri Aug 14** | 7:30 AM | Ecola State Park | Cliff panorama, Indian Beach | 8/10 |
-| **Fri Aug 14** | 3:00 PM | Thor's Well | Ocean-action at tide | 9/10 |
-| **Fri Aug 14** | 7:30 PM | ★★ Samuel Boardman Corridor | Sea stacks + arches at sunset | 10/10 |
-| **Fri Aug 14** | 8:25 PM | Natural Bridges Viewpoint | Blue-hour twilight seascape | 8/10 |
-| **Sat Aug 15** | 6:00 AM | Secret Beach | Hidden-cove sunrise | 8/10 |
-| **Sat Aug 15** | 5:00 PM | Watchman Overlook, Crater Lake | Caldera + Wizard Island | 9/10 |
-| **Sat Aug 15** | 7:30 PM | ★★ Crater Lake Rim | Signature caldera sunset | 10/10 |
-| **Sat Aug 15** | 9:30 PM | ★★ Crater Lake | Milky Way + Perseids over caldera | 10/10 |
-| **Sun Aug 16** | 12:15 PM | Stout Grove (diffused light) | Cathedral old-growth | 9/10 |
-| **Sun Aug 16** | 6:00 PM | Avenue of the Giants | Golden light through giants | 8/10 |
-| **Mon Aug 17** | 5:50 AM | ★ Manzanita Lake | Lassen Peak reflection | 9/10 |
-| **Mon Aug 17** | 12:45 PM | Burney Falls | Spring-fed waterfall curtain | 8/10 |
+| Fri | 6:00 AM | Multnomah Falls | Two-tier waterfall, soft dawn | 9/10 |
+| Fri | 7:30 PM | ★ Ecola State Park | Cliff panorama over Haystack | 9/10 |
+| Sat | 5:50 AM | ★ Haystack Rock | Sea stack + tide pool reflection | 9/10 |
+| Sat | 11:00 AM | Thor's Well | Ocean-action at tide | 9/10 |
+| Sat | 12:30 PM | Heceta Head Lighthouse | Lighthouse on headland | 8/10 |
+| Sat | 7:30 PM | ★★ Samuel Boardman Corridor | Sea stacks + arches | 10/10 |
+| Sun | 6:00 AM | Secret Beach | Hidden-cove sunrise | 8/10 |
+| Sun | 8:45 AM | Stout Grove / Fern Canyon | Cathedral old-growth (diffused) | 9/10 |
+| Sun | 6:15 PM | ★ Watchman Overlook | Caldera + Wizard Island | 9/10 |
+| Sun | 7:45 PM | ★★ Crater Lake Rim | Signature caldera sunset | 10/10 |
+| Sun | 9:30 PM | ★★ Crater Lake | Milky Way + Perseids | 10/10 |
+| Mon | 6:10 AM | Crater Lake caldera | Morning rim light | 8/10 |
+| Mon | 9:30 AM | Mt. Shasta | 14,179-ft stratovolcano | 8/10 |
+| Mon | 1:45 PM | Bumpass Hell, Lassen | Geothermal basin, steam | 8/10 |
 
-*Battery Point Lighthouse (Sun 11:15 AM) is a midday tide-gated stop, not a golden-hour session — it slots between the Crater Lake morning and Stout Grove without competing for golden light.*
-
-**Four sessions rated 10/10: Boardman sunset, Crater Lake sunset, Crater Lake astro, plus the redwood/Manzanita pairing as the portfolio anchors.**
+**Three 10/10 sessions: Samuel Boardman sunset, Crater Lake sunset, Crater Lake Perseid astro.**
 
 ---
 
@@ -302,36 +216,42 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 
 | Location | ISO | Shutter | Aperture | Notes |
 |---|---|---|---|---|
-| Haystack Rock sunrise | 100–400 | 1/15–1/2s | f/11 | ND for silky surf, low for reflection |
-| Thor's Well | 100–400 | 1/250–1/2s | f/11 | Telephoto from safety. Time the surge. |
-| Boardman sunset | 100 | 1/60–1/250 | f/11 | Bracket — sun in frame |
-| Crater Lake caldera | 100 | 1/125–1/500 | f/8–f/11 | Polarizer (careful not to over-darken) |
-| Crater Lake Milky Way | 3200–6400 | 15–20s | f/2.8 | 14–24mm, manual focus to infinity |
-| Perseid meteors | 3200 | 20s continuous | f/2.8 | Intervalometer, stack later |
-| **Battery Point Lighthouse** | **100–400** | **1/125–1/500** | **f/8** | **Low tide for causeway; telephoto from shore at high tide** |
-| Stout Grove redwoods | 400–800 | 1/15–1/60s | f/8 | Tripod, vertical, shoot up the trunks |
-| Fern Canyon | 400–800 | 1/8–1/30s | f/8 | Diffused light, slow shutter on stream |
-| Avenue of the Giants | 200–400 | 1/30–1/125s | f/8 | Look for light shafts in haze |
-| Manzanita Lake reflection | 100–200 | 1/15–1s | f/8 | Tripod, dawn calm water |
+| Portland night signs | 800–1600 | 1/30–1s | f/2.8–f/4 | Brace/tripod; neon detail |
+| Multnomah Falls | 100–400 | 1/4–2s | f/11 | Tripod/ND, silky water |
+| Ecola sunset | 100 | 1/60–1/250 | f/11 | Bracket |
+| Haystack sunrise | 100–400 | 1/15–1/2s | f/11 | ND for surf, low for reflection |
+| Thor's Well | 100–400 | 1/250–1/2s | f/11 | Telephoto from safety |
+| Heceta Head | 100–200 | 1/250–1/500 | f/8 | 70–200mm from Cape Cove |
+| Boardman sunset | 100 | 1/60–1/250 | f/11 | Bracket, sun in frame |
+| Battery Point | 100–400 | 1/125–1/500 | f/8 | Low tide causeway |
+| Stout Grove / Fern Canyon | 400–800 | 1/8–1/60s | f/8 | Diffused, tripod, vertical |
+| Crater Lake caldera | 100 | 1/125–1/500 | f/8–f/11 | Polarizer careful |
+| Crater Lake Milky Way | 3200–6400 | 15–20s | f/2.8 | 14–24mm, infinity focus |
+| Perseid meteors | 3200 | 20s continuous | f/2.8 | Intervalometer, stack |
+| Mt. Shasta | 100–200 | 1/250–1/500 | f/8 | Foreground or compress |
+| Burney Falls | 100–200 | 1/4–1/30s | f/11 | Tripod/ND |
+| Manzanita Lake | 100–200 | 1/15–1s | f/8 | Tripod, calm water |
 | Bumpass Hell | 100–400 | 1/125–1/500 | f/8 | Telephoto for pools + steam |
-| Burney Falls | 100–200 | 1/4–1/30s | f/11 | Tripod/ND for silky water |
 
 ---
 
-## CAR SLEEPING + FRESHEN UP
+## 🍜 FOOD — THE BOURDAIN GUIDE (cheap, local, non-gentrified)
 
-| Night | Sleep Location | Notes |
-|---|---|---|
-| Thu Aug 13 | Cannon Beach area (Ecola lot / Tolovana) | Confirm overnight rules — coastal OR enforces no-camping |
-| Fri Aug 14 | Brookings area | Harbor / coastal pullouts |
-| Sat Aug 15 | Mazama Village / Crater Lake area | Stay for astro, sleep on-site |
-| Sun Aug 16 | Manzanita Lake area, Lassen | Wake up at the reflection shot |
+| Day | Meal | Spot | Get | Cost |
+|---|---|---|---|---|
+| **Fri** | Breakfast | **Love Belizean** (Portland) | Stew chicken, rice & beans | $10–13 |
+| Fri | Lunch alt | **Nong's Khao Man Gai** | Thai poached chicken + rice | $10 |
+| Fri | Deep-local | **HK Café** (SE 82nd Ave) | Push-cart dim sum, real Asian corridor | $12–16 |
+| **Sat** | Lunch | **Luna Sea Fish House** (Yachats) | Fisherman-owned chowder + fish-and-chips | $12–16 |
+| Sat | Dinner | **Sporthaven** (Brookings harbor) | Fish tacos | $12–16 |
+| **Sun** | Breakfast | **Los Bagels** (Arcata) or provisioned | Jewish-Mexican bagel | $6–10 |
+| Sun | Lunch/Pie | **Beckie's Café** (Union Creek, OR-62) | Marionberry pie à la mode | $10–15 |
+| **Mon** | Lunch | **McCloud / Mt. Shasta diner** (CA-89) | Small-town byway diner | $10–14 |
+| Mon | SF snack | **Good Mong Kok** (Chinatown, cash) | To-go dim sum, pork buns | $6–10 |
+| Mon | SF dinner | **Yamo** (Mission, cash) | Burmese tea-leaf salad + noodles | $8–12 |
+| Mon | Pre-red-eye | **El Farolito** (Mission, cash) | Al pastor super burrito | $10–12 |
 
-| Showers | Location | Cost |
-|---|---|---|
-| Shower 1 | Pilot/Love's — Grants Pass, OR (Sat transit) | $15 |
-| Shower 2 | Truck stop — Redding, CA (Mon transit) | $15 |
-| Freshen up | Fred Meyer / Walmart bathrooms along US-101 & I-5 | — |
+**Finds:** Jacobsen sea salt • marionberry jam (Beckie's) • Coava/Stumptown beans • park stickers (Crater Lake, Lassen, Redwood) • Ecola Seafood smoked salmon (carry-on safe).
 
 ---
 
@@ -339,50 +259,54 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 
 | Leg | Miles | Time | Route |
 |---|---|---|---|
-| Portland (PDX) → Cannon Beach | 80 | 1h 35min | US-26 W |
+| PDX → Old Town → Troutdale | 30 | 45min | I-405 → I-84 E |
+| Troutdale → Multnomah Falls | 15 | 20min | I-84 E |
+| Multnomah Falls → Portland | 30 | 40min | I-84 W |
+| Portland → Cannon Beach | 80 | 1h 35min | US-26 W |
 | Cannon Beach → Cape Kiwanda | 40 | 1h | US-101 S |
-| Cape Kiwanda → Cape Perpetua / Thor's Well | 75 | 1h 40min | US-101 S |
-| Thor's Well → Samuel Boardman Corridor | 130 | 2h 45min | US-101 S |
+| Cape Kiwanda → Thor's Well | 75 | 1h 40min | US-101 S |
+| Thor's Well → Heceta Head | 12 | 15min | US-101 S |
+| Heceta Head → Oregon Dunes | 20 | 25min | US-101 S |
+| Oregon Dunes → Samuel Boardman | 175 | 3h 30min | US-101 S |
 | Boardman → Brookings | 12 | 20min | US-101 S |
-| Brookings → Crater Lake NP | 165 | 3h 30min | US-199 → OR-62 |
-| Crater Lake → Crescent City (Battery Point) | 185 | 4h | OR-62 → US-199 |
-| Battery Point → Stout Grove (Jedediah Smith) | 10 | 20min | US-101 → Howland Hill Rd |
-| Stout Grove → Fern Canyon | 45 | 1h 10min | US-101 S → Davison Rd |
-| Fern Canyon → Avenue of the Giants | 70 | 1h 30min | US-101 S |
-| Avenue of the Giants → Ferndale | 35 | 45min | US-101 S |
-| Ferndale → Lassen (Manzanita Lake) | 245 | 5h | US-36 E → CA-89 |
-| Manzanita Lake → Burney Falls | 45 | 1h | CA-89 N |
-| Burney Falls → San Francisco (SFO) | 280 | 5h | CA-89 → I-5 S → I-80 W |
-| **Total** | **~1,420 mi** | **~30h** | Spread across 4 days |
+| Brookings → Crescent City | 30 | 45min | US-101 S |
+| Crescent City → Fern Canyon | 45 | 1h 10min | US-101 S → Davison Rd |
+| Fern Canyon → Crater Lake | 185 | 4h | US-199 → OR-62 |
+| Crater Lake → Mt. Shasta (Weed) | 110 | 2h 15min | OR-62 → US-97 S |
+| Mt. Shasta → Burney Falls | 55 | 1h 10min | CA-89 S |
+| Burney Falls → Lassen (Manzanita) | 45 | 1h | CA-89 S |
+| Lassen → SFO | 250 | 4h 30min | CA-89 → CA-36 → I-5 → US-101 |
+| **Total** | **~1,200 mi** | **~26h** | Across 4 days |
 
 ---
 
-## DAILY MILEAGE BREAKDOWN
+## DAILY MILEAGE
 
-| Day | Route Summary | Miles | Drive Time |
+| Day | Route | Miles | Drive |
 |---|---|---|---|
-| Thu Aug 13 | PDX → Cannon Beach | 80 | 1h 35min |
-| Fri Aug 14 | Cannon Beach → coast → Brookings | 340 | 7h |
-| Sat Aug 15 | Coast → Crater Lake | 340 | 6h 30min |
-| Sun Aug 16 | Crater Lake → Battery Point → Redwoods → Lassen | 430 | 8h 30min |
-| Mon Aug 17 | Lassen → Burney Falls → SFO | 320 | 6h |
-| **Total** | | **~1,420 mi** | **~30h** |
-
-*Battery Point adds essentially zero detour — it sits directly on US-101 in Crescent City where you enter California, right before the Howland Hill Road turnoff to Stout Grove.*
+| Thu | PDX → Old Town → Troutdale | 30 | 45min |
+| Fri | Gorge + Portland + coast | 150 | 3h |
+| Sat | Cannon Beach → full coast → Brookings | 340 | 7h |
+| Sun | Coast → redwoods → Crater Lake | 230 | 5h 30min |
+| Mon | Crater Lake → Shasta → Burney → Lassen → SF | 450 | 8h 45min |
+| **Total** | | **~1,200 mi** | **~25h** |
 
 ---
 
 ## ENTRY FEES + PERMITS
 
-| Location | Fee | How | Note |
-|---|---|---|---|
-| Crater Lake NP | $30/vehicle | Pay at gate | Annual Pass covers |
-| Redwood National & State Parks | Free | — | Some state park day-use lots charge |
-| **Battery Point Lighthouse** | **~$5 donation (museum tour)** | **On-site, low tide only** | **Grounds/exterior photography free; tide-gated access** |
-| Fern Canyon / Gold Bluffs Beach | $12 | **Recreation.gov** | **Permit required May–Sep — book now** |
-| Lassen Volcanic NP | $30/vehicle | Pay at gate | Annual Pass covers |
-| Burney Falls (McArthur–Burney SP) | $10/vehicle | Pay at gate | State park — not on federal Annual Pass |
-| **America the Beautiful Annual Pass** | **$80** | Already owned from Colorado | Covers Crater Lake + Lassen + Redwood NP |
+| Location | Fee | Note |
+|---|---|---|
+| Multnomah Falls | Free before 9 AM | Sunrise = no permit |
+| Ecola State Park | $5/vehicle | OR SP day-use |
+| Heceta Head | $5/vehicle | Viewpoint pullout free |
+| Oregon Dunes NRA | $5/vehicle | Annual Pass may cover |
+| Battery Point Lighthouse | ~$5 donation | Low tide only; exterior free |
+| Fern Canyon / Gold Bluffs | $12 | **Recreation.gov — book Aug 16** |
+| Crater Lake NP | Annual Pass | Covered |
+| Burney Falls SP | $10/vehicle | Not on federal pass |
+| Lassen Volcanic NP | Annual Pass | Covered |
+| **America the Beautiful** | Owned | Crater Lake + Lassen + Redwood + likely Oregon Dunes |
 
 ---
 
@@ -390,37 +314,48 @@ A 3-mile round-trip boardwalk hike to the largest hydrothermal area in the park 
 
 | Category | Low | High | Notes |
 |---|---|---|---|
-| Flights (AUS↔PDX/SFO, multi-city) | $200 | $350 | Open-jaw; book early |
-| Rental car — 4 days, SUV/AWD (one-way OR→CA) | $300 | $500 | One-way drop fee applies PDX→SFO |
-| Gas (~1,420 miles) | $130 | $170 | |
-| **Accommodation** | **$0** | **$0** | Car sleeping every night |
-| Showers — 2 truck stops | $30 | $30 | |
-| Food — 4 days | $80 | $140 | Provisions + coastal seafood splurge |
-| Park entries + permits | $27 | $47 | Annual Pass covers the big 3; Fern Canyon + Burney + Battery Point extra |
-| Provisions / supplies | $50 | $80 | |
-| **TOTAL** | **~$815** | **~$1,315** | **Realistic target: ~$950** |
-
-**One-way car rental note:** Dropping the car in SF after picking up in Portland incurs a one-way fee — this is the single biggest variable. Compare one-way rental cost against flying round-trip to one city; the open-jaw flight + one-way car usually wins for this route.
-
----
-
-## THE 10 DEFINING IMAGES THIS TRIP PRODUCES
-
-| # | Shot | Location | Light | Why It Works |
-|---|---|---|---|---|
-| 1 | Sea stacks + arches glowing at sunset | Samuel Boardman Corridor | Sunset | The most dramatic coastline in the lower 48 |
-| 2 | Milky Way + Perseid meteors over caldera | Crater Lake | New-moon night | Rare convergence — dark sky + meteor shower + iconic foreground |
-| 3 | Cobalt caldera + Wizard Island | Crater Lake, Watchman | Sunset | Deepest lake in the US, unreal blue |
-| 4 | Cathedral redwoods shot straight up | Stout Grove | Diffused midday | Tallest trees on Earth — completely new look for your catalog |
-| 5 | Lassen Peak reflected in still lake | Manzanita Lake | Sunrise | Volcano mirror — California's answer to Maroon Bells |
-| 6 | Haystack Rock + tide-pool reflection | Cannon Beach | Sunrise | The icon of the Oregon coast |
-| 7 | Fern-walled prehistoric canyon | Fern Canyon | Diffused | Jurassic Park location — utterly unique texture |
-| 8 | Lighthouse on a tidal island | Battery Point, Crescent City | Midday / low tide | Fills the missing lighthouse category — historic 1856 light |
-| 9 | Alien geothermal basin + steam | Bumpass Hell, Lassen | Morning | Boiling pools and fumaroles — otherworldly |
-| 10 | Spring-fed waterfall curtain | Burney Falls | Midday shade | Water emerging from the rock face itself |
-
-*(Thor's Well's ocean-action frame remains a strong honorable mention — it just moves off the top-10 to make room for the lighthouse, which adds a category you don't otherwise have.)*
+| Inbound flight (AUS→PDX) | $100 | $180 | Thu 6:55 PM |
+| **Return red-eye** | **$129** | **$129** | $0 pay lost |
+| Rental car — 5 days SUV, one-way | $350 | $550 | One-way drop fee = biggest variable |
+| Gas (~1,200 mi) | $110 | $155 | |
+| Accommodation | $0 | $0 | Car + red-eye |
+| Showers — 2 | $30 | $30 | |
+| Food — 5 days | $110 | $180 | Bourdain eats |
+| Park entries + permits | $32 | $52 | Fern Canyon, Ecola, Heceta, Dunes, Burney, Battery Point |
+| Provisions + finds | $60 | $100 | |
+| **TOTAL** | **~$921** | **~$1,376** | **Target: ~$1,100** |
+| **Pay lost** | **$0** | **$0** | Red-eye lands you at your desk on time |
 
 ---
 
-Battery Point is now fully integrated with zero added drive time, and the day still protects your golden hours and reserve buffer. Want me to build the **food/finds/experiences list** (PNW seafood, coast-town coffee roasters, redwood-country eats, SF exit meal) like I did for the Colorado trip?
+## THE 10 DEFINING IMAGES
+
+| # | Shot | Location | Light |
+|---|---|---|---|
+| 1 | Sea stacks + arches glowing | Samuel Boardman | Sunset |
+| 2 | Milky Way + Perseids over caldera | Crater Lake | New-moon night |
+| 3 | Cobalt caldera + Wizard Island | Crater Lake, Watchman | Sunset |
+| 4 | Cathedral redwoods shot up | Stout Grove | Diffused midday |
+| 5 | Lassen Peak reflected | Manzanita Lake | Midday |
+| 6 | Alien geothermal basin + steam | Bumpass Hell | Afternoon |
+| 7 | Mt. Shasta rising alone | Volcanic Legacy Byway | Morning |
+| 8 | Haystack Rock + tide-pool reflection | Cannon Beach | Sunrise |
+| 9 | Two-tier waterfall + footbridge | Multnomah Falls | Soft dawn |
+| 10 | Fern-walled prehistoric canyon | Fern Canyon | Diffused |
+
+---
+
+## FINAL CONFIRMATION
+
+✅ **Hour-by-hour path for all 4 shooting days** — you always know where you are and where you're headed next
+✅ **All optional spots included** — Latourell Falls, Bandon/Face Rock, Battery Point, Howland Hill, Sulphur Works/Lake Helen
+✅ **Two Cascade volcanoes + Mt. Shasta bonus** via the Volcanic Legacy Scenic Byway — no dogleg
+✅ **Both marquee sunrises** — Multnomah (Fri), Haystack (Sat)
+✅ **Perseid astro night** — Crater Lake, Sunday, new-moon dark sky
+✅ **Portland front-loaded** — night snaps Thu, culture block Fri, no backtrack
+✅ **Food fully localized** — your picks + dock-to-plate + lumber-country
+✅ **Low-sleep car-sleep format** preserved; **return: $129 red-eye, $0 pay lost**
+
+**The one accepted trade:** Monday's sunset is spent on I-5 toward SFO — the cost of Lassen, correct now that SF is flight-only.
+
+**Lock before departure:** the red-eye + one-way rental car + Fern Canyon permit (Aug 16), and check Saturday's tide window to confirm the Thor's Well / Heceta Head order. This is your complete, final, hour-by-hour master plan.
