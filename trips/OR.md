@@ -169,13 +169,17 @@ Work the redwoods in this order to minimize backtracking: **Battery Point Lighth
 Sinnott Memorial Overlook (Rim Village) for orientation → **Watchman Overlook** for sunset (west rim looks *east* across the lake, so the far wall and Wizard Island catch the last warm light) → Merriam Point for the north-rim angle → hold for astro with a clear southern horizon and Wizard Island in frame (galactic core sits south).
 
 ---
+Here's the complete, final Monday — main highway corridor, Bumpass Hell, no Cinder Cone.
+---
 
-## MONDAY, AUG 17 — CRATER LAKE SUNRISE + EAST RIM → KLAMATH SPRINGS → VOLCANIC BYWAY → LASSEN → SF RED-EYE
+## MONDAY, AUG 17 — CRATER LAKE SUNRISE → VOLCANIC LEGACY BYWAY → LASSEN MAIN HIGHWAY → SF RED-EYE
 
 ### Day Overview
-The monster day, and the one where your low-sleep endurance earns its keep — two Cascade volcanoes bookend a single southbound line, with a lava tube, a spring-fed waterfall, and Mt. Shasta in between. You start with a **caldera sunrise from the east rim**: sunrise lights the *west* wall, so Cloudcap Overlook (the highest paved overlook) or the Phantom Ship/Sun Notch side gives you the warm-lit far wall while you catch a few more of the viewpoints on your list before exiting south. Just below the park, an optional **Klamath springs cluster** — Jackson F. Kimball State Rec Site, Wood River headwaters, Oux-Kanee Overlook, Spring Creek — offers glassy spring-fed water and a quiet overlook if you want them before the long haul.
+The monster day, and the one where your low-sleep endurance earns its keep — two Cascade volcanoes bookend a single southbound line, with Mt. Shasta and a spring-fed waterfall in between. You open with a **caldera sunrise from the east rim**: because sunrise lights the *west* wall, Cloudcap Overlook (the highest paved point in the park at 8,065 ft) gives you the warm-lit far wall while you pick off a few more of Crater Lake's viewpoints before exiting south.
 
-Then you descend the **Volcanic Legacy Scenic Byway** (OR-62 → US-97 → CA-89), the road built to link the Cascade volcanoes: **Mt. Shasta** looms for an hour (grab a small-town diner lunch at Weed/Mt. Shasta City), then **Burney Falls** (a 129-ft curtain fed by springs that pour straight out of the rock face), then **Subway Cave** (a walkable lava tube at Old Station), and into **Lassen Volcanic NP** for the geothermal payoff. Inside Lassen you run the park highway top to bottom — Manzanita Lake reflection, the Lassen Peak Overlook, Emerald Lake and Lake Helen, then the trip's signature alien terrain at **Bumpass Hell** (boiling mudpots and turquoise fumarole pools on a 3-mile boardwalk), exiting past Sulphur Works. **The accepted trade:** Monday's sunset is spent on I-5 driving to SFO — unavoidable if you want Lassen, and the right call since SF is flight-only. You eat cheap and local in the city, drop the car, and sleep on the 12:45 AM red-eye — at your desk by 9:22 AM with zero pay lost.
+Then you descend the **Volcanic Legacy Scenic Byway** (OR-62 → US-97 → CA-89), the road purpose-built to string the Cascade volcanoes together. **Mt. Shasta** dominates the horizon for the better part of an hour — grab a small-town diner plate at Weed or Mt. Shasta City. **Burney Falls** is next, a 129-ft curtain fed by springs that pour straight out of the rock face year-round. Then into **Lassen Volcanic NP from the north (Manzanita Lake)** for a clean one-way traverse of the park highway — the ideal first-timer route, showing you the full range of the park in a single line: a reflection lake, the volcano head-on, two intensely colored alpine lakes, the signature geothermal basin at **Bumpass Hell**, and roadside steam vents at Sulphur Works on the way out the south side.
+
+**The accepted trade:** Monday's sunset is spent on I-5 driving to SFO — unavoidable if you want Lassen, and the right call since SF is flight-only. You fuel and grab cash in Redding, eat cheap and local in the city, drop the car, and sleep on the 12:45 AM red-eye — at your desk by 9:22 AM with zero pay lost.
 
 ### Stops — In Order
 
@@ -183,34 +187,63 @@ Then you descend the **Volcanic Legacy Scenic Byway** (OR-62 → US-97 → CA-89
 |---|---|---|---|---|---|
 | 1 | **Crater Lake — Cloudcap Overlook (east rim)** | 6:05 AM | 40 min | ⭐ SUNRISE (lit W wall) | 🔴 |
 | 2 | Phantom Ship Overlook | 6:55 AM | 15 min | Rim viewpoint | 🟡 |
-| 3 | Sun Notch Trailhead (0.8 mi to Phantom Ship view) | 7:15 AM | 30 min | Short rim hike | 🟡 |
+| 3 | Sun Notch Trailhead (0.8 mi) | 7:15 AM | 30 min | Short rim hike | 🟡 |
 | 4 | Pumice Castle Overlook | 7:55 AM | 10 min | Rim viewpoint | 🟢 |
-| 5 | *Klamath cluster: Jackson Kimball SRS / Wood River / Oux-Kanee / Spring Creek* | 8:45 AM | 40 min | Spring-fed water | 🟡 |
-| 6 | Mt. Shasta viewpoint (Weed) + diner lunch | 11:15 AM | 45 min | ⭐ Volcano + food | 🔴 |
-| 7 | Burney Falls | 12:45 PM | 60 min | Waterfall | 🔴 |
-| 8 | Subway Cave (Old Station lava tube) | 2:10 PM | 40 min | Lava tube | 🟡 |
-| 9 | **Lassen — Manzanita Lake** | 3:00 PM | 45 min | Reflection | 🔴 |
+| 5 | *Klamath cluster (Kimball / Wood River / Oux-Kanee)* | 8:45 AM | 40 min | Springs | 🟢 trim first |
+| 6 | **Mt. Shasta viewpoint (Weed) + diner lunch** | 11:00 AM | 45 min | ⭐ Volcano + food | 🔴 |
+| 7 | **Burney Falls** | 12:45 PM | 60 min | Waterfall | 🔴 |
+| 8 | *Subway Cave (Old Station lava tube)* | 2:10 PM | 40 min | Lava tube | 🟡 trim if behind |
+| 9 | **Lassen — Manzanita Lake** (north entrance) | 3:00 PM | 45 min | 🔴 Reflection lake | 🔴 |
 | 10 | Lassen Peak Overlook | 3:55 PM | 20 min | Volcano overlook | 🟡 |
-| 11 | Emerald Lake + Lake Helen | 4:20 PM | 25 min | Alpine volcanic lakes | 🟡 |
-| 12 | **Bumpass Hell** (3 mi RT boardwalk) | 4:55 PM | 2h | 🔴 Geothermal | 🔴 |
-| 13 | Sulphur Works (south exit) | 7:15 PM | 20 min | Roadside geothermal | 🟢 |
-| 14 | Depart → SFO (shower Redding) | 7:35 PM | ~4h 30min drive | Transit | 🔴 |
-| 15 | SF food: Good Mong Kok / Yamo / El Farolito | ~11:15 PM | 45 min | Food (cash) | 🔴 |
-| 16 | Return rental car — SFO | ~12:00 AM | — | Logistics | 🔴 |
-| 17 | **Red-eye SFO → IAH → AUS** | 12:45 AM Tue | — | Flight | 🔴 |
+| 11 | Emerald Lake | 4:20 PM | 15 min | Alpine lake | 🟡 |
+| 12 | Lake Helen | 4:40 PM | 20 min | Alpine lake | 🟡 |
+| 13 | **Bumpass Hell** (3 mi RT boardwalk) | 5:05 PM | 2h | 🔴 Geothermal basin | 🔴 |
+| 14 | Sulphur Works (south exit) | 7:25 PM | 20 min | Roadside geothermal | 🟢 |
+| 15 | Depart Lassen → Redding (CA-89 → CA-44 W) | 7:45 PM | ~1h | Transit | 🔴 |
+| 16 | **Redding** — fuel + ATM (cash for SF) | 8:45 PM | 15 min | Logistics | 🔴 |
+| 17 | Drive Redding → SFO (I-5 → US-101) | 9:00 PM | ~3h 15min | Transit | 🔴 |
+| 18 | SF food — Good Mong Kok / Yamo / El Farolito | ~12:15 AM | — | Food (cash, grab-to-go) | 🟡 |
+| 19 | Return rental car — SFO | ~12:00 AM | — | Logistics | 🔴 |
+| 20 | **Red-eye SFO → IAH → AUS** | 12:45 AM Tue | — | Flight | 🔴 |
 
-**Note:** With the full Lassen highway + Bumpass Hell, the Klamath cluster and Subway Cave are the first things to trim if you're behind — they're the two most droppable. Driving: ~450 mi. Land AUS 8:37 AM → desk 9:22 AM.
+**Land AUS 8:37 AM → desk 9:22 AM. $0 pay lost.** Driving: ~450 mi.
+
+**Timing honesty:** With the full Lassen highway + Bumpass Hell, you arrive SFO right around midnight — **tight but workable** for the 12:45 AM flight. To bank cushion, the **Klamath cluster and Subway Cave are the first two things to trim** (both marked 🟢/🟡). Cut both and you gain ~80 minutes, putting you at SFO by ~10:40 PM with time for a proper SF food stop. Keep both only if the morning runs ahead of schedule. Pack wipes + a fresh office shirt for a car freshen-up (no shower stop today).
+
+---
 
 ### Crater Lake — Monday Morning (East Rim) Sequence
-Sunrise lights the west wall, so shoot from the **east/southeast rim**: Cloudcap Overlook (highest paved point, 8,065 ft) for the sunrise → Phantom Ship Overlook (the jagged islet that looks like a ghost ship) → Sun Notch (0.8-mi walk to a dramatic Phantom Ship framing) → Pumice Castle Overlook (orange pinnacle formation in the caldera wall) → exit south. *Additional viewpoints worth a stop if ahead:* Vidae Falls (roadside cascade on the south rim) and the Pinnacles Overlook (fossil fumarole spires) near the south exit.
+Sunrise lights the west wall, so shoot from the **east/southeast rim**:
+- **Cloudcap Overlook** (8,065 ft, highest paved point) — the warm-lit west wall across the caldera at first light.
+- **Phantom Ship Overlook** — the jagged islet that resembles a ghost ship, low in the caldera.
+- **Sun Notch** (0.8-mi walk) — a dramatic framing of Phantom Ship from a notch in the rim.
+- **Pumice Castle Overlook** — an orange pinnacle formation banded into the caldera wall.
+- *If ahead:* Vidae Falls (roadside cascade, south rim) and Pinnacles Overlook (fossil fumarole spires) near the south exit.
 
 ### Lassen — What to Cover, In Sequence (north entrance → south exit)
-1. **Manzanita Lake** — the classic: Lassen Peak (10,457 ft) reflected in calm water; foreground reeds/rocks, 16–24mm.
-2. **Lassen Peak Overlook** — the volcano head-on from the highway; the peak last erupted 1914–17.
-3. **Emerald Lake / Lake Helen** — intensely blue-green alpine lakes right off the road; polarizer for saturation.
-4. **Bumpass Hell** — 3-mi round-trip boardwalk into the largest hydrothermal basin in the park: boiling mudpots, fumaroles, turquoise pools. Stay on the boardwalk (ground is scalding and unstable). Wide for the basin; 70–200mm for the colored pools and rising steam.
-5. **Sulphur Works** — roadside steam vents and bubbling mud right by the south entrance; a quick final geothermal grab on the way out.
+This one-way traverse is exactly why the main highway beats Cinder Cone for a first visit — six distinct features, minimal effort, no backtrack:
 
+1. **Manzanita Lake** — the park's classic shot: Lassen Peak (10,457 ft) reflected in calm water. Foreground reeds/rocks, 16–24mm. Calmest early; a light breeze is fine.
+2. **Lassen Peak Overlook** — the volcano head-on from the highway. It last erupted 1914–17, one of only two volcanoes to erupt in the contiguous US in the 20th century.
+3. **Emerald Lake** — a small, intensely blue-green alpine lake right off the road. Polarizer to deepen the color.
+4. **Lake Helen** — a deep cobalt glacial lake, one of the clearest in the park. Polarizer for saturation; the peak reflects on calm days.
+5. **Bumpass Hell** — 3-mi round-trip boardwalk into the largest hydrothermal basin in the park: boiling mudpots, fumaroles, turquoise-and-milky sulfur pools. **Stay on the boardwalk** — the crust is thin and the ground is scalding. Wide (16–24mm) for the full basin; 70–200mm to isolate the colored pools and rising steam. This is Lassen's signature alien-terrain frame.
+6. **Sulphur Works** — roadside steam vents and bubbling mud right by the south entrance; a quick final geothermal grab as you exit toward Redding.
+
+### What to Capture — The Byway Stops
+- **Mt. Shasta (Weed viewpoint):** the 14,179-ft stratovolcano rising alone from flat terrain. 24–70mm with foreground fields for scale; 70–200mm to compress the snow-capped summit. ISO 100, f/8, polarizer for haze.
+- **Burney Falls:** shoot the full curtain from the lower viewpoint — water emerges from the rock face itself, not just the lip, so the whole cliff "weeps." Tripod/ND, 1/4–1/30s for silky water. Shaded gorge holds up even at midday.
+
+---
+
+**This is your final Monday.** The whole trip now reads:
+
+- **Thu** — land, Portland night snaps, sleep Troutdale
+- **Fri** — Gorge waterfall corridor + full Portland day → Cannon Beach/Haystack **sunset**
+- **Sat** — Ecola cliff **sunrise** → tiered Oregon coast → Boardman **sunset**
+- **Sun** — Secret Beach **sunrise** → northern redwood loop → Crater Lake **sunset + Perseids**
+- **Mon** — Crater Lake **sunrise** → Volcanic Legacy Byway → **Lassen main highway + Bumpass Hell** → SF red-eye
+  
 ---
 
 ## GOLDEN HOUR MASTER SCHEDULE
