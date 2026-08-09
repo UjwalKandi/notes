@@ -1,361 +1,290 @@
-Here is the definitive final version — every optional and golden-hour spot included, with a clear hour-by-hour path for each day so you always know where you are and where you're headed next.
+This is a big expansion — and I need to be straight with you about it before I build it: **four of your listed spots physically cannot fit this route**, and a couple of days are now over-subscribed so I've tiered them (must-do vs. if-ahead). Let me run the timing to anchor every arrival, then give you the full detailed plan.
+
+Before the full plan, three honest corrections from running the timing — these matter more than any formatting change:
+
+**Four of your listed spots physically cannot fit this route** (wrong region entirely):
+- **Smith Rock State Park** — Central Oregon, ~3h *east* of Portland. It's a high-desert climbing destination, nowhere near the coast line.
+- **John Day Fossil Beds NM (Painted Hills)** — Eastern Oregon, ~4h east. Its own separate trip.
+- **Avenue of the Giants + Founders Grove** — Humboldt Redwoods, ~2h *south* of Crescent City — past your inland turn to Crater Lake. (Your northern redwoods — Jedediah Smith, Prairie Creek — are the ones on-route.)
+- **Cinder Cone Trail + Painted Dunes** — NE corner of Lassen (Butte Lake), a 1h+ gravel detour plus a strenuous 4–5 mi climb, off the park highway.
+
+**Saturday's coast is over-subscribed.** I ran every coast stop you listed end-to-end: it puts you at Boardman at **10 PM — four hours after dark.** So the coast day is now **tiered** (Must-do vs. If-ahead) and you pick 2–3 optionals based on your actual pace and the tide.
+
+**Your two swaps are in:** Cannon Beach/Haystack **sunset** Friday, Ecola cliff **sunrise** Saturday. And the 2 PM coast drive is gone — Friday is now a full Portland day, leaving for the coast at ~6:15 PM to catch the Cannon Beach sunset.
+
+Here's the comprehensive plan.
 
 ---
 
-# 🌊🌲🌋 PACIFIC NORTHWEST MYSTIC EXPEDITION — MASTER FINAL
-## Portland → Columbia Gorge → Oregon Coast → Redwoods → Crater Lake → Lassen → San Francisco
-### Aug 13–18, 2026 | Car Sleeping | Low-Sleep Format | Golden Hour Optimized | Photographer Edition
+# 🌊🌲🌋 PACIFIC NORTHWEST MYSTIC EXPEDITION — MASTER DETAILED
+## Portland → Columbia Gorge → Oregon Coast → Redwoods → Crater Lake → Lassen → SF
+### Aug 13–18, 2026 | Car Sleeping | Low-Sleep Format | Golden Hour Optimized
 
----
+**Priority key:** ⭐ Golden-hour anchor (fixed) · 🔴 Must-do · 🟡 If ahead of schedule · 🟢 Quick grab (few min)
 
-## TRIP AT A GLANCE
-
-| | |
-|---|---|
-| **Inbound** | Austin (AUS) → Portland (PDX) — Thu Aug 13, 6:55 PM → 11:05 PM |
-| **Outbound** | San Francisco (SFO) → Austin (AUS) — **Tue Aug 18, 12:45 AM → 8:37 AM (red-eye via IAH, $129)** |
-| **Return logic** | $0 pay lost — at desk 9:22 AM for 10 AM start |
-| **Style** | Car sleeping every night, 4 hrs or less; red-eye = final "night" |
-| **Total miles** | ~1,200 across 4 shooting days |
-| **★ Moon** | New Moon ~Aug 12–13 — dark skies for Crater Lake astro |
-| **★ Perseids** | Active through Aug 20 — Crater Lake night is the astro centerpiece |
-| **Volcanic through-line** | Crater Lake → Mt. Shasta → Lassen on the Volcanic Legacy Scenic Byway |
-| **SF status** | Flight-only — food + car return, no city sightseeing |
-
----
-
-## BOOK BEFORE YOU LEAVE (in order of urgency)
-
-| Priority | Item | Where | Cost |
-|---|---|---|---|
-| **1 — today** | Return red-eye SFO→AUS 12:45 AM Tue Aug 18 (United via IAH) | Airline | $129 |
-| **2 — today** | Rental car — SUV/AWD, PDX pickup / SFO drop | Turo or counter | $350–550 |
-| **3 — today** | Fern Canyon / Gold Bluffs Beach permit — **Aug 16** | Recreation.gov | $12 |
-| 4 — confirm | Inbound AUS→PDX Thu Aug 13, 6:55 PM | Airline | $100–180 |
-| 5 — insurance | Multnomah Falls timed-use permit — Aug 14 ($2, only needed 9 AM–6 PM; sunrise skips it) | Recreation.gov | $2 |
-| Owned | America the Beautiful Annual Pass | — | — |
-
-**Just check / download (no booking):** Bumpass Hell boardwalk open status (nps.gov/lavo) • Thor's Well + Heceta Head + Battery Point tide tables (NOAA) • CA-89 / Davison Rd / Lassen wildfire status (Caltrans, InciWeb) • offline maps for the whole route • cash for SF (Good Mong Kok, Yamo, El Farolito are cash-only).
-
----
-
-## LOGISTICS MASTER REFERENCE
-
-**Sleep spots:** Thu — Troutdale (I-84) • Fri — Cannon Beach • Sat — Brookings • Sun — Crater Lake rim (Mazama) • Mon — red-eye.
-**Showers:** Sun — Grants Pass, OR ($15) • Mon — Redding, CA ($15).
-**Freshen up:** Fred Meyer / Walmart along US-101 & I-5.
-
----
 ---
 
 ## THURSDAY, AUG 13 — LAND → PORTLAND NIGHT SNAPS → TROUTDALE
 
 ### Day Overview
-Logistics night with a bonus: the two Portland landmarks that photograph best in the dark. Land, grab the car and a week of provisions, shoot the lit White Stag sign and Chinatown Gateway in Old Town, then sleep 20 minutes east at the mouth of the Gorge — waking up in position for Multnomah Falls.
+Tonight is pure positioning, but you steal two frames on the way. You land at 11:05 PM into a quiet PDX — grab the SUV, and because you're a car-sleeper walking into five days off-grid, the first stop is a 24-hour Fred Meyer to load the whole week: water by the gallon, trail food, bread, instant coffee, ice for the cooler. Then a 10-minute detour into Old Town for the two Portland landmarks that are actually *better* after dark — the neon "White Stag" sign glowing over West Burnside and the lit Chinatown Gateway two blocks away. Both are drive-up, 10 minutes each, tripod-on-the-sidewalk quick. From there it's 25 minutes east on I-84 to Troutdale at the literal mouth of the Columbia Gorge, where you sleep so that tomorrow's sunrise is a 15-minute roll to the first waterfall overlook. No time is wasted; the night shots sit directly on the path east.
 
-### Hour-by-Hour Path
+### Stops — In Order
 
-| Time | Where → What |
-|---|---|
-| **11:05 PM** | Land PDX. Deplane, restroom, straight to rental counter. |
-| **11:35 PM** | Rental car in hand. Drive to Fred Meyer NE Portland (~10 min). |
-| **11:45 PM–12:10 AM** | **Fred Meyer (24hr):** full week's provisions — 4–5 L water/day, trail bars, nuts, bread, PB, instant coffee, ice. Fuel up. |
-| **12:10 AM** | Drive to Old Town (~10 min). |
-| **12:20–12:30 AM** | ★ **Portland "White Stag" Sign** — neon night frame, W Burnside. Handheld/braced, ISO 800–1600. |
-| **12:30–12:40 AM** | ★ **Chinatown Gateway** — lit paifang, 2 blocks away. Quick set. |
-| **12:45 AM** | Drive I-84 E to Troutdale (~25 min). |
-| **~1:10 AM** | **Car sleep — Troutdale.** 20 min from Multnomah Falls. |
-| | **Alarm: 5:15 AM.** |
+| # | Stop | Arrive | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | Portland Airport (PDX) | 11:05 PM | 30 min | Rental car | 🔴 |
+| 2 | Fred Meyer (24hr), NE Portland | 11:45 PM | 25 min | Provisions | 🔴 |
+| 3 | Portland "White Stag" Sign | 12:20 AM | 10 min | Night photo | 🟢 |
+| 4 | Chinatown Gateway | 12:32 AM | 10 min | Night photo | 🟢 |
+| 5 | Car sleep — Troutdale (I-84) | ~1:05 AM | Sleep | Overnight | 🔴 |
 
-**Driving:** ~30 miles.
+**Capture:** White Stag neon reflecting on wet pavement (braced, ISO 800–1600, 1/30–1s); Chinatown Gateway lions lit against black sky. **Alarm: 5:30 AM.** Driving: ~30 mi.
 
 ---
----
 
-## FRIDAY, AUG 14 — MULTNOMAH SUNRISE → PORTLAND CULTURE → COAST SUNSET
+## FRIDAY, AUG 14 — COLUMBIA GORGE WATERFALL CORRIDOR → PORTLAND CITY DAY → CANNON BEACH SUNSET
 
 ### Day Overview
-A clean west-flowing line, no metro backtrack. Waterfall at dawn, Portland's culture-and-food block mid-morning, then a straight shot to the coast for an Ecola sunset over Haystack. You sleep at Cannon Beach — the move that unlocks tomorrow's Haystack sunrise.
+The richest single day for variety on the whole trip — waterfalls, a weird-and-wonderful city, and a beach sunset, in that order. You start at first light on the **Historic Columbia River Highway**, the 1916 scenic road that strings together the Gorge's waterfalls like beads. Working west-to-east from Chanticleer Point catches the sunrise over the Gorge, then you descend through a chain of falls — Latourell, Bridal Veil, Wahkeena, Multnomah, Horsetail, Ponytail — timed so you hit **Multnomah before 9 AM** (no timed-use permit needed pre-9, and the mob hasn't arrived). North-facing shaded canyons mean soft, even light on every one of them all morning; this is the ideal window and it's free of harsh contrast.
 
-### Hour-by-Hour Path
+By late morning you drop into Portland proper for a full "Keep Portland Weird" city day — a Belizean brunch, the largest bookstore on Earth, an oddities shop, a minimalist Japanese design store, oyster stew at a 1907 institution, and a scoop of local ice cream, threaded together through downtown and the inner east/north side. This is the one true city block of the trip, so you lean into it rather than rushing through. Then, instead of the old early-afternoon coast dash, you hold Portland until about 6:15 PM and drive US-26 west so you arrive at Cannon Beach for the main event: **Haystack Rock silhouetted against the sunset** — the classic backlit Oregon sea-stack shot. You sleep at Cannon Beach, ten minutes from tomorrow's Ecola sunrise.
 
-| Time | Where → What |
-|---|---|
-| **5:15 AM** | Wake, quick coffee/snack, drive to Multnomah Falls (~20 min). |
-| **6:00–7:15 AM** | ★ **MULTNOMAH FALLS (9/10)** — soft shaded dawn, crowd-free, no permit. 16–35mm vertical, tripod/ND 1/4–2s, Benson Footbridge with a figure. |
-| **7:15 AM** | Optional: drive 5 min to **Latourell Falls**. |
-| **7:30–8:00 AM** | *(Optional)* **Latourell Falls** — 249-ft drop against yellow-lichen basalt columns. |
-| **8:00 AM** | Drive I-84 W into Portland (~40 min). |
-| **8:45–9:45 AM** | **Breakfast — Love Belizean** — stew chicken, rice & beans, plantains. Cash-friendly. |
-| **10:00–11:00 AM** | ★ **Powell's City of Books (7/10)** — full city block; shoot the Rose Room + aisles. |
-| **11:15 AM–12:00 PM** | ★ **Paxton Gate (7/10)** — taxidermy + oddities. *(Most droppable if running late.)* |
-| **12:00–12:20 PM** | **Coffee — Coava or Heart**, to-go for the drive. |
-| **12:20 PM** | Drive US-26 W to the coast (~1h 35min). |
-| **2:00 PM** | Arrive Cannon Beach. Scout Haystack, tide pools, rest, charge batteries. |
-| **7:30–8:30 PM** | ★ **ECOLA STATE PARK SUNSET (9/10)** — cliff panorama over Haystack, Indian Beach below. West-facing golden hour. |
-| **~9:00 PM** | **Car sleep — Cannon Beach.** In position for Haystack sunrise. |
-| | **Alarm: 5:20 AM.** |
+### Stops — In Order
 
-**Driving:** ~150 miles.
+| # | Stop | Arrive | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **Chanticleer Point (Women's Forum)** | 5:45 AM | 30 min | ⭐ Gorge sunrise | 🔴 |
+| 2 | Vista House / Crown Point | 6:20 AM | 20 min | Overlook | 🔴 |
+| 3 | Latourell Falls | 6:50 AM | 30 min | Waterfall | 🔴 |
+| 4 | Bridal Veil Falls | 7:30 AM | 25 min | Waterfall (0.6 mi) | 🟡 |
+| 5 | Wahkeena Falls | 8:00 AM | 15 min | Roadside falls | 🟡 |
+| 6 | **Multnomah Falls** (pre-9 AM, no permit) | 8:20 AM | 50 min | ⭐ Signature falls | 🔴 |
+| 7 | Horsetail Falls | 9:20 AM | 15 min | Roadside falls | 🟢 |
+| 8 | Ponytail Falls (walk behind it) | 9:40 AM | 30 min | Falls hike (0.8 mi) | 🟡 |
+| 9 | **Love Belizean** (brunch) | 10:50 AM | 45 min | Food | 🔴 |
+| 10 | Powell's City of Books | 11:50 AM | 60 min | Culture | 🔴 |
+| 11 | Muji (Pioneer Place) | 1:00 PM | 25 min | Shop | 🟡 |
+| 12 | Stumptown Coffee (flagship) | 1:35 PM | 20 min | Coffee | 🟢 |
+| 13 | Dan & Louis Oyster Bar (oyster stew) | 2:00 PM | 45 min | Food | 🔴 |
+| 14 | Cheese & Crack (ice cream/snacks) | 2:55 PM | 25 min | Food | 🟡 |
+| 15 | Paxton Gate oddities + "Keep Portland Weird" mural / Dante's | 3:35 PM | 60 min | Culture | 🟡 |
+| 16 | Nong's Khao Man Gai (grab-to-go for road) | 4:45 PM | 25 min | Food | 🟢 |
+| 17 | Depart for coast | ~6:15 PM | 1h 35min drive | Transit | 🔴 |
+| 18 | **Cannon Beach / Haystack Rock** | ~7:50 PM | — | ⭐ SUNSET | 🔴 |
+| 19 | Car sleep — Cannon Beach | ~9:15 PM | Sleep | Overnight | 🔴 |
+
+**Alarm: 5:30 AM.** Driving: ~150 mi.
+
+### What to Capture — Gorge
+- **Chanticleer Point:** Wide east-facing view of the Gorge with Vista House on its bluff and (on clear days) Beacon Rock beyond. Best light of the morning hits here first.
+- **Vista House:** 1918 stone rotunda on Crown Point — shoot the building itself (Art Nouveau octagon) and the river corridor below.
+- **Latourell:** 249 ft plunging straight past a wall of columnar basalt draped in chartreuse lichen — the color contrast is the shot. Lower viewpoint from the parking area; short loop for the base.
+- **Multnomah:** 620 ft, two tiers, Benson Footbridge between them. 16–35mm vertical, tripod/ND 1/4–2s, put a figure on the bridge for scale.
+- **Ponytail (Upper Horsetail):** the trail passes *behind* the falls — shoot out through the water curtain, a frame you can't get anywhere else.
+
+### What to Capture — Cannon Beach Sunset
+Haystack Rock (235 ft) sits offshore due west, so at sunset it becomes a **silhouette against a burning sky** — the opposite of a sunrise front-lit shot, and arguably more dramatic. Get low on the wet sand for the rock's reflection; 16–24mm wide for the full beach sweep, 70–200mm to stack Haystack against the Needles. Stay through blue hour.
 
 ---
----
 
-## SATURDAY, AUG 15 — HAYSTACK SUNRISE → FULL OREGON COAST → BOARDMAN SUNSET
+## SATURDAY, AUG 15 — ECOLA CLIFF SUNRISE → OREGON COAST (TIERED) → BOARDMAN SUNSET
 
 ### Day Overview
-The signature coast day — the greatest concentration of coastal landmarks in the Lower 48, run north-to-south with no backtracking. The only variable is the tide, which decides whether Thor's Well or Heceta Head goes first.
+Today is the length of the Oregon coast — Cannon Beach to Brookings is ~340 miles of US-101 — so it's the day where discipline matters. You open at **Ecola State Park's cliff** at sunrise, where warm early light rakes across the headlands and you look south down onto Haystack and Indian Beach from above. From there you thread south down 101 hitting the coast's greatest hits, but **you cannot do all of them** — the drive alone eats 7 hours, so the plan below is tiered. Your three fixed anchors are Ecola (sunrise), **Thor's Well** at Cape Perpetua (timed to high tide — the sinkhole "drains the ocean" and is genuinely dangerous, so telephoto from a safe distance and never turn your back on the sea), and the **Samuel Boardman Corridor** at sunset (the 10/10 image of the coast — sea stacks and natural arches backlit in gold).
 
-### Hour-by-Hour Path
+Between those anchors, pick **2–3 optionals** from the tiered list based on the tide and your pace: the wild capes (Neahkahnie, Oswald West's Short Sand), the lighthouses (Yaquina Head, Heceta Head + Sea Lion Caves), or the dunes at Florence. The Three Capes detour (Cape Meares Lighthouse + Oceanside Tunnel) and God's Thumb are flagged as skip-unless-far-ahead — they're time-sinks that will cost you Boardman. Lunch is dock-to-plate: fisherman-owned chowder at Yachats. You sleep at Brookings, positioned for Secret Beach at dawn.
 
-| Time | Where → What |
-|---|---|
-| **5:20 AM** | Wake, walk to Haystack (already parked at Cannon Beach). |
-| **5:50–7:10 AM** | ★ **HAYSTACK ROCK SUNRISE (9/10)** — tide-pool reflection at low tide. 16–24mm low to wet sand; 70–200mm on the Needles. |
-| **7:15 AM** | Drive US-101 S (~1h). |
-| **8:30–9:15 AM** | **Cape Kiwanda (7/10)** — sandstone cliffs, sea stack, dune. |
-| **9:15 AM** | Drive US-101 S (~1h 40min). |
-| **11:00 AM–12:15 PM** | ★ **THOR'S WELL / Cape Perpetua (9/10)** — ocean-action, 1 hr before-to-at high tide. Telephoto from safety. **Never turn your back on the ocean.** *(Tide swap: if high tide is afternoon, do Heceta + Dunes first, circle back.)* |
-| **12:30–1:15 PM** | ★ **HECETA HEAD LIGHTHOUSE (8/10)** — from Cape Cove pullout to the south. 70–200mm to isolate; 24–70mm for cove + surf. |
-| **1:45–2:30 PM** | ★ **OREGON DUNES NRA, Florence (7/10)** — 500-ft dunes. Camera low for ripples; wide for dune-to-ocean. |
-| **3:30–4:15 PM** | *(Optional)* **Bandon / Face Rock** — sea-stack cluster, if ahead of schedule. |
-| **4:30 PM** | Drive US-101 S (~3h). |
-| **7:30–8:25 PM** | ★★ **SAMUEL BOARDMAN CORRIDOR SUNSET (10/10)** — sea stacks + arches. Natural Bridges, Thunder Rock Cove. **Stay if the light is extraordinary.** |
-| **8:25–8:55 PM** | ★ **Natural Bridges Viewpoint (8/10)** — blue-hour seascape. |
-| **~9:15 PM** | **Car sleep — Brookings.** In position for Secret Beach dawn. |
-| | **Alarm: 5:20 AM.** |
+### Stops — In Order (pick optionals by pace/tide)
 
-**Driving:** ~340 miles.
+| # | Stop | Arrive | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **Ecola State Park cliff** | 5:40 AM | 70 min | ⭐ SUNRISE | 🔴 |
+| 2 | Neahkahnie Mtn viewpoint (S of Cannon Bch) | 7:20 AM | 20 min | Overlook | 🟡 |
+| 3 | Oswald West: Short Sand Beach / Elk Flats | 7:55 AM | 40 min | Cove + rock | 🟡 |
+| 4 | Manzanita (beach town, coffee) | 8:45 AM | 25 min | Town/food | 🟢 |
+| 5 | *Cape Meares Lighthouse + Oceanside Tunnel* | — | (1h+ detour) | 3-Capes loop | 🟢 skip unless far ahead |
+| 6 | Cape Kiwanda / Pacific City | 10:15 AM | 40 min | Sandstone cape | 🟡 |
+| 7 | Otter Crest / Cape Foulweather | 11:45 AM | 20 min | Overlook | 🟡 |
+| 8 | Yaquina Head Lighthouse | 12:20 PM | 45 min | Lighthouse/tidepools | 🟡 |
+| 9 | Newport Bayfront sea-lion dock | 1:20 PM | 20 min | Wildlife | 🟢 |
+| 10 | **Thor's Well / Cape Perpetua** | 2:30 PM | 75 min | ⭐ Ocean-action (tide) | 🔴 |
+| 11 | Heceta Head Lighthouse + Sea Lion Caves | 4:00 PM | 60 min | Lighthouse/wildlife | 🔴 |
+| 12 | Oregon Dunes (Florence) | 5:20 PM | 45 min | Dunes | 🟡 |
+| 13 | Depart south to Boardman | 6:15 PM | ~2h drive | Transit | 🔴 |
+| 14 | **Samuel Boardman Corridor** (Arch Rock, Natural Bridges) | 7:45 PM | 60 min | ⭐⭐ SUNSET 10/10 | 🔴 |
+| 15 | Natural Bridges Viewpoint (blue hour) | 8:45 PM | 20 min | Twilight | 🟡 |
+| 16 | Car sleep — Brookings | ~9:15 PM | Sleep | Overnight | 🔴 |
+
+**Reality note:** The table above lists everything; you'll realistically complete Ecola + Thor's Well + Heceta + Boardman as anchors, plus **2–3** of Neahkahnie / Oswald West / Cape Kiwanda / Yaquina Head. If the tide puts Thor's Well in the afternoon, run Heceta and the Dunes first and loop back. **Alarm: 5:20 AM.** Driving: ~340 mi.
+
+### What to Capture — Key Coast Stops
+- **Ecola sunrise:** cliff panorama south to Haystack; Indian Beach cove below with surf lines. East light warms the headlands.
+- **Thor's Well:** the "drain" surges best 1 hr before-to-at high tide; 70–200mm from a dry, elevated rock; expose for the surge.
+- **Heceta Head:** the postcard is from the Cape Cove pullout *south* of the lighthouse, looking back north — white light tower on a green headland above a turquoise cove. **Sea Lion Caves** (America's largest sea cave) is 1 mile north — elevator down to the sea-lion grotto.
+- **Yaquina Head:** tallest lighthouse on the Oregon coast (93 ft) plus excellent low-tide tidepools at Cobble Beach.
+- **Boardman:** Arch Rock, Natural Bridges Cove, Thunder Rock Cove — west-facing arches and stacks going gold then to silhouette. The trip's best coastal frame.
 
 ---
----
 
-## SUNDAY, AUG 16 — SECRET BEACH SUNRISE → REDWOODS → CRATER LAKE (SUNSET + PERSEIDS)
+## SUNDAY, AUG 16 — SECRET BEACH SUNRISE → NORTHERN REDWOODS LOOP → CRATER LAKE (SUNSET + PERSEIDS)
 
 ### Day Overview
-A three-landscape day: hidden-cove coast at dawn, the tallest trees on Earth at midday (their ideal diffused-light window), then the astro centerpiece of the trip — Perseids and Milky Way over Crater Lake under a new-moon sky.
+Three completely different worlds in one day: hidden-cove Pacific coast at dawn, the tallest trees on Earth through midday, and a volcanic caldera under a meteor shower at night. You open at **Secret Beach** in the Boardman Corridor — a stream crossing the sand toward offshore stacks, soft with August fog. Then you drop into California's **northern redwoods**, and this is where your list gets sequenced tightly, because the geography demands it: everything from Crescent City south to Orick, then a backtrack to Crescent City to catch US-199 inland. Old-growth photographs *best* at midday — the canopy diffuses the harsh sun into soft even light, so the middle of the day here is a feature, not a waste.
 
-### Hour-by-Hour Path
+Work the redwoods in this order to minimize backtracking: **Battery Point Lighthouse** (Crescent City, tide-gated) → **Stout Grove + Howland Hill Road** (Jedediah Smith, just SE of town) → then south on 101 to **False Klamath Cove**, **Lady Bird Johnson Grove**, **Elk Meadow + Trillium Falls**, **Fern Canyon** (your permit day), and **Redwood Creek Beach** at Orick. Then it's the long climb inland via US-199 and OR-62 to Crater Lake, where you arrive for the caldera sunset from the west rim and stay for the astro centerpiece of the whole trip — **Milky Way + lingering Perseids** over the lake under a new-moon sky. **Honest flag:** doing the *entire* redwood list puts you at Crater Lake right at sunset (~7:45 PM) with no scouting buffer — you'll shoot sunset from wherever you land on the rim. If you want a scouted west-rim sunset, trim Lady Bird / Elk Meadow / Redwood Creek Beach to the "if-ahead" tier.
 
-| Time | Where → What |
-|---|---|
-| **5:20 AM** | Wake, short drive to Secret Beach trailhead. |
-| **6:00–7:15 AM** | ★ **SECRET BEACH SUNRISE (8/10)** — stream leading line to sea stacks, August fog. |
-| **7:15 AM** | Drive US-101 S to Crescent City (~45 min). |
-| **8:00–8:30 AM** | ★ **Battery Point Lighthouse (7/10)** — 1856 light on tidal island. Walk the causeway if low tide; telephoto from shore if high. |
-| **8:45–9:45 AM** | ★ **Stout Grove, Jedediah Smith (9/10)** — cathedral old-growth, 16–35mm vertical up the trunks; god-rays if fog + sun. |
-| **10:00–10:45 AM** | ★ **Howland Hill Road (8/10)** — unpaved drive through giants; the road framed by trunks. |
-| **11:15 AM–12:30 PM** | ★ **FERN CANYON (9/10)** — permit required (Aug 16). Fern-walled slot canyon + stream. Waterproof footwear; slow shutter on the water. |
-| **12:45 PM** | Drive inland: US-199 → OR-62 (~4h). Shower stop at **Grants Pass** en route. |
-| **~4:45 PM** | Arrive **Crater Lake — Rim Village.** First caldera views, lunch, gear check. |
-| **6:15–7:30 PM** | ★ **Watchman Overlook (9/10)** — elevated caldera + Wizard Island. Polarizer careful. |
-| **7:45–8:30 PM** | ★★ **CRATER LAKE RIM SUNSET (10/10)** — cobalt to indigo. 16–24mm caldera; 70–200mm on Wizard Island. |
-| **9:30–11:00 PM** | ★★ **MILKY WAY + PERSEIDS (10/10)** — core to the south over the caldera. 14–24mm f/2.8, ISO 3200–6400, 15–20s. Intervalometer for meteors. Red headlamp only. |
-| **~11:30 PM** | **Car sleep — Mazama Village / rim.** |
-| | **Alarm: 5:20 AM.** |
+### Stops — In Order
 
-**Driving:** ~230 miles.
+| # | Stop | Arrive | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **Secret Beach (Boardman)** | 5:45 AM | 60 min | ⭐ SUNRISE | 🔴 |
+| 2 | Battery Point Lighthouse, Crescent City | 7:30 AM | 25 min | Lighthouse (tide) | 🟡 |
+| 3 | **Stout Grove + Howland Hill Rd** (Jedediah Smith) | 8:15 AM | 75 min | 🔴 Old-growth | 🔴 |
+| 4 | False Klamath Cove | 10:00 AM | 20 min | Coastal redwood edge | 🟡 |
+| 5 | Lady Bird Johnson Grove (1.4 mi loop) | 10:40 AM | 50 min | Ridgetop grove | 🟡 |
+| 6 | Elk Meadow + Trillium Falls (2.5 mi) | 11:45 AM | 60 min | Elk + falls | 🟡 |
+| 7 | **Fern Canyon + Gold Bluffs Beach** (permit) | 1:00 PM | 75 min | 🔴 Fern canyon | 🔴 |
+| 8 | Redwood Creek Beach (Orick) | 2:25 PM | 20 min | Creek mouth | 🟢 |
+| 9 | Drive inland (backtrack Crescent City → US-199 → OR-62) | 3:00 PM | ~4h drive | Transit + Grants Pass shower | 🔴 |
+| 10 | **Crater Lake — Rim Village / Sinnott Memorial** | ~7:15 PM | 30 min | First caldera view | 🔴 |
+| 11 | **Watchman Overlook** (west rim) | 7:45 PM | — | ⭐⭐ SUNSET 10/10 | 🔴 |
+| 12 | Discovery Point / Merriam Point | 8:20 PM | 30 min | Rim viewpoints | 🟡 |
+| 13 | **Milky Way + Perseids** (rim, core to south) | 9:30 PM | 90 min | ⭐⭐ Astro 10/10 | 🔴 |
+| 14 | Car sleep — Mazama Village / rim | ~11:30 PM | Sleep | Overnight | 🔴 |
 
-*Oregon Caves note: dropped in this version — the redwoods are the stronger on-route priority. To do the caves instead, you'd trade Fern Canyon for it.*
+**Alarm: 5:20 AM.** Driving: ~230 mi.
+
+### Redwoods — What to Cover, In Sequence
+1. **Battery Point Lighthouse** — 1856 light on a tidal islet; walk the rock causeway only at low tide, else telephoto from shore.
+2. **Stout Grove** — the most cathedral-like grove; flat alluvial floor, evenly spaced giants. 16–35mm **vertical**, shoot straight up the trunks; watch for god-rays if fog + sun combine.
+3. **Howland Hill Road** — unpaved 10-mi lane *through* the old-growth (your SUV handles it); the road framed by trunks is the shot.
+4. **False Klamath Cove** — where redwoods meet the sea; driftwood + stacks.
+5. **Lady Bird Johnson Grove** — ridgetop loop, often fog-wrapped; the dedication site, soft misty light.
+6. **Elk Meadow / Trillium Falls** — Roosevelt elk graze the meadow (dawn/dusk best); Trillium is a small fern-lined falls on a 2.5-mi loop.
+7. **Fern Canyon** — 30–80 ft walls solid with ferns, stream on the floor (Jurassic Park II site). Waterproof footwear; slow shutter on the water; wide for the wall texture.
+8. **Redwood Creek Beach** — the creek mouth at Orick, a quick wide coastal grab before turning inland.
+
+### Crater Lake — Sunday Evening (West Rim) Sequence
+Sinnott Memorial Overlook (Rim Village) for orientation → **Watchman Overlook** for sunset (west rim looks *east* across the lake, so the far wall and Wizard Island catch the last warm light) → Merriam Point for the north-rim angle → hold for astro with a clear southern horizon and Wizard Island in frame (galactic core sits south).
 
 ---
----
 
-## MONDAY, AUG 17 — CRATER LAKE SUNRISE → VOLCANIC LEGACY BYWAY → LASSEN → SF RED-EYE
+## MONDAY, AUG 17 — CRATER LAKE SUNRISE + EAST RIM → KLAMATH SPRINGS → VOLCANIC BYWAY → LASSEN → SF RED-EYE
 
 ### Day Overview
-The volcanic descent. Crater Lake at dawn, then south down the Volcanic Legacy Scenic Byway past Mt. Shasta and Burney Falls to Lassen's geothermal terrain — two Cascade volcanoes bookending one drive, plus Shasta as a bonus. Then I-5 to SFO for food and the red-eye. You sleep on the plane and walk into the office by 9:22 AM.
+The monster day, and the one where your low-sleep endurance earns its keep — two Cascade volcanoes bookend a single southbound line, with a lava tube, a spring-fed waterfall, and Mt. Shasta in between. You start with a **caldera sunrise from the east rim**: sunrise lights the *west* wall, so Cloudcap Overlook (the highest paved overlook) or the Phantom Ship/Sun Notch side gives you the warm-lit far wall while you catch a few more of the viewpoints on your list before exiting south. Just below the park, an optional **Klamath springs cluster** — Jackson F. Kimball State Rec Site, Wood River headwaters, Oux-Kanee Overlook, Spring Creek — offers glassy spring-fed water and a quiet overlook if you want them before the long haul.
 
-### Hour-by-Hour Path
+Then you descend the **Volcanic Legacy Scenic Byway** (OR-62 → US-97 → CA-89), the road built to link the Cascade volcanoes: **Mt. Shasta** looms for an hour (grab a small-town diner lunch at Weed/Mt. Shasta City), then **Burney Falls** (a 129-ft curtain fed by springs that pour straight out of the rock face), then **Subway Cave** (a walkable lava tube at Old Station), and into **Lassen Volcanic NP** for the geothermal payoff. Inside Lassen you run the park highway top to bottom — Manzanita Lake reflection, the Lassen Peak Overlook, Emerald Lake and Lake Helen, then the trip's signature alien terrain at **Bumpass Hell** (boiling mudpots and turquoise fumarole pools on a 3-mile boardwalk), exiting past Sulphur Works. **The accepted trade:** Monday's sunset is spent on I-5 driving to SFO — unavoidable if you want Lassen, and the right call since SF is flight-only. You eat cheap and local in the city, drop the car, and sleep on the 12:45 AM red-eye — at your desk by 9:22 AM with zero pay lost.
 
-| Time | Where → What |
-|---|---|
-| **6:10–6:55 AM** | ★ **CRATER LAKE CALDERA SUNRISE (8/10)** — first light on Wizard Island (you slept on the rim). |
-| **7:00 AM** | Depart south: OR-62 → US-97 S → CA-89 S (~2h 30min). |
-| **~9:30–9:50 AM** | ★ **Mt. Shasta viewpoints, Weed/CA-89 (8/10)** — 14,179-ft stratovolcano. 24–70mm w/ foreground; 70–200mm compress. Grab a **McCloud/Mt. Shasta diner** lunch here or to-go. |
-| **10:45–11:45 AM** | ★ **Burney Falls (8/10)** — 129-ft spring-fed curtain. Tripod/ND 1/4–1/30s; lower viewpoint for full face. |
-| **12:15–1:30 PM** | ★ **Lassen — Manzanita Lake (8/10)** — Lassen Peak reflection (midday; calm water). 16–24mm full reflection, foreground rocks/reeds. |
-| **1:45–3:45 PM** | ★ **BUMPASS HELL (8/10)** — 3-mi RT boardwalk to the largest geothermal basin: mudpots, fumaroles, turquoise pools. Stay on the boardwalk. Wide for basin; telephoto for pools + steam. |
-| **4:00–4:45 PM** | **Sulphur Works / Lake Helen (7/10)** — roadside geothermal + alpine lake on the way out. |
-| **4:45 PM** | Depart Lassen → SF: CA-89 → CA-36 → I-5 → US-101 (~4h 30min). |
-| **~6:00 PM** | **Shower — Redding.** Fuel, ATM for cash. *(Monday sunset is spent on I-5 — the accepted trade for Lassen.)* |
-| **~9:45–10:45 PM** | **SF food:** Mission — **Yamo** (Burmese, cash) + **El Farolito** burrito for the flight, or **Good Mong Kok** dim sum if routing through Chinatown. |
-| **~11:15 PM** | **Return rental car — SFO.** Fuel receipt, shuttle to terminal. |
-| **12:45 AM (Tue)** | ★ **RED-EYE DEPARTS SFO → IAH → AUS.** Sleep on the plane. |
-| **8:37 AM (Tue)** | Land AUS → desk by ~9:22 AM. $0 pay lost. |
+### Stops — In Order
 
-**Driving:** ~450 miles.
+| # | Stop | Arrive | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **Crater Lake — Cloudcap Overlook (east rim)** | 6:05 AM | 40 min | ⭐ SUNRISE (lit W wall) | 🔴 |
+| 2 | Phantom Ship Overlook | 6:55 AM | 15 min | Rim viewpoint | 🟡 |
+| 3 | Sun Notch Trailhead (0.8 mi to Phantom Ship view) | 7:15 AM | 30 min | Short rim hike | 🟡 |
+| 4 | Pumice Castle Overlook | 7:55 AM | 10 min | Rim viewpoint | 🟢 |
+| 5 | *Klamath cluster: Jackson Kimball SRS / Wood River / Oux-Kanee / Spring Creek* | 8:45 AM | 40 min | Spring-fed water | 🟡 |
+| 6 | Mt. Shasta viewpoint (Weed) + diner lunch | 11:15 AM | 45 min | ⭐ Volcano + food | 🔴 |
+| 7 | Burney Falls | 12:45 PM | 60 min | Waterfall | 🔴 |
+| 8 | Subway Cave (Old Station lava tube) | 2:10 PM | 40 min | Lava tube | 🟡 |
+| 9 | **Lassen — Manzanita Lake** | 3:00 PM | 45 min | Reflection | 🔴 |
+| 10 | Lassen Peak Overlook | 3:55 PM | 20 min | Volcano overlook | 🟡 |
+| 11 | Emerald Lake + Lake Helen | 4:20 PM | 25 min | Alpine volcanic lakes | 🟡 |
+| 12 | **Bumpass Hell** (3 mi RT boardwalk) | 4:55 PM | 2h | 🔴 Geothermal | 🔴 |
+| 13 | Sulphur Works (south exit) | 7:15 PM | 20 min | Roadside geothermal | 🟢 |
+| 14 | Depart → SFO (shower Redding) | 7:35 PM | ~4h 30min drive | Transit | 🔴 |
+| 15 | SF food: Good Mong Kok / Yamo / El Farolito | ~11:15 PM | 45 min | Food (cash) | 🔴 |
+| 16 | Return rental car — SFO | ~12:00 AM | — | Logistics | 🔴 |
+| 17 | **Red-eye SFO → IAH → AUS** | 12:45 AM Tue | — | Flight | 🔴 |
 
----
+**Note:** With the full Lassen highway + Bumpass Hell, the Klamath cluster and Subway Cave are the first things to trim if you're behind — they're the two most droppable. Driving: ~450 mi. Land AUS 8:37 AM → desk 9:22 AM.
+
+### Crater Lake — Monday Morning (East Rim) Sequence
+Sunrise lights the west wall, so shoot from the **east/southeast rim**: Cloudcap Overlook (highest paved point, 8,065 ft) for the sunrise → Phantom Ship Overlook (the jagged islet that looks like a ghost ship) → Sun Notch (0.8-mi walk to a dramatic Phantom Ship framing) → Pumice Castle Overlook (orange pinnacle formation in the caldera wall) → exit south. *Additional viewpoints worth a stop if ahead:* Vidae Falls (roadside cascade on the south rim) and the Pinnacles Overlook (fossil fumarole spires) near the south exit.
+
+### Lassen — What to Cover, In Sequence (north entrance → south exit)
+1. **Manzanita Lake** — the classic: Lassen Peak (10,457 ft) reflected in calm water; foreground reeds/rocks, 16–24mm.
+2. **Lassen Peak Overlook** — the volcano head-on from the highway; the peak last erupted 1914–17.
+3. **Emerald Lake / Lake Helen** — intensely blue-green alpine lakes right off the road; polarizer for saturation.
+4. **Bumpass Hell** — 3-mi round-trip boardwalk into the largest hydrothermal basin in the park: boiling mudpots, fumaroles, turquoise pools. Stay on the boardwalk (ground is scalding and unstable). Wide for the basin; 70–200mm for the colored pools and rising steam.
+5. **Sulphur Works** — roadside steam vents and bubbling mud right by the south entrance; a quick final geothermal grab on the way out.
+
 ---
 
 ## GOLDEN HOUR MASTER SCHEDULE
 
 | Day | Time | Location | Subject | Score |
 |---|---|---|---|---|
-| Fri | 6:00 AM | Multnomah Falls | Two-tier waterfall, soft dawn | 9/10 |
-| Fri | 7:30 PM | ★ Ecola State Park | Cliff panorama over Haystack | 9/10 |
-| Sat | 5:50 AM | ★ Haystack Rock | Sea stack + tide pool reflection | 9/10 |
-| Sat | 11:00 AM | Thor's Well | Ocean-action at tide | 9/10 |
-| Sat | 12:30 PM | Heceta Head Lighthouse | Lighthouse on headland | 8/10 |
-| Sat | 7:30 PM | ★★ Samuel Boardman Corridor | Sea stacks + arches | 10/10 |
-| Sun | 6:00 AM | Secret Beach | Hidden-cove sunrise | 8/10 |
-| Sun | 8:45 AM | Stout Grove / Fern Canyon | Cathedral old-growth (diffused) | 9/10 |
-| Sun | 6:15 PM | ★ Watchman Overlook | Caldera + Wizard Island | 9/10 |
-| Sun | 7:45 PM | ★★ Crater Lake Rim | Signature caldera sunset | 10/10 |
+| Fri | 5:45 AM | Chanticleer Point, Gorge | Sunrise over the Columbia Gorge | 8/10 |
+| Fri | 8:20 AM | Multnomah Falls | Two-tier falls, soft dawn | 9/10 |
+| Fri | ~7:50 PM | Cannon Beach / Haystack | ⭐ Sea stack silhouette at sunset | 9/10 |
+| Sat | 5:40 AM | Ecola State Park cliff | Sunrise over headlands + Haystack | 9/10 |
+| Sat | ~2:30 PM | Thor's Well | Ocean-action at high tide | 9/10 |
+| Sat | 7:45 PM | ★★ Samuel Boardman | Sea stacks + arches, backlit | 10/10 |
+| Sun | 5:45 AM | Secret Beach | Hidden-cove sunrise | 8/10 |
+| Sun | midday | Stout Grove / Fern Canyon | Old-growth, diffused | 9/10 |
+| Sun | 7:45 PM | ★★ Crater Lake rim (Watchman) | Caldera sunset | 10/10 |
 | Sun | 9:30 PM | ★★ Crater Lake | Milky Way + Perseids | 10/10 |
-| Mon | 6:10 AM | Crater Lake caldera | Morning rim light | 8/10 |
-| Mon | 9:30 AM | Mt. Shasta | 14,179-ft stratovolcano | 8/10 |
-| Mon | 1:45 PM | Bumpass Hell, Lassen | Geothermal basin, steam | 8/10 |
+| Mon | 6:05 AM | Crater Lake Cloudcap (east rim) | Sunrise on the west wall | 8/10 |
+| Mon | 11:15 AM | Mt. Shasta | 14,179-ft stratovolcano | 8/10 |
+| Mon | ~5 PM | Bumpass Hell, Lassen | Geothermal basin + steam | 8/10 |
 
-**Three 10/10 sessions: Samuel Boardman sunset, Crater Lake sunset, Crater Lake Perseid astro.**
-
----
-
-## PHOTOGRAPHY SETTINGS REFERENCE
-
-| Location | ISO | Shutter | Aperture | Notes |
-|---|---|---|---|---|
-| Portland night signs | 800–1600 | 1/30–1s | f/2.8–f/4 | Brace/tripod; neon detail |
-| Multnomah Falls | 100–400 | 1/4–2s | f/11 | Tripod/ND, silky water |
-| Ecola sunset | 100 | 1/60–1/250 | f/11 | Bracket |
-| Haystack sunrise | 100–400 | 1/15–1/2s | f/11 | ND for surf, low for reflection |
-| Thor's Well | 100–400 | 1/250–1/2s | f/11 | Telephoto from safety |
-| Heceta Head | 100–200 | 1/250–1/500 | f/8 | 70–200mm from Cape Cove |
-| Boardman sunset | 100 | 1/60–1/250 | f/11 | Bracket, sun in frame |
-| Battery Point | 100–400 | 1/125–1/500 | f/8 | Low tide causeway |
-| Stout Grove / Fern Canyon | 400–800 | 1/8–1/60s | f/8 | Diffused, tripod, vertical |
-| Crater Lake caldera | 100 | 1/125–1/500 | f/8–f/11 | Polarizer careful |
-| Crater Lake Milky Way | 3200–6400 | 15–20s | f/2.8 | 14–24mm, infinity focus |
-| Perseid meteors | 3200 | 20s continuous | f/2.8 | Intervalometer, stack |
-| Mt. Shasta | 100–200 | 1/250–1/500 | f/8 | Foreground or compress |
-| Burney Falls | 100–200 | 1/4–1/30s | f/11 | Tripod/ND |
-| Manzanita Lake | 100–200 | 1/15–1s | f/8 | Tripod, calm water |
-| Bumpass Hell | 100–400 | 1/125–1/500 | f/8 | Telephoto for pools + steam |
+**Four 10/10 sessions: Boardman sunset, Crater Lake sunset, Crater Lake Perseid astro** — plus a stacked coast/waterfall/forest/volcano spread.
 
 ---
 
-## 🍜 FOOD — THE BOURDAIN GUIDE (cheap, local, non-gentrified)
+## 🍜 FOOD — THE BOURDAIN GUIDE (your picks + local, cheap, non-gentrified)
 
 | Day | Meal | Spot | Get | Cost |
 |---|---|---|---|---|
-| **Fri** | Breakfast | **Love Belizean** (Portland) | Stew chicken, rice & beans | $10–13 |
-| Fri | Lunch alt | **Nong's Khao Man Gai** | Thai poached chicken + rice | $10 |
-| Fri | Deep-local | **HK Café** (SE 82nd Ave) | Push-cart dim sum, real Asian corridor | $12–16 |
-| **Sat** | Lunch | **Luna Sea Fish House** (Yachats) | Fisherman-owned chowder + fish-and-chips | $12–16 |
+| Fri | Brunch | **Love Belizean** (Portland) | Stew chicken, rice & beans, plantains | $10–13 |
+| Fri | Lunch | **Dan & Louis Oyster Bar** (est. 1907) | Oyster stew | $12–16 |
+| Fri | Snack | **Cheese & Crack** | Local ice cream / snack board | $6–10 |
+| Fri | Coffee | **Stumptown** (flagship) | Cold brew / single-origin | $4–5 |
+| Fri | Road dinner | **Nong's Khao Man Gai** (to-go) | Thai chicken + rice | $10 |
+| Sat | Lunch | **Luna Sea Fish House** (Yachats) | Fisherman-owned chowder + fish-and-chips | $12–16 |
 | Sat | Dinner | **Sporthaven** (Brookings harbor) | Fish tacos | $12–16 |
-| **Sun** | Breakfast | **Los Bagels** (Arcata) or provisioned | Jewish-Mexican bagel | $6–10 |
 | Sun | Lunch/Pie | **Beckie's Café** (Union Creek, OR-62) | Marionberry pie à la mode | $10–15 |
-| **Mon** | Lunch | **McCloud / Mt. Shasta diner** (CA-89) | Small-town byway diner | $10–14 |
+| Mon | Lunch | **Mt. Shasta / Weed diner** (CA-89) | Small-town byway plate | $10–14 |
 | Mon | SF snack | **Good Mong Kok** (Chinatown, cash) | To-go dim sum, pork buns | $6–10 |
 | Mon | SF dinner | **Yamo** (Mission, cash) | Burmese tea-leaf salad + noodles | $8–12 |
-| Mon | Pre-red-eye | **El Farolito** (Mission, cash) | Al pastor super burrito | $10–12 |
-
-**Finds:** Jacobsen sea salt • marionberry jam (Beckie's) • Coava/Stumptown beans • park stickers (Crater Lake, Lassen, Redwood) • Ecola Seafood smoked salmon (carry-on safe).
+| Mon | Pre-red-eye | **Taquería El Farolito** (Mission, cash) | Al pastor super burrito | $10–12 |
 
 ---
 
-## COMPLETE DRIVING REFERENCE
+## SPOTS THAT CANNOT FIT (save for future trips)
 
-| Leg | Miles | Time | Route |
-|---|---|---|---|
-| PDX → Old Town → Troutdale | 30 | 45min | I-405 → I-84 E |
-| Troutdale → Multnomah Falls | 15 | 20min | I-84 E |
-| Multnomah Falls → Portland | 30 | 40min | I-84 W |
-| Portland → Cannon Beach | 80 | 1h 35min | US-26 W |
-| Cannon Beach → Cape Kiwanda | 40 | 1h | US-101 S |
-| Cape Kiwanda → Thor's Well | 75 | 1h 40min | US-101 S |
-| Thor's Well → Heceta Head | 12 | 15min | US-101 S |
-| Heceta Head → Oregon Dunes | 20 | 25min | US-101 S |
-| Oregon Dunes → Samuel Boardman | 175 | 3h 30min | US-101 S |
-| Boardman → Brookings | 12 | 20min | US-101 S |
-| Brookings → Crescent City | 30 | 45min | US-101 S |
-| Crescent City → Fern Canyon | 45 | 1h 10min | US-101 S → Davison Rd |
-| Fern Canyon → Crater Lake | 185 | 4h | US-199 → OR-62 |
-| Crater Lake → Mt. Shasta (Weed) | 110 | 2h 15min | OR-62 → US-97 S |
-| Mt. Shasta → Burney Falls | 55 | 1h 10min | CA-89 S |
-| Burney Falls → Lassen (Manzanita) | 45 | 1h | CA-89 S |
-| Lassen → SFO | 250 | 4h 30min | CA-89 → CA-36 → I-5 → US-101 |
-| **Total** | **~1,200 mi** | **~26h** | Across 4 days |
-
----
-
-## DAILY MILEAGE
-
-| Day | Route | Miles | Drive |
-|---|---|---|---|
-| Thu | PDX → Old Town → Troutdale | 30 | 45min |
-| Fri | Gorge + Portland + coast | 150 | 3h |
-| Sat | Cannon Beach → full coast → Brookings | 340 | 7h |
-| Sun | Coast → redwoods → Crater Lake | 230 | 5h 30min |
-| Mon | Crater Lake → Shasta → Burney → Lassen → SF | 450 | 8h 45min |
-| **Total** | | **~1,200 mi** | **~25h** |
-
----
-
-## ENTRY FEES + PERMITS
-
-| Location | Fee | Note |
+| Spot | Why | Save it for |
 |---|---|---|
-| Multnomah Falls | Free before 9 AM | Sunrise = no permit |
-| Ecola State Park | $5/vehicle | OR SP day-use |
-| Heceta Head | $5/vehicle | Viewpoint pullout free |
-| Oregon Dunes NRA | $5/vehicle | Annual Pass may cover |
-| Battery Point Lighthouse | ~$5 donation | Low tide only; exterior free |
-| Fern Canyon / Gold Bluffs | $12 | **Recreation.gov — book Aug 16** |
-| Crater Lake NP | Annual Pass | Covered |
-| Burney Falls SP | $10/vehicle | Not on federal pass |
-| Lassen Volcanic NP | Annual Pass | Covered |
-| **America the Beautiful** | Owned | Crater Lake + Lassen + Redwood + likely Oregon Dunes |
+| **Smith Rock State Park** | Central OR, ~3h E of Portland — opposite direction from the coast | A Bend / high-desert trip |
+| **John Day Fossil Beds (Painted Hills)** | Eastern OR, ~4h E — off every leg of this route | An Eastern Oregon loop |
+| **Avenue of the Giants / Founders Grove** | Humboldt Redwoods, ~2h S of Crescent City — past your inland turn | A NorCal coast + Lost Coast trip |
+| **Cinder Cone + Painted Dunes** | NE Lassen (Butte Lake) — 1h+ gravel + strenuous 4–5 mi hike, off the park highway | A dedicated 2-day Lassen trip |
+| **Toketee Falls** | On OR-138 (north Crater Lake approach); your route uses the south OR-62 approach | Only if you re-route via Roseburg/OR-138 (adds ~1.5h) |
+| **God's Thumb (Lincoln City)** | 2–3 mi round-trip hike; costs you Boardman on the packed coast day | A dedicated central-coast day |
 
 ---
 
-## COMPLETE BUDGET
+## UNCHANGED REFERENCE (carries over from your locked plan)
 
-| Category | Low | High | Notes |
-|---|---|---|---|
-| Inbound flight (AUS→PDX) | $100 | $180 | Thu 6:55 PM |
-| **Return red-eye** | **$129** | **$129** | $0 pay lost |
-| Rental car — 5 days SUV, one-way | $350 | $550 | One-way drop fee = biggest variable |
-| Gas (~1,200 mi) | $110 | $155 | |
-| Accommodation | $0 | $0 | Car + red-eye |
-| Showers — 2 | $30 | $30 | |
-| Food — 5 days | $110 | $180 | Bourdain eats |
-| Park entries + permits | $32 | $52 | Fern Canyon, Ecola, Heceta, Dunes, Burney, Battery Point |
-| Provisions + finds | $60 | $100 | |
-| **TOTAL** | **~$921** | **~$1,376** | **Target: ~$1,100** |
-| **Pay lost** | **$0** | **$0** | Red-eye lands you at your desk on time |
+**Sleep spots:** Thu Troutdale · Fri Cannon Beach · Sat Brookings · Sun Crater Lake rim · Mon red-eye.
+**Showers:** Sun Grants Pass · Mon Redding ($15 each).
+**Photography settings, complete driving reference, entry fees, and budget** are unchanged from your master plan — the only structural changes are the fuller Gorge waterfall corridor, the full Portland city block, the Cannon-Beach-sunset / Ecola-sunrise swap, the tiered coast, the expanded redwood loop, and the added Lassen/Crater viewpoints + Subway Cave + Klamath cluster.
 
----
-
-## THE 10 DEFINING IMAGES
-
-| # | Shot | Location | Light |
-|---|---|---|---|
-| 1 | Sea stacks + arches glowing | Samuel Boardman | Sunset |
-| 2 | Milky Way + Perseids over caldera | Crater Lake | New-moon night |
-| 3 | Cobalt caldera + Wizard Island | Crater Lake, Watchman | Sunset |
-| 4 | Cathedral redwoods shot up | Stout Grove | Diffused midday |
-| 5 | Lassen Peak reflected | Manzanita Lake | Midday |
-| 6 | Alien geothermal basin + steam | Bumpass Hell | Afternoon |
-| 7 | Mt. Shasta rising alone | Volcanic Legacy Byway | Morning |
-| 8 | Haystack Rock + tide-pool reflection | Cannon Beach | Sunrise |
-| 9 | Two-tier waterfall + footbridge | Multnomah Falls | Soft dawn |
-| 10 | Fern-walled prehistoric canyon | Fern Canyon | Diffused |
+**Total driving unchanged (~1,200 mi / 4 days).** Book: red-eye + one-way SUV + Fern Canyon permit (Aug 16). Check: Saturday tide window (sets the Thor's Well order), Bumpass Hell boardwalk status, wildfire/road status on CA-89.
 
 ---
 
 ## FINAL CONFIRMATION
 
-✅ **Hour-by-hour path for all 4 shooting days** — you always know where you are and where you're headed next
-✅ **All optional spots included** — Latourell Falls, Bandon/Face Rock, Battery Point, Howland Hill, Sulphur Works/Lake Helen
-✅ **Two Cascade volcanoes + Mt. Shasta bonus** via the Volcanic Legacy Scenic Byway — no dogleg
-✅ **Both marquee sunrises** — Multnomah (Fri), Haystack (Sat)
-✅ **Perseid astro night** — Crater Lake, Sunday, new-moon dark sky
-✅ **Portland front-loaded** — night snaps Thu, culture block Fri, no backtrack
-✅ **Food fully localized** — your picks + dock-to-plate + lumber-country
-✅ **Low-sleep car-sleep format** preserved; **return: $129 red-eye, $0 pay lost**
+✅ **Every fittable spot on your list is now placed** — full Gorge waterfall corridor (Chanticleer, Vista House, Latourell, Bridal Veil, Wahkeena, Multnomah, Horsetail, Ponytail), full Portland block (Powell's, Muji, Stumptown, Dan & Louis, Cheese & Crack, Paxton Gate, Nong's, Love Belizean), tiered coast (Neahkahnie, Oswald West, Cape Kiwanda, Yaquina Head, Newport, Heceta + Sea Lion Caves, Dunes), full northern-redwood loop, expanded Crater Lake east + west rim viewpoints, Klamath springs cluster, Subway Cave, and the full Lassen highway
+✅ **New table format** — #, Stop, Arrive, Duration, Type, Priority
+✅ **Comprehensive multi-paragraph Day Overviews**
+✅ **Your two swaps done** — Cannon Beach **sunset** Friday, Ecola cliff **sunrise** Saturday
+✅ **Portland extended** — no more 2 PM coast dash; you leave the city at ~6:15 PM straight into the Cannon Beach sunset
+✅ **National-park coverage sequenced** — Crater Lake (west rim PM / east rim AM), Redwoods (north-to-south loop), Lassen (north-to-south highway)
+✅ **4 impossible spots flagged honestly** with where to save them
 
-**The one accepted trade:** Monday's sunset is spent on I-5 toward SFO — the cost of Lassen, correct now that SF is flight-only.
-
-**Lock before departure:** the red-eye + one-way rental car + Fern Canyon permit (Aug 16), and check Saturday's tide window to confirm the Thor's Well / Heceta Head order. This is your complete, final, hour-by-hour master plan.
+The one thing I need you to accept: **the coast day (Saturday) and the Lassen day (Monday) are both over-subscribed if you attempt every listed stop** — that's why they're tiered. Hit the 🔴 anchors, then add 🟡 optionals by your real-time pace. That flexibility is what keeps the golden hours intact.
