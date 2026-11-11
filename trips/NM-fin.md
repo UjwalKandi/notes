@@ -1,8 +1,12 @@
-# 🏜️🌵🌙 WEST TEXAS & SOUTHERN NEW MEXICO EXPEDITION — FINAL MASTER
-## Austin → Davis Mtns / McDonald Obs → Guadalupe Mtns → Carlsbad Caverns → White Sands (night in the dunes) → El Paso → Austin
-### Thu Nov 12 – Tue Nov 17, 2026 | Car Sleeping | Low-Sleep Format | Golden Hour Optimized | Photographer Edition
+# 🏜️🌵 WEST TEXAS & SOUTHERN NEW MEXICO — FINAL MASTER (v2)
+## Austin → Guadalupe Mtns (Guadalupe Peak) → McKittrick + Carlsbad Caverns → White Sands → Organ Mountains → El Paso → Austin
+### Thu Nov 12 – Tue Nov 17, 2026 | Car Sleeping | Low-Sleep Format | Golden Hour Optimized | Photographer + Food Edition
 
-**Priority key:** ⭐ Golden-hour anchor (fixed) · 🔴 Must-do · 🟡 If ahead of schedule · 🟢 Quick grab (few min)
+**Priority key:** ⭐ Golden-hour anchor (fixed) · 🔴 Must-do · 🟡 If ahead of schedule · 🟢 Quick grab · ⚠️ Unverified (confirm before you go)
+
+> **What changed from v1:** the astro and moon plan is gone; Davis Mountains, Balmorhea and McDonald Observatory are gone; the trip now starts with sunrise in Guadalupe Mountains NP; Guadalupe Peak is added; McKittrick moves to Saturday with Carlsbad; the Organ Mountains and San Augustin Pass are added; El Paso is now a full day of your chosen spots, murals and food.
+
+> **About the ⚠️ markers:** sun times and all schedule math were calculated. Venue hours, addresses, fees and trail stats could **not** be checked online during planning; they come from general knowledge and are marked ⚠️. Check them before booking.
 
 ---
 
@@ -10,354 +14,286 @@
 
 | | |
 |---|---|
-| **Start** | Austin office, **Thu Nov 12, 6:30 PM CST** (post-work departure) |
+| **Start** | Austin office, **Thu Nov 12, 6:30 PM CST** |
 | **End** | Austin, **Tue Nov 17, ~7:25 AM CST**, straight to work ✅ |
-| **Shooting days** | 4 full days: Fri Nov 13 → Mon Nov 16 |
-| **Style** | Car sleeping every night (+ one optional night on the dunes), 4 hrs or less |
-| **Total miles** | ~1,740 |
-| **Core parks** | Guadalupe Mtns NP + Carlsbad Caverns NP + White Sands NP |
-| **Bookends** | Davis Mtns / McDonald Observatory · El Paso |
-| **🌙 Moon** | New moon ~Tue Nov 10. **Waxing crescent, 11% → 38%**, in the western sky after sunset, setting 9:25–11:20 PM. **Pre-dawn skies are fully dark every morning** |
-| **🍂 Fall color** | ⚠️ Sat Nov 14 is ~1 week **after** the NPS "best" window (last week Oct / first week Nov). Expect fading-to-past-peak. Decision rule below |
-| **☄️ Meteors** | Northern Taurids (peak ~Nov 12, fireballs) + Leonids building toward ~Nov 17. Low rates; run an intervalometer during astro |
-| **⏰ Clocks** | DST already ended Nov 1. No clock change mid-trip. Zone shifts only: Central → Mountain → Central |
-| **🥶 Cold + wind** | Lows mid-20s °F. Guadalupe Pass is notorious for violent winter winds (gusts 60+ mph) |
-| **Big Bend / Marfa** | Excluded, saved for a dedicated Trans-Pecos trip |
+| **Shooting days** | 4: Fri Nov 13 → Mon Nov 16 |
+| **Total miles** | ~1,635 (estimate) |
+| **Sleep spots** | Thu + Fri: **Pine Springs Campground** · Sat + Sun: **El Paso** · Mon: **Junction, TX** |
+| **Golden hours** | 4 sunrises + 4 sunsets, each at a different subject |
+| **⏰ Zones** | Gain 1 hr entering Mountain time Thu night (NPS runs Guadalupe on Mountain time). Lose it near Van Horn Mon night |
+| **🥶 Weather** | Lows mid-20s °F. Guadalupe is known for violent winter winds |
+| **🍂 Fall color** | ⚠️ Mid-Nov is likely just **past** McKittrick's usual peak (typically late Oct – first week of Nov). Expect fading color; still worth it |
 
 ---
 
-## ⚠️ FOUR THINGS TO VERIFY
+## ☀️ SUN TIMES (calculated for each location)
 
-| # | Check | When | Why |
-|---|---|---|---|
-| 1 | **McKittrick fall-color status** (nps.gov/gumo) | Wed Nov 11 | Decides Saturday's midday plan (see decision rule) |
-| 2 | **White Sands Dunes Drive opening time + backcountry check-in rules** (nps.gov/whsa) | When booking | Drive has historically opened ~7 AM, after the 6:38 AM sunrise. The backcountry permit solves it |
-| 3 | **White Sands missile-test closures** | Week before | Can close the park or cancel backcountry permits |
-| 4 | **Wind forecast for Guadalupe Pass** (NWS El Paso) | Fri night | High wind = unstable tripods, brutal car-sleeping at Pine Springs; use a heavier tripod, shoot from the car's lee side |
+| Date | Location | Zone | Sunrise | Golden ends | Golden starts | Sunset | Blue hour ends |
+|---|---|---|---|---|---|---|---|
+| Fri Nov 13 | Guadalupe / El Capitan | MST | **6:27 AM** | 7:02 AM | 4:26 PM | **5:01 PM** | 5:27 PM |
+| *Fri Nov 13* | *Sawtooth Mtn (alt.)* | *CST* | *7:22 AM* | *7:56 AM* | — | — | — |
+| Sat Nov 14 | Guadalupe / Salt Flat | MST | **6:28 AM** | 7:03 AM | 4:26 PM | **5:01 PM** | 5:26 PM |
+| Sun Nov 15 | San Augustin Pass / Organs | MST | **6:36 AM** | 7:12 AM | 4:30 PM | **5:06 PM** | 5:32 PM |
+| Mon Nov 16 | El Paso (Cristo Rey / Scenic Dr) | MST | **6:36 AM** | 7:11 AM | 4:31 PM | **5:07 PM** | 5:33 PM |
 
 ---
 
-## ⏰ TIME ZONES
+## 🧭 DAY 1 SUNRISE DECISION: GUADALUPE vs. SAWTOOTH
 
-| Segment | Zone | Note |
+| | **A. Guadalupe sunrise** ✅ *Recommended* | **B. Sawtooth Mountain Viewpoint** |
 |---|---|---|
-| Austin → Fort Davis / McDonald Obs | **Central (CST)** | Fort Davis sunrise ~7:23 AM, sunset ~5:59 PM |
-| Fort Davis → Guadalupe | **→ Mountain (MST), gain 1 hr** | NPS runs Guadalupe on Mountain time (county is officially Central). Let your phone auto-set |
-| Guadalupe → Carlsbad → White Sands → El Paso | **Mountain (MST)** | |
-| El Paso → Austin (Mon night) | **→ Central (CST) near Van Horn, lose 1 hr** | |
+| Thu drive | ~520 mi straight to Pine Springs, arrive **~2:05 AM MST** | Via Fort Davis, arrive **~2:50 AM CST** |
+| Sleep | **~3.6 h** (sleep at the trailhead) | ~3.8 h |
+| Sunrise | 6:27 AM MST, escarpment + El Capitan | 7:22 AM CST, jagged volcanic ridge on TX-166 |
+| Guadalupe Peak start | **~7:15 AM** | **~9:30 AM MST** (after a ~2.25 h drive) |
+| Back at trailhead (6–8 h) | **1:15–3:15 PM**, then a nap before sunset | 3:30–5:30 PM; **requires a strict 1:00 PM summit turnaround** to make the 5:01 sunset |
+| Risk | Low | Afternoon winds on the summit, descending close to dark, no nap |
+
+**Verdict:** go with **A**. Sawtooth is a single roadside frame, and it costs you the relaxed Peak day and the margin before the El Capitan sunset. Choose B only if you'd rather have the Sawtooth shot than the buffer, and treat the 1:00 PM turnaround as non-negotiable.
 
 ---
 
-## SUN, TWILIGHT & MOON (calculated for these dates)
+## 🏔️ IS GUADALUPE PEAK A GOOD IDEA? Yes, with conditions
 
-| Date | Location | Zone | Sunrise | Sunset | Full dark | Moon lit | Moonset | Moonless sky |
-|---|---|---|---|---|---|---|---|---|
-| Fri Nov 13 | Fort Davis / McDonald | CST | 7:23 AM | **5:59 PM** | 7:22 PM | 11% | 9:25 PM | 9:25 PM → dawn |
-| Sat Nov 14 | Fort Davis (dawn) | CST | **7:24 AM** | — | — | 19% | — | — |
-| Sat Nov 14 | Guadalupe / Pine Springs | MST | — | **4:59 PM** | 6:24 PM | 19% | 9:22 PM | 9:22 PM → dawn |
-| Sun Nov 15 | Guadalupe / Pine Springs | MST | **6:30 AM** | — | — | — | — | Pre-dawn ✅ |
-| Sun Nov 15 | White Sands | MST | — | **5:03 PM** | 6:28 PM | 28% | 10:24 PM | 10:24 PM → dawn |
-| Mon Nov 16 | White Sands | MST | **6:38 AM** | — | — | — | — | Pre-dawn ✅ |
-| Mon Nov 16 | El Paso | MST | — | **5:05 PM** | 6:30 PM | 38% | 11:24 PM | — (you're driving) |
-
-*Moon values are from an astronomical approximation (±1 day). Confirm on timeanddate.com.*
-
-### 🌙 The new astro plan: crescent at dusk, Milky Way before dawn
-The moon flipped sides compared with the Nov 5–10 plan. It's now an **evening** crescent, so:
-- **Dusk = crescent-moon shots.** A thin crescent with earthshine (the faint glow on the dark part of the moon) hangs in the southwest during blue hour. Pair it with the observatory domes, El Capitan, a dune crest, or the El Paso skyline. 70–200mm, bracket.
-- **Pre-dawn = the dark-sky session.** The moon has set, the sky is at its darkest, and it flows straight into sunrise. In mid-November before dawn, the **winter Milky Way** (Orion, Gemini, Auriga, Sirius) stands high in the south and west.
-- **Galactic core:** not available (set long before full dark). Don't plan for it.
-
----
-
-## 🍂 McKITTRICK DECISION RULE (check NPS on Wed Nov 11)
-
-| NPS report says | Saturday midday plan |
+| Factor | Detail |
 |---|---|
-| Color still good / "past peak but showing" | **McKittrick to Pratt Cabin**, 9:45 AM–1:15 PM, as planned |
-| Mostly bare / "leaves down" | **Devil's Hall Trail** (limestone slot, stone "Hiker's Staircase") + **Smith Spring loop** (spring-fed oasis below the escarpment). Same time slot, no fall color but strong rock texture |
-
-Either way, the El Capitan sunset and the rest of the trip are unaffected.
+| Stats ⚠️ | ~8.4 mi round trip · ~3,000 ft gain · NPS estimate 6–8 h · summit 8,751 ft (highest point in Texas) |
+| Why it's worth it | You look **down** on El Capitan's crown. The steel summit pyramid makes a good foreground. Views across the Salt Basin dunes and into New Mexico |
+| Why it works here | You sleep at the trailhead, start right after sunrise, are back by mid-afternoon, and get a nap before the El Capitan sunset |
+| Main risk: **wind** | Check the NWS El Paso forecast Thu. **Rule of thumb:** if gusts above ~50 mph are forecast, swap Friday for **Devil's Hall** (~4.2 mi, flat, sheltered limestone slot ⚠️) |
+| Turnaround rule | Summit by **11:30 AM** or turn around. Don't let summit time cut into sunset |
+| Carry | 3–4 L water, windproof shell, gloves, beanie, trekking poles, headlamp (just in case) |
 
 ---
 
-## BEFORE YOU LEAVE AUSTIN
+## 📋 BOOK BEFORE YOU LEAVE
 
 | Priority | Item | Where |
 |---|---|---|
-| 🔴 1 | **McDonald Observatory Star Party — Fri Nov 13** (Tue/Fri/Sat only; sells out) | mcdonaldobservatory.org |
-| 🔴 2 | **Carlsbad Caverns — earliest timed entry, Sun Nov 15** | Recreation.gov |
-| 🔴 3 | **White Sands backcountry campsite — Sun Nov 15** | Recreation.gov |
-| 🔴 4 | **Pine Springs Campground — Sat Nov 14** (Guadalupe) | Recreation.gov |
-| 🟡 5 | Davis Mountains SP campsite — Thu + Fri nights | Texas State Parks |
-| 🔴 | Cold-weather kit: 20°F bag, wool base layer, beanie, gloves, hand warmers, thermos | — |
-| 🟡 | Offline maps; tripod (heavier one if windy), ND, intervalometer, 3+ spare batteries | — |
+| 🔴 1 | **Pine Springs Campground, Thu Nov 12 + Fri Nov 13** (you arrive ~2 AM; a reservation guarantees a site) ⚠️ ~$20/night | Recreation.gov |
+| 🔴 2 | **Carlsbad Caverns timed entry, Sat Nov 14, ~12:30 PM slot** ⚠️ ~$1 | Recreation.gov |
+| 🟡 3 | El Paso lodging Sat + Sun (car sleep or a budget motel for a shower) | — |
+| 🔴 | **Immigration documents in the car:** passport, I-20, EAD. You'll pass **Border Patrol checkpoints** on US-70 (near White Sands) and on I-10 eastbound (Sierra Blanca) | — |
+| 🔴 | Cold kit: 20°F bag, wool base, beanie, gloves, hand warmers, thermos | — |
 
-**America the Beautiful Pass (owned):** covers Guadalupe, Carlsbad, White Sands entry. State parks, McDonald Obs, campsites, and the backcountry permit are separate.
+**America the Beautiful Pass (owned):** covers Guadalupe, Carlsbad and White Sands entry. Campsites, timed entry and Dripping Springs day use are separate.
 
----
-
-## LOGISTICS MASTER REFERENCE
-
-**Sleep spots:** Thu — Davis Mtns SP / Fort Davis (arrive ~2:50 AM) · Fri — Davis Mtns SP / Fort Davis · Sat — **Pine Springs Campground** · Sun — **White Sands backcountry site** (fallback: Alamogordo) · Mon — **Junction, TX** on I-10.
-**Showers:** Balmorhea swim (Fri; spring stays ~72°F year-round) · truck stop in El Paso (Mon) · wipes + fresh work shirt for Tuesday.
-**Provisions:** H-E-B Austin before departure. Restock in Fort Stockton, Fort Davis, Carlsbad, Alamogordo. No food inside Guadalupe.
-**Cold-night rules:** don't idle the engine while sleeping (carbon monoxide). Crack a window against condensation. Batteries sleep in your bag.
+**Check these the week of the trip:** (1) McKittrick fall-color report and gate hours (nps.gov/gumo) · (2) Carlsbad hours, elevator status, Natural Entrance last entry (nps.gov/cave) · (3) White Sands Dunes Drive opening time + **US-70 missile-test closures** (nps.gov/whsa) · (4) Dripping Springs gate closing time (BLM) · (5) El Paso Streetcar operating days.
 
 ---
 ---
 
 ## THURSDAY, NOV 12 — POST-WORK NIGHT DRIVE (positioning only)
 
-### Day Overview
-Pure positioning: 500 flat miles of I-10 in the dark, where nothing photographic is lost. You arrive in the Davis Mountains around 2:50 AM and get ~3.8 hours before sunrise. Shortest night of the trip; Friday is deliberately slow to absorb it.
-
-| # | Stop | Time (CST) | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **Depart Austin office** | **6:30 PM** | — | Transit | 🔴 |
-| 2 | H-E-B: water, ice, food, hand warmers | 6:45 PM | 25 min | Logistics | 🔴 |
-| 3 | Fuel + dinner — Junction or Sonora | ~10:00 PM | 30 min | Logistics | 🔴 |
-| 4 | Fuel — Fort Stockton | ~12:45 AM | 15 min | Logistics | 🟡 |
-| 5 | **Car sleep — Davis Mtns SP / Fort Davis** | **~2:50 AM** | ~3.8 h | Overnight | 🔴 |
-
-**Driving:** ~500 mi. **Alarm: 6:40 AM.**
-**Fallback if exhausted:** sleep at Fort Stockton (~12:45 AM), wake 5:40 AM, drive 90 min. Same sunrise, more sleep.
-
----
----
-
-## FRIDAY, NOV 13 — DAVIS MTNS SUNRISE → BALMORHEA → ⭐⭐ McDONALD OBSERVATORY SUNSET + STAR PARTY
-
-### Day Overview
-Slow day, big night. Dawn over the Davis Mountains' layered ridges, a midday swim at Balmorhea (high sun is what makes the water read turquoise, and the swim is your shower), a nap, Fort Davis, and then the **Davis Mountains Scenic Loop**, timed so its western half (TX-166 → TX-118) delivers you to the observatory. The anchor is **McDonald Observatory**: the domes at sunset (5:59 PM), a thin crescent moon with earthshine in the southwest at blue hour, then the Star Party. The 11% crescent sets at 9:25 PM, after which the sky goes fully dark for domes-under-the-Milky-Way frames.
-
-| # | Stop | Arrive (CST) | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **Davis Mtns SP — Skyline Drive SUNRISE** | 6:55 AM | 60 min | ⭐ Layered ridges (7:23) | 🔴 |
-| 2 | Breakfast + drive to Balmorhea | 8:00 AM | 60 min | Transit | 🔴 |
-| 3 | **Balmorhea State Park** — pool, swim, rinse | 10:00 AM | 2 h | 🔴 Oasis, high sun | 🔴 |
-| 4 | Lunch — Balmorhea | 12:00 PM | 45 min | Food | 🔴 |
-| 5 | Drive back to Fort Davis + nap at Davis Mtns SP | 12:45 PM | 1 h 45 min | Recovery | 🔴 |
-| 6 | **Fort Davis NHS** — adobe fort ruins | 2:40 PM | 45 min | History | 🟡 |
-| 7 | **Davis Mountains Scenic Loop** (TX-166 → TX-118, ends at the observatory) | 3:30 PM | 75 min | Scenic drive, late-afternoon ridge light | 🔴 |
-| 8 | **McDonald Observatory** — arrive + scout | 4:45 PM | — | Position | 🔴 |
-| 9 | **⭐⭐ OBSERVATORY SUNSET** | **5:59 PM** | 30 min | Domes in last light | 🔴 |
-| 10 | **⭐ Crescent moon + domes at blue hour** | 6:20 PM | 20 min | Earthshine crescent, SW | 🔴 |
-| 11 | **⭐⭐ STAR PARTY** (confirm time on ticket) | ~6:45 PM | 2 h | Telescopes; the crescent is a great telescope target | 🔴 |
-| 12 | **Moonless astro** — domes + Milky Way / Andromeda | **9:30 PM** | 45 min | ⭐ Dark sky (moon set 9:25) | 🟡 |
-| 13 | Car sleep — Davis Mtns SP / Fort Davis | ~10:30 PM | Sleep | Overnight | 🔴 |
-
-**Driving:** ~120 mi. **Alarm: 6:40 AM (Sat).**
-
-### What to Capture
-- **Skyline Drive:** 70–200mm to stack ridgelines; CCC stone overlook as foreground.
-- **Balmorhea:** polarizer to cut glare and show depth.
-- **Davis Mtns Scenic Loop:** low western light rakes the grassland and volcanic ridges on the TX-166 stretch. Pull over for 70–200mm ridge layers; it ends at the observatory, so no backtracking.
-- **★★ Domes at sunset**, then **the crescent beside a dome** at blue hour (70–200mm compresses the moon against the dome).
-- **★ After 9:25 PM:** 14–24mm, f/2.8, ISO 3200, 15–20 s. Follow observatory light/photography rules near active telescopes.
-
----
----
-
-## SATURDAY, NOV 14 — DAVIS MTNS DAWN → GUADALUPE → McKITTRICK (or Devil's Hall) → ⭐⭐ EL CAPITAN SUNSET
-
-### Day Overview
-A second Davis Mountains dawn, then north to Guadalupe, gaining an hour at the Mountain-time line. Midday goes to **McKittrick Canyon** if the Wednesday report shows color, or **Devil's Hall + Smith Spring** if the leaves are down. Then **El Capitan at sunset (4:59 PM)**, the 8,085-ft limestone prow going gold, then silhouette, with the crescent moon in the southwest sky at blue hour. You sleep early at Pine Springs and wake for the darkest sky of the night before dawn.
-
-| # | Stop | Arrive | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **⭐ SUNRISE — pick one (below)** | 7:00 AM CST | 45 min | Sunrise (7:24) | 🔴 |
-| 2 | Drive to Guadalupe (TX-118 → TX-54 → US-62/180) | 7:50 AM CST | ~2.5 h (**gain 1 hr**) | Transit | 🔴 |
-| 3 | **Guadalupe Visitor Center** (Pine Springs) | ~9:20 AM MST | 20 min | Orientation, water, campsite | 🔴 |
-| 4 | **🍂 McKittrick → Pratt Cabin** *or* **Devil's Hall + Smith Spring** (per decision rule) | 9:50 AM | 3–3.5 h | Canyon / limestone | 🔴 |
-| 5 | Lunch in car | 1:15 PM | 30 min | Food | 🔴 |
-| 6 | Frijole Ranch (short historic stop) | 2:00 PM | 30 min | History | 🟢 |
-| 7 | **Scout El Capitan** (US-62/180 pullouts south of Pine Springs) | 2:45 PM | 60 min | Compositions | 🔴 |
-| 8 | **⭐⭐ EL CAPITAN SUNSET** | **4:59 PM** | 45 min | Limestone prow ablaze | 🔴 |
-| 9 | **⭐ Blue hour + crescent moon** | 5:20 PM | 30 min | 19% crescent, SW sky | 🟡 |
-| 10 | Car sleep — **Pine Springs Campground** | ~6:30 PM | Sleep | Overnight | 🔴 |
-
-**Driving:** ~200 mi. **Alarm: 4:40 AM MST (Sun)** for pre-dawn astro.
-**If you'd rather shoot at night than pre-dawn:** the moon sets 9:22 PM; a 9:30–10:30 PM session works too, but then skip the pre-dawn session to rest before Sunday's tight schedule.
-
-**Choose your Saturday sunrise:**
-- **(a) McDonald Observatory domes at dawn:** front-lit from the east, different from Friday's silhouette. *My pick.*
-- **(b) Skyline Drive again, from a different overlook:** the ridges you shot Friday, with fresh light. (The Scenic Loop is already on Friday, so it's not an option here.)
-- **(c) Fort Davis NHS:** adobe ruins in low light.
-
-### What to Capture
-- **McKittrick (if color):** backlit maples, creek reflections, trunks against pale limestone; Pratt Cabin as a turnaround anchor. Polarizer.
-- **Devil's Hall (if no color):** stair-stepped limestone ledges ("Hiker's Staircase") and the narrow slot walls; soft reflected light, 16–35mm.
-- **★★ El Capitan:** 16–35mm with yucca/sotol foreground; 70–200mm to compress the strata; sunstar through vegetation; hard silhouette at the end.
-- **Wind:** if gusts are high, shoot from low positions, hang your bag from the tripod, use faster shutter speeds.
-
----
----
-
-## SUNDAY, NOV 15 — 🌌 PRE-DAWN SKY → ⭐ EL CAPITAN SUNRISE → CARLSBAD CAVERNS → ⭐⭐ WHITE SANDS SUNSET → NIGHT IN THE DUNES
-
-### Day Overview
-The tightest day. You wake at 4:40 AM to a moonless sky over the Guadalupe escarpment, shoot the winter Milky Way, then roll straight into **El Capitan sunrise (6:30 AM)**. Carlsbad Caverns gets the earliest entry and the middle of the day (it doesn't depend on light). **You must be driving west by 11:45 AM:** White Sands sunset is 5:03 PM and the drive is ~4 hours. Then gypsum at golden hour, blue hour with a 28% crescent over the dunes, and a night in the backcountry.
-
-| # | Stop | Arrive (MST) | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **🌌 Pre-dawn astro** (moon set 9:22 PM) | **4:50 AM** | 55 min | Winter Milky Way over the escarpment | 🔴 |
-| 2 | **⭐ EL CAPITAN SUNRISE** | **6:05 AM** | 60 min | First light on the prow (6:30) | 🔴 |
-| 3 | Drive to Carlsbad Caverns (US-62/180 N) | 7:10 AM | ~55 min | Transit | 🔴 |
-| 4 | **Carlsbad Caverns VC** — timed-entry check-in | ~8:05 AM | 20 min | Entry | 🔴 |
-| 5 | **Natural Entrance Trail** (750-ft descent) | 8:30 AM | 75 min | ⭐ Cave descent | 🔴 |
-| 6 | **Big Room Trail** (1.25-mi loop) | 9:45 AM | 75 min | ⭐ Signature cave | 🔴 |
-| 7 | Elevator up, eat, fuel at Whites City | 11:00 AM | 45 min | Logistics | 🔴 |
-| 8 | **DEPART for White Sands — hard deadline 11:45 AM** | **11:45 AM** | ~4 h (~210 mi) | Transit | 🔴 |
-| 9 | Alamogordo: fuel + green chile cheeseburger to go | ~3:15 PM | 15 min | Food | 🔴 |
-| 10 | **White Sands VC** — backcountry check-in | ~3:45 PM | 15 min | Entry | 🔴 |
-| 11 | Hike to backcountry site / scout untracked field | 4:05 PM | 30 min | Position | 🔴 |
-| 12 | **⭐⭐ WHITE SANDS SUNSET** | **5:03 PM** | 40 min | Gypsum glow + ripples | 🔴 |
-| 13 | **⭐ Blue hour + crescent moon over the dunes** | 5:40 PM | 40 min | Blue gypsum, pink sky, 28% crescent | 🔴 |
-| 14 | Sleep in the dunes (20°F bag) | ~7:00 PM | Sleep | Overnight | 🔴 |
-
-**Driving:** ~255 mi. **Alarm: 4:30 AM MST (Mon).**
-
-**Route to White Sands (~4 h either way):** **(a) Scenic:** Carlsbad → Artesia → US-82 over Cloudcroft (Sacramento Mountains pines) → Alamogordo. **(b) Highway:** US-62/180 to El Paso → US-54 north. Use (b) if you leave late.
-**No permit?** Shoot sunset + blue hour, exit at posted closing, car-sleep in Alamogordo. You keep the 10/10 sunset but lose the dune night and the true sunrise.
-**Cut to protect the sunset:** Walnut Canyon Desert Drive, Rattlesnake Springs, King's Palace tour.
-
-### What to Capture
-- **🌌 Pre-dawn:** 14–24mm, f/2.8, ISO 3200–6400, 15–20 s. Escarpment silhouette under Orion and the winter Milky Way. Intervalometer for fireballs.
-- **★ Natural Entrance / Big Room:** ISO 1600–6400, f/2.8–f/8, brace on rails or stable surfaces; no flash; fix warm white balance in RAW.
-- **★★ Sunset:** camera low, wide, raking light across ripples; a lone soaptree yucca as the only vertical.
-- **★ Blue hour + crescent:** gypsum goes blue-lavender while the sky holds pink; the crescent adds a focal point. 70–200mm to place it above a dune crest.
-
----
----
-
-## MONDAY, NOV 16 — 🌌 PRE-DAWN DUNE SKY → ⭐⭐ WHITE SANDS SUNRISE → EL PASO → ⭐ SCENIC DRIVE SUNSET → OVERNIGHT HOME
-
-### Day Overview
-The strongest morning of the trip. The moon set at 10:24 PM, so at 4:45 AM you're under a fully dark sky with white sand reflecting starlight as foreground, then **sunrise at 6:38 AM** on ripples smoothed by the overnight wind, usually with the field to yourself. Then a slow El Paso day: the Mission Trail, tacos, downtown, a nap, and the **Scenic Drive Overlook at sunset** with a 38% crescent over the Franklins and El Paso–Juárez lighting up below. On I-10 east by 5:40 PM.
-
-| # | Stop | Arrive (MST) | Duration | Type | Priority |
-|---|---|---|---|---|---|
-| 1 | **🌌 Pre-dawn dune astro** (moonless) | **4:45 AM** | 60 min | ⭐ Winter Milky Way over white sand | 🔴 |
-| 2 | **⭐⭐ WHITE SANDS SUNRISE** | **6:10 AM** | 70 min | Untracked ripples (6:38) | 🔴 |
-| 3 | Pack out / Dunes Drive second pass | 7:20 AM | 60 min | Low-sun photography | 🟡 |
-| 4 | Drive to El Paso (US-70 W → US-54 S) | 8:30 AM | ~1.5 h | Transit | 🔴 |
-| 5 | **Scenic Drive Overlook — daytime panorama** (on the way in from US-54) | 10:00 AM | 20 min | ⭐ El Paso + Juárez + Rio Grande, clear morning light | 🟡 |
-| 6 | **Mission Trail** (Ysleta → Socorro → San Elizario) | 10:45 AM | 75 min | Adobe missions | 🔴 |
-| 7 | **Tacos — L&J Café** (or Chico's, the local cult pick) | 12:15 PM | 60 min | 🔴 Local food | 🔴 |
-| 8 | Downtown / Segundo Barrio murals | 1:30 PM | 45 min | Street + architecture | 🟡 |
-| 9 | Truck-stop shower + fuel + drive provisions | 2:30 PM | 60 min | Logistics | 🔴 |
-| 10 | Nap in car (bank sleep for the drive) | 3:30 PM | 45 min | Recovery | 🔴 |
-| 11 | **⭐ SUNSET — pick one:** **Scenic Drive Overlook** (city + Juárez below) *or* **Trans-Mountain Rd / Loop 375** (Franklin Mtns from a high pass, then straight onto I-10) | **5:05 PM** | 20 min | Franklins + binational city | 🔴 |
-| 12 | Blue hour + crescent over the city | 5:25 PM | 15 min | El Paso + Juárez lights | 🔴 |
-| 13 | **DEPART I-10 E — hard deadline 5:40 PM MST** (→ CST, lose 1 hr) | **5:40 PM** | ~7 h | Transit | 🔴 |
-| 14 | Fuel — Fort Stockton | ~10:00 PM CST | 15 min | Logistics | 🟡 |
-| 15 | **Car sleep — Junction, TX** | **~1:00 AM CST** | ~4 h | Overnight | 🔴 |
-| 16 | Drive to Austin | 5:00 AM CST | ~2.3 h | Transit | 🔴 |
-| 17 | **Arrive Austin — straight to work** | **~7:25 AM CST Tue Nov 17** | — | ✅ | 🔴 |
-
-**Driving:** ~665 mi. **More sleep option:** stop in Sonora (~12:10 AM CST) and sleep ~4.5 h; Austin ~7:30–8:00 AM.
-
-### What to Capture
-- **🌌 Pre-dawn:** dune crest under Orion / the winter Milky Way; the white sand reads even without moonlight. 14–24mm, f/2.8, ISO 3200, 15–20 s.
-- **★★ Sunrise:** shoot along a crest into the light; your own footprints the only human mark.
-- **Mission Trail:** Ysleta and Socorro, among the oldest continuously active parishes in the US.
-- **★ Scenic Drive:** 24–70mm sweep, 70–200mm to compress the border city and place the crescent above the Franklins; tripod for blue hour.
-
----
----
-
-## ⭐ MASTER GOLDEN-HOUR & NIGHT SCHEDULE — 15 SESSIONS
-
-| Day | Time | Location | Subject | Score |
+| # | Stop | Time | Duration | Priority |
 |---|---|---|---|---|
-| Fri | 7:23 AM CST | Davis Mtns Skyline Drive | Layered ridge sunrise | 8/10 |
-| Fri | 5:59 PM CST | **McDonald Observatory** | ⭐⭐ Domes at sunset | **10/10** |
-| Fri | 6:20 PM CST | McDonald Observatory | Crescent + dome at blue hour | 8/10 |
-| Fri | ~6:45 PM CST | **McDonald Observatory** | ⭐⭐ Star Party | **10/10** |
-| Fri | 9:30 PM CST | McDonald Observatory | Moonless domes + Milky Way | 9/10 |
-| Sat | 7:24 AM CST | Obs domes / Scenic Loop | Second Davis Mtns dawn | 7/10 |
-| Sat | 9:50 AM MST | McKittrick *or* Devil's Hall | Canyon (color if it holds) | 7–9/10 |
-| Sat | 4:59 PM MST | **El Capitan** | ⭐⭐ Limestone prow ablaze | **10/10** |
-| Sun | 4:50 AM MST | Guadalupe | 🌌 Pre-dawn winter Milky Way | 9/10 |
-| Sun | 6:30 AM MST | **El Capitan** | ⭐ First light on the prow | 9/10 |
-| Sun | midday MST | Carlsbad Big Room | Cave formations | 9/10 |
-| Sun | 5:03 PM MST | **White Sands** | ⭐⭐ Gypsum sunset + crescent blue hour | **10/10** |
-| Mon | 4:45 AM MST | **White Sands** | 🌌 Pre-dawn sky over white sand | **10/10** |
-| Mon | 6:38 AM MST | **White Sands** | ⭐⭐ Untracked ripples | **10/10** |
-| Mon | 5:05 PM MST | El Paso Scenic Drive | Binational city + crescent at dusk | 8/10 |
+| 1 | **Depart Austin office** | **6:30 PM CST** | — | 🔴 |
+| 2 | H-E-B: water (8+ L), ice, food for 2 days, hand warmers | 6:45 PM | 25 min | 🔴 |
+| 3 | Fuel + dinner: Junction or Sonora | ~10:00 PM | 30 min | 🔴 |
+| 4 | Fuel: Fort Stockton or Van Horn (**last fuel before Guadalupe**) | ~12:45 AM | 15 min | 🔴 |
+| 5 | I-10 → Van Horn → TX-54 north → US-62/180 *(enter Mountain time, gain 1 hr)* | — | — | — |
+| 6 | **Car sleep: Pine Springs Campground** | **~2:05 AM MST** | ~3.6 h | 🔴 |
 
-**Double-anchored (sunset + next sunrise, free because you sleep there):**
-- **Davis Mtns / McDonald Obs:** 2 sunrises + sunset + Star Party + night
-- **Guadalupe / El Capitan:** sunset + pre-dawn sky + sunrise
-- **White Sands:** sunset + blue hour + pre-dawn sky + sunrise
+**Driving:** ~520 mi. **Alarm: 5:40 AM MST.**
+**Why TX-54:** it's the shortest route from I-10 to Pine Springs and puts you at the Peak trailhead, so there's no driving Friday morning.
+
+---
+---
+
+## FRIDAY, NOV 13 — ⭐ GUADALUPE SUNRISE → 🏔️ GUADALUPE PEAK → ⭐⭐ EL CAPITAN VIEWPOINT SUNSET
+
+### Day Overview
+You wake at the trailhead. First light hits the eastern escarpment, then you climb to the roof of Texas while the light is still soft and the winds are usually calmer. Back by mid-afternoon, nap, then **El Capitan at sunset** from the viewpoint on US-62/180: the 8,085-ft limestone prow going gold, then into silhouette.
+
+| # | Stop | Arrive (MST) | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **⭐ SUNRISE: US-62/180 pullouts just east of Pine Springs** | 6:00 AM | 60 min | First light on Guadalupe Peak + El Capitan's east face (6:27) | 🔴 |
+| 2 | Breakfast at the car, fill water | 7:00 AM | 15 min | Logistics | 🔴 |
+| 3 | **🏔️ GUADALUPE PEAK TRAIL** (from Pine Springs) | **7:15 AM** | 6–8 h | Summit 8,751 ft. **Turnaround 11:30 AM** | 🔴 |
+| 4 | Back at trailhead, late lunch | 1:15–3:15 PM | 30 min | Food | 🔴 |
+| 5 | Nap / battery charge | after lunch | to ~4:00 PM | Recovery | 🔴 |
+| 6 | **Drive to El Capitan Viewpoint** (US-62/180, just southwest of Pine Springs ⚠️ confirm pin) | 4:05 PM | 10 min | Position | 🔴 |
+| 7 | **⭐⭐ EL CAPITAN SUNSET** | golden 4:26 → **5:01 PM** | 60 min | Prow ablaze → silhouette | 🔴 |
+| 8 | Blue hour | 5:01–5:27 PM | 25 min | Pastel sky over the Salt Basin | 🟡 |
+| 9 | **Car sleep: Pine Springs** (bank sleep) | ~6:30 PM | Sleep | Overnight | 🔴 |
+
+**Driving:** ~20 mi. **Alarm: 5:45 AM (Sat).**
+**If wind cancels the Peak:** Devil's Hall (~4.2 mi ⚠️) + Smith Spring loop (~2.3 mi ⚠️) in the same slot.
+
+### What to Capture
+- **Sunrise:** 70–200mm on the escarpment's first light; a lone yucca as foreground with a 16–35mm.
+- **Peak trail:** the switchbacks give views down onto the Pine Springs basin. Near the top, shoot **El Capitan from above** with a 24–70mm. At the summit, the **steel pyramid** against the horizon.
+- **⭐⭐ El Capitan:** 16–35mm with a sotol/yucca foreground; 70–200mm to compress the strata; a sunstar through the vegetation; end on a hard silhouette.
+
+---
+---
+
+## SATURDAY, NOV 14 — ⭐ ESCARPMENT SUNRISE → 🍂 McKITTRICK CANYON → CARLSBAD CAVERNS → ⭐⭐ EL CAPITAN WEST-FACE SUNSET → EL PASO
+
+### Day Overview
+**Routing logic:** McKittrick first, because its gate opens around 8 AM and the canyon looks best in morning light. Carlsbad goes in the middle of the day, since a cave doesn't depend on light. You then drive **west past the Guadalupes**, which puts you at the Salt Flat side for sunset: El Capitan's **west face**, a different angle from Friday, and directly on the way to El Paso.
+
+| # | Stop | Arrive (MST) | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **⭐ SUNRISE: US-62/180 between Pine Springs and the McKittrick turnoff** | 6:00 AM | 60 min | East escarpment wall in first light (6:28) | 🔴 |
+| 2 | Breakfast at the car | 7:05 AM | 30 min | Logistics | 🔴 |
+| 3 | Drive to McKittrick Canyon gate | 7:45 AM | 15 min | ⚠️ Gate ~8:00 AM–4:30 PM in winter | 🔴 |
+| 4 | **🍂 McKITTRICK CANYON → The Grotto** (Pratt Cabin is the shorter option) | **8:00 AM** | 3.5 h | ⚠️ Grotto ~6.8 mi RT · Pratt Cabin ~4.8 mi RT | 🔴 |
+| 5 | Drive to Carlsbad Caverns (US-62/180 north) | 11:40 AM | ~45 min | Transit | 🔴 |
+| 6 | **Carlsbad Caverns VC** — timed-entry check-in | ~12:25 PM | 10 min | Entry | 🔴 |
+| 7 | **Natural Entrance Trail** (~750-ft descent) | 12:35 PM | 75 min | ⭐ Cave descent | 🔴 |
+| 8 | **Big Room Trail** (~1.25-mi loop) | 1:50 PM | 75 min | ⭐ Signature cave | 🔴 |
+| 9 | Elevator up ⚠️ (if out: walk back up the Natural Entrance, +60 min) → fuel at Whites City | 3:05 PM | 20 min | Logistics | 🔴 |
+| 10 | Drive west past Pine Springs to the **Salt Flat** side | 3:25 PM | ~65 min | Transit | 🔴 |
+| 11 | **⭐⭐ EL CAPITAN WEST FACE SUNSET** (US-62/180 pullouts near Salt Flat) | golden 4:26 → **5:01 PM** | 60 min | Escarpment rising above the salt flats | 🔴 |
+| 12 | Drive to El Paso | 5:30 PM | ~1 h 20 min | Transit | 🔴 |
+| 13 | **🍴 Dinner: Chico's Tacos** | ~7:00 PM | 45 min | El Paso's cult rolled tacos | 🔴 |
+| 14 | **El Paso Streetcar** (if running Sat night ⚠️) + downtown night walk; the **El Paso Star** glows on the Franklins above | 8:00 PM | 60–90 min | Night street photos | 🟡 |
+| 15 | Sleep: El Paso | ~9:30 PM | Sleep | Overnight | 🔴 |
+
+**Driving:** ~200 mi. **Alarm: 5:00 AM (Sun).**
+**If you're running late:** cut the Grotto down to Pratt Cabin (saves ~1 h). Never cut the west-face sunset. **Hard deadline: leave Whites City by 3:25 PM.**
+**If NPS reports the elevator out:** the walk back up adds ~60 min and would cost you the sunset. Book an **~11:30 AM** Carlsbad slot instead and do **Pratt Cabin** (not the Grotto) at McKittrick.
+**No bat flight:** ⚠️ the evening bat-flight program generally ends by late October, so don't plan around it.
+
+### What to Capture
+- **McKittrick:** backlit maples and bigtooth maples against pale limestone, creek reflections. Use a polarizer. If the leaves are down, the canyon walls and stream still carry the hike.
+- **Natural Entrance / Big Room:** ISO 3200–6400, f/2.8–f/4. Brace on the rails, no flash. Fix the warm white balance in RAW.
+- **⭐⭐ Salt Flat sunset:** 70–200mm for El Capitan + Guadalupe Peak stacked above the white flats; 16–35mm low to the ground for desert texture.
+
+---
+---
+
+## SUNDAY, NOV 15 — ⭐ SAN AUGUSTIN PASS SUNRISE → WHITE SANDS → 🌄 ORGAN MOUNTAINS GOLDEN HOUR → ⭐⭐ ORGAN NEEDLES SUNSET → EL PASO
+
+### Day Overview
+**Routing logic:** US-70 crosses **San Augustin Pass** on the way to White Sands, so you get it twice at no extra driving: at **sunrise** heading out (the sun rising over the Tularosa Basin) and in **late afternoon** coming back. The return is ordered pass → La Cueva → Dripping Springs Rd so the **Organ Needles' west face**, which glows at sunset, comes last. Then I-10 straight down to El Paso.
+
+| # | Stop | Arrive (MST) | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | Depart El Paso (I-10 W → Las Cruces → US-70 E) | **5:15 AM** | ~65 min | Transit | 🔴 |
+| 2 | **⭐ SUNRISE: San Augustin Pass Overlook** | 6:20 AM | 35 min | Sun over the Tularosa Basin, Sacramento Mtns in silhouette (6:36) | 🔴 |
+| 3 | Drive to White Sands (**Border Patrol checkpoint on US-70**: have documents ready) | 6:55 AM | ~30 min | Transit | 🔴 |
+| 4 | **White Sands: Dunes Drive** ⚠️ opens ~7 AM | 7:25 AM | 60 min | Low raking light on ripples | 🔴 |
+| 5 | **Alkali Flat Trail** (or free-roam the dunes) | 8:30 AM | 3 h | ⚠️ ~5 mi RT; the deepest, least-tracked dunes | 🔴 |
+| 6 | Picnic lunch + nap (dunes picnic area / car) | 11:30 AM | 3 h | Recovery | 🔴 |
+| 7 | Drive back west on US-70 | 2:30 PM | ~45 min | Transit | 🔴 |
+| 8 | **San Augustin Pass Overlook** (second pass) | 3:15 PM | 30 min | Afternoon light behind you across the basin; white strip of the dunes on the horizon | 🔴 |
+| 9 | **Organ Mountains-Desert Peaks NM: La Cueva Picnic Area + La Cueva Trail** (via Dripping Springs Rd) | 4:05 PM | 45 min | ⚠️ Short loop to a rock shelter; ⚠️ small day-use fee | 🔴 |
+| 10 | **⭐⭐ SUNSET: Organ Mountain Scenic View** (Dripping Springs Rd, **outside the gate** if it closes at 5) | golden 4:30 → **5:06 PM** | 30 min | The Needles go gold, then pink | 🔴 |
+| 11 | Blue hour over the Organs | 5:06–5:32 PM | 25 min | Purple peaks, city lights below | 🟡 |
+| 12 | Drive to El Paso (I-10 S) | 5:35 PM | ~55 min | Transit | 🔴 |
+| 13 | **🍴 Dinner: Rosa's Cantina** (west side, the first exit you reach) | ~6:30 PM | 60 min | The bar from Marty Robbins' "El Paso" | 🔴 |
+| 14 | Sleep: El Paso | ~8:00 PM | Sleep | Overnight | 🔴 |
+
+**Driving:** ~260 mi. **Alarm: 5:45 AM (Mon).**
+**⚠️ Gate warning:** if the Dripping Springs gate closes before sunset, do La Cueva in step 9, drive out, and shoot step 10 from a pullout on the public road below the gate. The Needles face west, so the view is just as good from there.
+**Missile-test closure on US-70?** Flip the day: El Paso → US-54 → Alamogordo → White Sands, then back over the pass for the Organs at sunset as planned.
+
+### What to Capture
+- **Pass sunrise:** 70–200mm to stack basin layers; include the road curve for scale.
+- **White Sands:** shoot low and wide on the ripples; a lone soaptree yucca as the only vertical; 70–200mm to compress dune crests.
+- **⭐⭐ Organ Needles:** 70–200mm for the spires; 24–70mm with desert scrub in the foreground. The peak color comes **5–10 min after sunset**, so stay.
+
+---
+---
+
+## MONDAY, NOV 16 — ⭐ MOUNT CRISTO REY SUNRISE → EL PASO MURALS + FOOD CRAWL → ⭐⭐ SCENIC DRIVE SUNSET → OVERNIGHT HOME
+
+### Day Overview
+**Routing logic:** start west (Cristo Rey) for sunrise. Murals go in the middle of the day, because flat midday light is actually **ideal for murals** (even, no harsh shadows). Then the Lower Valley (Whoopee Bowl, L&J). The day ends at Scenic Drive for sunset, close to I-10 east. Food is spread through the day Bourdain-style, with small portions at many stops.
+
+| # | Stop | Arrive (MST) | Duration | Type | Priority |
+|---|---|---|---|---|---|
+| 1 | **⭐ SUNRISE: Mount Cristo Rey** (Sunland Park, NM) | trail at **6:10 AM** (first light) | ~2 h | ⚠️ ~2.5 mi one way / ~650 ft gain. Sunrise (6:36) from the switchbacks, summit ~7:15 for the limestone Christ statue over 3 cities and 2 countries | 🔴 |
+| 2 | **🍴 Breakfast: La Colonial Tortilla Factory** — fresh-tortilla burritos | 8:30 AM | 30 min | Local | 🔴 |
+| 3 | **🎨 Downtown + Segundo Barrio mural walk** (park once, walk the loop below) | 9:15 AM | 2.5 h | Street art | 🔴 |
+| 4 | **El Paso Streetcar** (if running Monday ⚠️) — downtown loop for the vintage PCC cars | inside step 3 | 30 min | Transit / photos | 🟡 |
+| 5 | **🍴 MUST: Colitas de pavo lonche + Lonches Juaritos** (see Food) | 12:00 PM | 45 min | Juárez delicacy | 🔴 |
+| 6 | **The Whoopee Bowl Antique Mall** ⚠️ confirm Monday hours | 1:00 PM | 60 min | Retro Americana | 🔴 |
+| 7 | **🍴 L&J Café** — caldillo / chile con queso; grave of the outlaw John Wesley Hardin at Concordia Cemetery across the street ⚠️ | 2:15 PM | 45 min | El Paso institution | 🔴 |
+| 8 | **Casa de Azúcar (Sugar House)** — **private home**: shoot from the sidewalk only ⚠️ confirm address | 3:15 PM | 20 min | Folk-art architecture | 🔴 |
+| 9 | **🍴 Carnitas & Burritos Yoni** — burritos to go for the night drive | 3:50 PM | 15 min | Juárez-style burritos ⚠️ | 🟡 |
+| 10 | **Scenic Drive / Franklin Mountains overlook** (Murchison Park) | 4:20 PM | — | Position | 🔴 |
+| 11 | **⭐⭐ SUNSET over El Paso + Juárez** | golden 4:31 → **5:07 PM** | 45 min | Binational skyline | 🔴 |
+| 12 | Blue hour + **El Paso Star** lit on the mountain ⚠️ (lights at dusk) | 5:07–5:33 PM | 25 min | City lights | 🔴 |
+| 13 | **DEPART I-10 E — hard deadline 5:40 PM MST** | **5:40 PM** | ~7 h | Transit (**Sierra Blanca checkpoint**) | 🔴 |
+| 14 | Fuel: Fort Stockton | ~10:00 PM CST | 15 min | Logistics | 🟡 |
+| 15 | **Car sleep: Junction, TX** | **~1:00 AM CST** | ~4 h | Overnight | 🔴 |
+| 16 | **Arrive Austin, straight to work** | **~7:25 AM CST Tue** | — | ✅ | 🔴 |
+
+**Cristo Rey safety ⚠️:** the trail has a history of robberies. Go at first light, not in the dark. Carry minimal valuables, tell someone your plan, and check current advice. **Turn around if it feels off;** the Scenic Drive sunset is your backup city view.
+**Dave's Pawn Shop:** downtown ⚠️ confirm address. Add it to the mural walk (a classic sign shot).
+
+### 🎨 Mural walk (step 3) ⚠️ confirm every pin on **streetartcities.com/cities/el-paso** before the trip
+
+| Mural / spot | Location | Notes |
+|---|---|---|
+| **Robo Chota** | **501 Texas Ave** (downtown) | Start here |
+| **Ánimo Sin Fronteras** by El Mac + David Herrera | Downtown ⚠️ | Large portrait; 24–70mm, shoot square-on |
+| **Greetings from El Paso** postcard mural | ⚠️ confirm | Classic selfie / postcard frame |
+| **Dave's Pawn Shop** | Downtown ⚠️ | Vintage signage |
+| **Sacred Heart Catholic Church** | Segundo Barrio (S Oregon St area ⚠️) | Historic parish; murals on surrounding blocks |
+| **El Segundo Barrio murals** | Blocks south of downtown toward the border | Chicano murals on homes and businesses. Be respectful, it's a residential neighborhood |
+| **Graffiti Wall / Cotton Wall** | ⚠️ confirm | Constantly changing |
+
+**Mural settings:** f/8, ISO 200, 24–70mm. Square-on to avoid keystoning. Include a passerby for scale.
+
+---
+---
+
+## 🍴 FOOD — BOURDAIN-STYLE PICKS
+
+**Selection rule (yours):** cheap + unique + a local specialty. I've kept the places whose specialty is distinctly El Paso / Juárez, and moved the rest to backups.
+
+| Pick | Why it makes the cut | When |
+|---|---|---|
+| ✅ **Chico's Tacos** | Rolled tacos **drowned in a thin tomato broth** under shredded cheese. Exists nowhere but El Paso; locals argue about it endlessly | Sat dinner |
+| ✅ **Rosa's Cantina** | The real cantina from the song "El Paso." Cheap Tex-Mex in a dive with a story | Sun dinner |
+| ✅ **La Colonial Tortilla Factory** | Tortillas made on site, cheap burritos. The factory-counter experience | Mon breakfast |
+| ✅ **L&J Café** | Old-school El Paso since the 1920s ⚠️. Caldillo, chile con queso; Concordia Cemetery across the street | Mon late lunch |
+| ✅ **Carnitas & Burritos Yoni** | Juárez is where the burrito comes from: thin flour tortilla, guisado filling ⚠️ confirm the menu style | Mon, to go |
+| ⭐ **Colitas de pavo lonche** | **MUST.** Turkey tails braised in red chile, on a crusty telera roll. A Juárez street delicacy | Mon lunch |
+| ⭐ **Lonches Juaritos** | Juárez-style lonches (stuffed telera sandwiches) | Mon lunch |
+
+**Backups (no specialty unique to El Paso confirmed):** Sun City Birria (birria is from Jalisco and easy to find in Austin) · Laurita's Kitchen · Taconeta · Los Toreados Northeast. Use them if a pick is closed.
+
+**⚠️ Finding the colitas lonche:** I couldn't confirm which El Paso places currently serve colitas de pavo or whether "Lonches Juaritos" is a specific restaurant. Before the trip, search Google Maps for **"colitas de pavo"** and **"lonches"** in El Paso, and check whether any of the backups above sells them.
+
+**🚫 Don't cross into Juárez for them.** On F-1 STEM OPT, a trip into Mexico and re-entry depends on your visa stamp, I-20 travel signature and EAD all lining up. That's not worth risking during your H-1B window. Everything on this list is on the US side.
+
+**⚠️ Hours:** many family-run El Paso spots close on **Mondays** or close early. Confirm each pick's Monday hours; if one is closed, swap in a backup.
 
 ---
 
 ## 📸 PHOTOGRAPHY SETTINGS REFERENCE
 
-| Location | ISO | Shutter | Aperture | Notes |
+| Subject | ISO | Shutter | Aperture | Notes |
 |---|---|---|---|---|
-| Davis Mtns ridges | 100–200 | 1/250–1/500 | f/8 | 70–200mm compression |
-| Balmorhea pool | 100–200 | 1/125–1/500 | f/8 | Polarizer |
-| Domes / El Capitan / dunes at sunset | 100 | 1/60–1/250 | f/8–f/11 | Bracket; sunstars |
-| Crescent moon + earthshine at blue hour | 200–800 | 1/4–2 s | f/5.6–f/8 | 70–200mm; bracket (moon vs. landscape) |
-| Milky Way (pre-dawn / post-moonset) | 3200–6400 | 15–20 s | f/2.8 | 14–24mm, manual focus on a bright star |
-| Andromeda / Pleiades / Orion Nebula | 1600–3200 | 2–4 s | f/2.8–f/4 | 70–200mm; short exposures to avoid trailing |
-| Meteors | 3200 | 20 s continuous | f/2.8 | Intervalometer |
-| McKittrick / Devil's Hall | 100–400 | 1/60–1/250 | f/8 | Polarizer for leaves; soft light in the slot |
+| El Capitan / escarpment at golden hour | 100 | 1/60–1/250 | f/8–f/11 | Bracket; sunstars at f/16 |
+| Guadalupe Peak summit (midday) | 100 | 1/500+ | f/8 | Polarizer; underexpose ⅓ stop |
+| McKittrick foliage | 100–400 | 1/60–1/250 | f/8 | Polarizer for leaf glare |
 | Carlsbad Natural Entrance | 3200–6400 | 1/30–1/60 | f/2.8 | Brace on rails; no flash |
-| Carlsbad Big Room | 1600–3200 | 2–15 s | f/4–f/8 | Stable surface; fix WB in RAW |
-| White Sands blue hour | 200–400 | 1/15–1 s | f/8 | Tripod |
-| El Paso blue hour | 200–800 | 2–15 s | f/8 | Tripod |
+| Carlsbad Big Room | 1600–3200 | 2–15 s | f/4–f/8 | Stable surface; WB fixed in RAW |
+| White Sands ripples | 100 | 1/250 | f/11 | Low angle; +⅔ EV so the sand stays white |
+| Organ Needles at sunset | 100 | 1/30–1/125 | f/8 | 70–200mm; tripod after sunset |
+| Murals | 200 | 1/250 | f/8 | Square-on |
+| Scenic Drive blue hour | 200–800 | 2–15 s | f/8 | Tripod |
 
-**Cold/wind note:** batteries drain fast near freezing; keep spares in an inside pocket. Warm the camera gradually in a sealed bag before entering a warm car. In wind, weight the tripod and lower the center column.
-
----
-
-## 🍴 FOOD — ONE GREAT LOCAL MEAL A DAY + GROCERY FUEL
-
-| Day | Region | Try | Notes |
-|---|---|---|---|
-| Thu | Junction / Sonora | Highway diner or gas-station tacos | Late-night fuel |
-| Fri | Fort Davis | Local diner / Stone Village Market | Small mountain town |
-| Sat | Guadalupe | **Pack in; no food in the park** | Stock up in Fort Davis |
-| Sun | Whites City → Alamogordo | **Green chile cheeseburger** to go | The New Mexico signature |
-| Mon | El Paso | **L&J Café** or **Chico's Tacos** | Food finale |
-| Daily | Road | H-E-B provisions + hot drinks in a thermos | Cold mornings |
-
-**Finds:** jarred New Mexico green chile · Alamogordo pistachios · park stickers (Guadalupe, Carlsbad, White Sands) · McDonald Observatory patch.
+**Cold/wind:** keep spare batteries in an inside pocket. Weight the tripod and lower the center column on the El Capitan pullouts.
 
 ---
 
-## 🚗 DRIVING REFERENCE
+## 🚗 DRIVING REFERENCE (estimates)
 
 | Day | Route | Miles |
 |---|---|---|
-| Thu Nov 12 | Austin → Davis Mtns (night) | ~500 |
-| Fri Nov 13 | Davis Mtns ↔ Balmorhea ↔ McDonald Obs | ~120 |
-| Sat Nov 14 | Davis Mtns → Guadalupe → McKittrick → Pine Springs | ~200 |
-| Sun Nov 15 | Pine Springs → Carlsbad Caverns → White Sands | ~255 |
-| Mon Nov 16 | White Sands → El Paso → Junction → Austin | ~665 |
-| **Total** | | **~1,740** |
-
-Zone shifts: gain 1 hr entering Mountain time (Sat); lose 1 hr returning to Central near Van Horn (Mon night).
-
----
-
-## 🎟️ ENTRY FEES + PERMITS
-
-| Location | Fee (verify) | Note |
-|---|---|---|
-| Davis Mountains SP | ~$6/person + campsite | TX State Park |
-| Balmorhea SP | ~$7/person | Check day-use capacity |
-| McDonald Observatory Star Party | ~$25–30 | **Reserve (Fri Nov 13)** |
-| Guadalupe Mountains NP | Pass | Covered |
-| Pine Springs Campground | ~$20/night | **Reserve (Sat Nov 14)** |
-| Carlsbad Caverns NP | Pass + $1 timed entry | **Earliest slot (Sun Nov 15)** |
-| White Sands NP | Pass | Covered |
-| White Sands backcountry permit | Small per-person fee | **Reserve (Sun Nov 15)** |
-| El Paso Scenic Drive / Mission Trail | Free | — |
+| Thu | Austin → Van Horn → TX-54 → Pine Springs | ~520 |
+| Fri | Local (sunrise pullout, El Capitan Viewpoint) | ~20 |
+| Sat | Pine Springs → McKittrick → Carlsbad → Salt Flat → El Paso | ~200 |
+| Sun | El Paso → San Augustin Pass → White Sands → Organs → El Paso | ~260 |
+| Mon | El Paso city loop + El Paso → Junction → Austin | ~635 |
+| **Total** | | **~1,635** |
 
 ---
 
@@ -365,65 +301,49 @@ Zone shifts: gain 1 hr entering Mountain time (Sat); lose 1 hr returning to Cent
 
 | Category | Low | High |
 |---|---|---|
-| Gas (~1,740 mi) | $175 | $240 |
-| Food, 5 days | $85 | $140 |
-| State parks + campsites | $20 | $60 |
-| McDonald Observatory | $25 | $60 |
-| Carlsbad + White Sands permits | $5 | $15 |
-| Cold-weather kit (if not owned) | $0 | $120 |
-| Showers | $0 | $25 |
-| **TOTAL** | **~$310** | **~$660** |
+| Gas (~1,635 mi; 25–30 mpg, $2.90–3.40/gal) | $158 | $222 |
+| Pine Springs, 2 nights ⚠️ | $40 | $40 |
+| El Paso, 2 nights (car sleep → budget motel) | $0 | $160 |
+| Carlsbad timed entry ⚠️ | $1 | $1 |
+| Dripping Springs day use ⚠️ | $5 | $5 |
+| Food (groceries + ~7 local meals) | $110 | $180 |
+| Showers / misc | $0 | $25 |
+| **TOTAL** | **~$314** | **~$633** |
 
 ---
 
-## 📸 TOP 12 DEFINING IMAGES
+## ⭐ GOLDEN-HOUR SCHEDULE — 8 SESSIONS
 
-| # | Image | Location | Light |
+| Day | Time (MST) | Location | Subject |
 |---|---|---|---|
-| 1 | Dune crest under the winter Milky Way | White Sands | Pre-dawn |
-| 2 | Untracked gypsum ripples at first light | White Sands | Sunrise |
-| 3 | El Capitan prow ablaze | Guadalupe | Sunset |
-| 4 | Telescope domes in last light | McDonald Observatory | Sunset |
-| 5 | Crescent moon above a dune crest, blue gypsum | White Sands | Blue hour |
-| 6 | Crescent with earthshine beside a dome | McDonald Observatory | Blue hour |
-| 7 | Escarpment under Orion | Guadalupe | Pre-dawn |
-| 8 | Maples on limestone *or* Devil's Hall staircase | McKittrick / Devil's Hall | Midday |
-| 9 | Giant formations in the Big Room | Carlsbad | Day |
-| 10 | Natural Entrance descending into dark | Carlsbad | Day |
-| 11 | Domes under the Milky Way | McDonald Observatory | Night |
-| 12 | El Paso + Juárez lights with the crescent above the Franklins | El Paso | Blue hour |
+| Fri | 6:27 AM | Guadalupe, east pullouts | First light on the escarpment |
+| Fri | **5:01 PM** | **El Capitan Viewpoint** | ⭐⭐ Prow ablaze |
+| Sat | 6:28 AM | Guadalupe, US-62/180 | East wall at dawn |
+| Sat | **5:01 PM** | **Salt Flat** | ⭐⭐ El Capitan west face over the flats |
+| Sun | 6:36 AM | **San Augustin Pass** | Sunrise over the Tularosa Basin |
+| Sun | **5:06 PM** | **Organ Needles** | ⭐⭐ Gold → pink spires |
+| Mon | 6:36 AM | **Mount Cristo Rey** | Three cities, two countries |
+| Mon | **5:07 PM** | **Scenic Drive** | ⭐⭐ Binational skyline + El Paso Star |
 
 ---
 
 ## PRIORITY SYSTEM
 
-**🔴 MUST-DO:** McDonald Obs (sunset + Star Party) · Balmorhea · Davis Mtns Scenic Loop · El Capitan (sunset + sunrise) · McKittrick *or* Devil's Hall · Carlsbad (Natural Entrance + Big Room) · White Sands (sunset + blue hour + pre-dawn + sunrise) · El Paso Mission Trail + sunset (Scenic Drive or Trans-Mountain Rd)
-**🟡 IF AHEAD:** Fort Davis NHS · Smith Spring · post-moonset session Fri · Dunes Drive second pass · Scenic Drive daytime panorama · Segundo Barrio murals
-**🟢 QUICK GRABS:** Frijole Ranch · roadside pullouts · small-town signs
+**🔴 MUST-DO:** Guadalupe Peak · El Capitan Viewpoint sunset · McKittrick · Carlsbad (Natural Entrance + Big Room) · Salt Flat sunset · White Sands · San Augustin Pass · La Cueva + Organ Needles sunset · Cristo Rey · mural walk · Whoopee Bowl · Casa de Azúcar · Scenic Drive + El Paso Star · colitas lonche
+**🟡 IF AHEAD:** El Paso Streetcar · Alkali Flat (vs. a free roam) · Carnitas & Burritos Yoni · blue-hour extensions
+**🟢 QUICK GRABS:** Dave's Pawn Shop sign · roadside pullouts
 
-## 🚫 EXCLUDED
-**Cut for time:** Monahans Sandhills · Walnut Canyon Drive · Rattlesnake Springs · Sitting Bull Falls · Carlsbad ranger tours · Moonlit dunes (the Oct 22–26 full-moon idea; this trip has a crescent moon instead).
-**Date-specific, not available on Nov 12–17:** **Día de los Muertos in El Paso** (Nov 1–2 only).
-**Saved for the Big Bend / Trans-Pecos trip:** Santa Elena Canyon · Chisos Basin · Ross Maxwell Drive · Terlingua · Big Bend Ranch SP · Marfa · Prada Marfa · Hueco Tanks.
+## 🚫 REMOVED FROM v1
+Astro / moon plan · Davis Mountains (Skyline Drive, Scenic Loop) · Balmorhea · Fort Davis NHS · McDonald Observatory + Star Party · White Sands backcountry night · Frijole Ranch. **Sawtooth Mountain** is kept as the optional Day 1 sunrise.
 
 ---
 
 ## FINAL CONFIRMATION
 
-- ✅ **Dates: Thu Nov 12 → Tue Nov 17, 2026** (4 full shooting days)
-- ✅ **Departure:** Thu 6:30 PM CST → Davis Mtns ~2:50 AM
-- ✅ **Return:** depart El Paso 5:40 PM MST → Junction → **Austin ~7:25 AM Tue**
-- ✅ **Moon handled:** evening crescent becomes a dusk subject; dark-sky sessions moved to pre-dawn (moonless every morning)
-- ✅ **Fall color honesty:** past the NPS best window; Wed Nov 11 check decides McKittrick vs. Devil's Hall
-- ✅ **No DST switch;** only Central ↔ Mountain zone shifts
-- ✅ **Three double-anchored locations** for sunset + sunrise
-- ✅ **Cold + wind planned for:** 20°F bag, no idling, heavy tripod
-
-**Book in this order:** (1) McDonald Star Party, Fri Nov 13 · (2) Carlsbad earliest timed entry, Sun Nov 15 · (3) White Sands backcountry site, Sun Nov 15 · (4) Pine Springs campsite, Sat Nov 14.
-
-**Hard deadlines:** Thu 6:30 PM leave Austin · **Sun 11:45 AM leave Carlsbad Caverns** · Mon 5:40 PM MST leave El Paso.
-
----
-
-### Alternative: if you can only leave Fri Nov 13 evening
-You lose a full day. Drive Friday night straight to **Pine Springs** (~520 mi via I-10 → Van Horn → TX-54, arrive ~2:00 AM MST), then run **Sat (Guadalupe) → Sun (Carlsbad + White Sands) → Mon (White Sands sunrise → El Paso → home)** exactly as above. **Cost:** McDonald Observatory (a 10/10 sunset + the Star Party), Balmorhea, and the Davis Mountains are dropped.
+- ✅ **Dates:** Thu Nov 12 → Tue Nov 17, 2026
+- ✅ **Day 1:** sunrise at Guadalupe (Sawtooth optional) → Guadalupe Peak → El Capitan Viewpoint sunset
+- ✅ **Day 2:** McKittrick + Carlsbad, with the sunset on the way to El Paso
+- ✅ **Day 3:** Organ Mountains + San Augustin Pass at golden hour, between White Sands and El Paso
+- ✅ **Day 4:** every El Paso spot, mural and must-eat you requested
+- ✅ **Book in this order:** (1) Pine Springs Thu + Fri · (2) Carlsbad Sat ~12:30 PM
+- ✅ **Hard deadlines:** Thu 6:30 PM leave Austin · Fri 11:30 AM Peak turnaround · **Sat 3:25 PM leave Whites City** · Sun exit Dripping Springs before the gate closes ⚠️ · Mon 5:40 PM MST leave El Paso
